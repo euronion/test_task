@@ -1,0 +1,5889 @@
+date_id,region,generation,value
+274,Austria,Biomass,124
+275,Austria,Biomass,168
+276,Austria,Biomass,96
+277,Austria,Biomass,96
+278,Austria,Biomass,96
+279,Austria,Biomass,96
+280,Austria,Biomass,96
+281,Austria,Biomass,134
+282,Austria,Biomass,168
+283,Austria,Biomass,96
+284,Austria,Biomass,96
+285,Austria,Biomass,96
+286,Austria,Biomass,96
+287,Austria,Biomass,96
+288,Austria,Biomass,124
+289,Austria,Biomass,168
+290,Austria,Biomass,96
+291,Austria,Biomass,96
+292,Austria,Biomass,97
+293,Austria,Biomass,96
+294,Austria,Biomass,96
+295,Austria,Biomass,135
+296,Austria,Biomass,166
+297,Austria,Biomass,96
+298,Austria,Biomass,118
+299,Austria,Biomass,156
+300,Austria,Biomass,96
+301,Austria,Biomass,96
+302,Austria,Biomass,156
+303,Austria,Biomass,172
+304,Austria,Biomass,336
+305,Austria,Biomass,6228
+306,Austria,Biomass,6173
+307,Austria,Biomass,6343
+308,Austria,Biomass,6053
+309,Austria,Biomass,6024
+310,Austria,Biomass,6200
+311,Austria,Biomass,5880
+312,Austria,Biomass,6068
+313,Austria,Biomass,6107
+314,Austria,Biomass,6117
+315,Austria,Biomass,6073
+316,Austria,Biomass,6159
+317,Austria,Biomass,6198
+318,Austria,Biomass,6037
+319,Austria,Biomass,5906
+320,Austria,Biomass,5792
+321,Austria,Biomass,5490
+322,Austria,Biomass,5498
+323,Austria,Biomass,5657
+324,Austria,Biomass,5671
+325,Austria,Biomass,5572
+326,Austria,Biomass,5856
+327,Austria,Biomass,5846
+328,Austria,Biomass,5512
+329,Austria,Biomass,5536
+330,Austria,Biomass,5806
+331,Austria,Biomass,5834
+332,Austria,Biomass,5684
+333,Austria,Biomass,5649
+334,Austria,Biomass,5989
+335,Austria,Biomass,5908
+336,Austria,Biomass,5712
+337,Austria,Biomass,5855
+338,Austria,Biomass,5744
+339,Austria,Biomass,5643
+340,Austria,Biomass,5978
+341,Austria,Biomass,6326
+342,Austria,Biomass,5643
+343,Austria,Biomass,5371
+344,Austria,Biomass,5685
+345,Austria,Biomass,5670
+346,Austria,Biomass,5481
+347,Austria,Biomass,5214
+348,Austria,Biomass,5560
+349,Austria,Biomass,6410
+350,Austria,Biomass,6488
+351,Austria,Biomass,5342
+352,Austria,Biomass,5393
+353,Austria,Biomass,5604
+354,Austria,Biomass,5570
+355,Austria,Biomass,5574
+356,Austria,Biomass,5783
+357,Austria,Biomass,5779
+358,Austria,Biomass,5701
+359,Austria,Biomass,5836
+360,Austria,Biomass,5827
+361,Austria,Biomass,5836
+362,Austria,Biomass,5821
+363,Austria,Biomass,5811
+364,Austria,Biomass,5675
+365,Austria,Biomass,240
+274,Austria,Dam Hydro,9135.75
+275,Austria,Dam Hydro,12577
+276,Austria,Dam Hydro,17005.25
+277,Austria,Dam Hydro,17991.75
+278,Austria,Dam Hydro,9142.25
+279,Austria,Dam Hydro,13721.25
+280,Austria,Dam Hydro,13820.5
+281,Austria,Dam Hydro,9144
+282,Austria,Dam Hydro,7261.5
+283,Austria,Dam Hydro,9250.75
+284,Austria,Dam Hydro,13390.25
+285,Austria,Dam Hydro,12565.5
+286,Austria,Dam Hydro,14587.25
+287,Austria,Dam Hydro,12758
+288,Austria,Dam Hydro,6168
+289,Austria,Dam Hydro,6372
+290,Austria,Dam Hydro,6810.5
+291,Austria,Dam Hydro,8215.75
+292,Austria,Dam Hydro,6925.25
+293,Austria,Dam Hydro,8853.5
+294,Austria,Dam Hydro,9436.5
+295,Austria,Dam Hydro,6894.75
+296,Austria,Dam Hydro,5041
+297,Austria,Dam Hydro,8418.5
+298,Austria,Dam Hydro,7470.5
+299,Austria,Dam Hydro,6638.25
+300,Austria,Dam Hydro,9670.25
+301,Austria,Dam Hydro,8582.5
+302,Austria,Dam Hydro,6151
+303,Austria,Dam Hydro,8937
+304,Austria,Dam Hydro,15712
+305,Austria,Dam Hydro,6728.5
+306,Austria,Dam Hydro,10672.75
+307,Austria,Dam Hydro,9040
+308,Austria,Dam Hydro,11920.75
+309,Austria,Dam Hydro,3521.75
+310,Austria,Dam Hydro,4777
+311,Austria,Dam Hydro,6145
+312,Austria,Dam Hydro,7440
+313,Austria,Dam Hydro,12141.75
+314,Austria,Dam Hydro,12223.75
+315,Austria,Dam Hydro,9680.75
+316,Austria,Dam Hydro,6757.75
+317,Austria,Dam Hydro,4793.25
+318,Austria,Dam Hydro,10146.5
+319,Austria,Dam Hydro,11791.5
+320,Austria,Dam Hydro,9166.25
+321,Austria,Dam Hydro,5133.75
+322,Austria,Dam Hydro,6829.25
+323,Austria,Dam Hydro,3592.25
+324,Austria,Dam Hydro,3090.5
+325,Austria,Dam Hydro,11388.25
+326,Austria,Dam Hydro,9031
+327,Austria,Dam Hydro,9039.25
+328,Austria,Dam Hydro,11091.5
+329,Austria,Dam Hydro,8712.25
+330,Austria,Dam Hydro,2233.75
+331,Austria,Dam Hydro,2835
+332,Austria,Dam Hydro,6069.5
+333,Austria,Dam Hydro,14776
+334,Austria,Dam Hydro,15140.25
+335,Austria,Dam Hydro,10625
+336,Austria,Dam Hydro,9670.75
+337,Austria,Dam Hydro,3676.5
+338,Austria,Dam Hydro,3717.75
+339,Austria,Dam Hydro,12095
+340,Austria,Dam Hydro,10504.5
+341,Austria,Dam Hydro,7743.25
+342,Austria,Dam Hydro,11573.25
+343,Austria,Dam Hydro,10260.25
+344,Austria,Dam Hydro,4690.75
+345,Austria,Dam Hydro,4177.25
+346,Austria,Dam Hydro,11142.75
+347,Austria,Dam Hydro,13123.25
+348,Austria,Dam Hydro,10503.75
+349,Austria,Dam Hydro,9041.5
+350,Austria,Dam Hydro,9982.25
+351,Austria,Dam Hydro,3247.5
+352,Austria,Dam Hydro,3148
+353,Austria,Dam Hydro,1817.25
+354,Austria,Dam Hydro,4423.75
+355,Austria,Dam Hydro,5231.25
+356,Austria,Dam Hydro,3805.75
+357,Austria,Dam Hydro,5170.25
+358,Austria,Dam Hydro,5826
+359,Austria,Dam Hydro,5424.75
+360,Austria,Dam Hydro,3871.75
+361,Austria,Dam Hydro,4553.5
+362,Austria,Dam Hydro,3623.5
+363,Austria,Dam Hydro,3558
+364,Austria,Dam Hydro,3804.25
+365,Austria,Dam Hydro,61.25
+274,Austria,Geothermal,0
+275,Austria,Geothermal,0
+276,Austria,Geothermal,0
+277,Austria,Geothermal,0
+278,Austria,Geothermal,0
+279,Austria,Geothermal,0
+280,Austria,Geothermal,0
+281,Austria,Geothermal,0
+282,Austria,Geothermal,0
+283,Austria,Geothermal,0
+284,Austria,Geothermal,0
+285,Austria,Geothermal,0
+286,Austria,Geothermal,0
+287,Austria,Geothermal,0
+288,Austria,Geothermal,0
+289,Austria,Geothermal,0
+290,Austria,Geothermal,0
+291,Austria,Geothermal,0
+292,Austria,Geothermal,0
+293,Austria,Geothermal,0
+294,Austria,Geothermal,0
+295,Austria,Geothermal,0
+296,Austria,Geothermal,0
+297,Austria,Geothermal,0
+298,Austria,Geothermal,0
+299,Austria,Geothermal,0
+300,Austria,Geothermal,0
+301,Austria,Geothermal,0
+302,Austria,Geothermal,0
+303,Austria,Geothermal,0
+304,Austria,Geothermal,0
+305,Austria,Geothermal,0
+306,Austria,Geothermal,0
+307,Austria,Geothermal,0
+308,Austria,Geothermal,0
+309,Austria,Geothermal,0
+310,Austria,Geothermal,0
+311,Austria,Geothermal,0
+312,Austria,Geothermal,0
+313,Austria,Geothermal,0
+314,Austria,Geothermal,0
+315,Austria,Geothermal,0
+316,Austria,Geothermal,0
+317,Austria,Geothermal,0
+318,Austria,Geothermal,0
+319,Austria,Geothermal,0
+320,Austria,Geothermal,0
+321,Austria,Geothermal,0
+322,Austria,Geothermal,0
+323,Austria,Geothermal,0
+324,Austria,Geothermal,0
+325,Austria,Geothermal,0
+326,Austria,Geothermal,0
+327,Austria,Geothermal,0
+328,Austria,Geothermal,0
+329,Austria,Geothermal,0
+330,Austria,Geothermal,0
+331,Austria,Geothermal,0
+332,Austria,Geothermal,0
+333,Austria,Geothermal,0
+334,Austria,Geothermal,0
+335,Austria,Geothermal,0
+336,Austria,Geothermal,0
+337,Austria,Geothermal,0
+338,Austria,Geothermal,0
+339,Austria,Geothermal,0
+340,Austria,Geothermal,0
+341,Austria,Geothermal,0
+342,Austria,Geothermal,0
+343,Austria,Geothermal,0
+344,Austria,Geothermal,0
+345,Austria,Geothermal,0
+346,Austria,Geothermal,0
+347,Austria,Geothermal,0
+348,Austria,Geothermal,0
+349,Austria,Geothermal,0
+350,Austria,Geothermal,0
+351,Austria,Geothermal,0
+352,Austria,Geothermal,0
+353,Austria,Geothermal,0
+354,Austria,Geothermal,0
+355,Austria,Geothermal,0
+356,Austria,Geothermal,0
+357,Austria,Geothermal,0
+358,Austria,Geothermal,0
+359,Austria,Geothermal,0
+360,Austria,Geothermal,0
+361,Austria,Geothermal,0
+362,Austria,Geothermal,0
+363,Austria,Geothermal,0
+364,Austria,Geothermal,0
+365,Austria,Geothermal,0
+274,Austria,Hard Coal,0
+275,Austria,Hard Coal,0
+276,Austria,Hard Coal,0
+277,Austria,Hard Coal,0
+278,Austria,Hard Coal,0
+279,Austria,Hard Coal,0
+280,Austria,Hard Coal,0
+281,Austria,Hard Coal,0
+282,Austria,Hard Coal,0
+283,Austria,Hard Coal,0
+284,Austria,Hard Coal,0
+285,Austria,Hard Coal,0
+286,Austria,Hard Coal,0
+287,Austria,Hard Coal,0
+288,Austria,Hard Coal,0
+289,Austria,Hard Coal,0
+290,Austria,Hard Coal,0
+291,Austria,Hard Coal,0
+292,Austria,Hard Coal,0
+293,Austria,Hard Coal,0
+294,Austria,Hard Coal,0
+295,Austria,Hard Coal,0
+296,Austria,Hard Coal,0
+297,Austria,Hard Coal,0
+298,Austria,Hard Coal,0
+299,Austria,Hard Coal,0
+300,Austria,Hard Coal,0
+301,Austria,Hard Coal,0
+302,Austria,Hard Coal,0
+303,Austria,Hard Coal,0
+304,Austria,Hard Coal,0
+305,Austria,Hard Coal,0
+306,Austria,Hard Coal,0
+307,Austria,Hard Coal,0
+308,Austria,Hard Coal,0
+309,Austria,Hard Coal,0
+310,Austria,Hard Coal,0
+311,Austria,Hard Coal,0
+312,Austria,Hard Coal,0
+313,Austria,Hard Coal,0
+314,Austria,Hard Coal,0
+315,Austria,Hard Coal,0
+316,Austria,Hard Coal,0
+317,Austria,Hard Coal,0
+318,Austria,Hard Coal,0
+319,Austria,Hard Coal,0
+320,Austria,Hard Coal,0
+321,Austria,Hard Coal,0
+322,Austria,Hard Coal,0
+323,Austria,Hard Coal,0
+324,Austria,Hard Coal,0
+325,Austria,Hard Coal,0
+326,Austria,Hard Coal,0
+327,Austria,Hard Coal,0
+328,Austria,Hard Coal,0
+329,Austria,Hard Coal,0
+330,Austria,Hard Coal,0
+331,Austria,Hard Coal,0
+332,Austria,Hard Coal,0
+333,Austria,Hard Coal,0
+334,Austria,Hard Coal,0
+335,Austria,Hard Coal,0
+336,Austria,Hard Coal,0
+337,Austria,Hard Coal,0
+338,Austria,Hard Coal,0
+339,Austria,Hard Coal,0
+340,Austria,Hard Coal,0
+341,Austria,Hard Coal,0
+342,Austria,Hard Coal,0
+343,Austria,Hard Coal,0
+344,Austria,Hard Coal,0
+345,Austria,Hard Coal,0
+346,Austria,Hard Coal,0
+347,Austria,Hard Coal,0
+348,Austria,Hard Coal,0
+349,Austria,Hard Coal,0
+350,Austria,Hard Coal,0
+351,Austria,Hard Coal,0
+352,Austria,Hard Coal,0
+353,Austria,Hard Coal,0
+354,Austria,Hard Coal,0
+355,Austria,Hard Coal,0
+356,Austria,Hard Coal,0
+357,Austria,Hard Coal,0
+358,Austria,Hard Coal,0
+359,Austria,Hard Coal,0
+360,Austria,Hard Coal,0
+361,Austria,Hard Coal,0
+362,Austria,Hard Coal,0
+363,Austria,Hard Coal,0
+364,Austria,Hard Coal,0
+365,Austria,Hard Coal,0
+274,Austria,Lignite,0
+275,Austria,Lignite,0
+276,Austria,Lignite,0
+277,Austria,Lignite,0
+278,Austria,Lignite,0
+279,Austria,Lignite,0
+280,Austria,Lignite,0
+281,Austria,Lignite,0
+282,Austria,Lignite,0
+283,Austria,Lignite,0
+284,Austria,Lignite,0
+285,Austria,Lignite,0
+286,Austria,Lignite,0
+287,Austria,Lignite,0
+288,Austria,Lignite,0
+289,Austria,Lignite,0
+290,Austria,Lignite,0
+291,Austria,Lignite,0
+292,Austria,Lignite,0
+293,Austria,Lignite,0
+294,Austria,Lignite,0
+295,Austria,Lignite,0
+296,Austria,Lignite,0
+297,Austria,Lignite,0
+298,Austria,Lignite,0
+299,Austria,Lignite,0
+300,Austria,Lignite,0
+301,Austria,Lignite,0
+302,Austria,Lignite,0
+303,Austria,Lignite,0
+304,Austria,Lignite,0
+305,Austria,Lignite,0
+306,Austria,Lignite,0
+307,Austria,Lignite,0
+308,Austria,Lignite,0
+309,Austria,Lignite,0
+310,Austria,Lignite,0
+311,Austria,Lignite,0
+312,Austria,Lignite,0
+313,Austria,Lignite,0
+314,Austria,Lignite,0
+315,Austria,Lignite,0
+316,Austria,Lignite,0
+317,Austria,Lignite,0
+318,Austria,Lignite,0
+319,Austria,Lignite,0
+320,Austria,Lignite,0
+321,Austria,Lignite,0
+322,Austria,Lignite,0
+323,Austria,Lignite,0
+324,Austria,Lignite,0
+325,Austria,Lignite,0
+326,Austria,Lignite,0
+327,Austria,Lignite,0
+328,Austria,Lignite,0
+329,Austria,Lignite,0
+330,Austria,Lignite,0
+331,Austria,Lignite,0
+332,Austria,Lignite,0
+333,Austria,Lignite,0
+334,Austria,Lignite,0
+335,Austria,Lignite,0
+336,Austria,Lignite,0
+337,Austria,Lignite,0
+338,Austria,Lignite,0
+339,Austria,Lignite,0
+340,Austria,Lignite,0
+341,Austria,Lignite,0
+342,Austria,Lignite,0
+343,Austria,Lignite,0
+344,Austria,Lignite,0
+345,Austria,Lignite,0
+346,Austria,Lignite,0
+347,Austria,Lignite,0
+348,Austria,Lignite,0
+349,Austria,Lignite,0
+350,Austria,Lignite,0
+351,Austria,Lignite,0
+352,Austria,Lignite,0
+353,Austria,Lignite,0
+354,Austria,Lignite,0
+355,Austria,Lignite,0
+356,Austria,Lignite,0
+357,Austria,Lignite,0
+358,Austria,Lignite,0
+359,Austria,Lignite,0
+360,Austria,Lignite,0
+361,Austria,Lignite,0
+362,Austria,Lignite,0
+363,Austria,Lignite,0
+364,Austria,Lignite,0
+365,Austria,Lignite,0
+274,Austria,Natural Gas,2042.5
+275,Austria,Natural Gas,2088.75
+276,Austria,Natural Gas,9441.5
+277,Austria,Natural Gas,20569.5
+278,Austria,Natural Gas,9104.5
+279,Austria,Natural Gas,19476.5
+280,Austria,Natural Gas,25350.25
+281,Austria,Natural Gas,1134.5
+282,Austria,Natural Gas,4426.25
+283,Austria,Natural Gas,29724.5
+284,Austria,Natural Gas,44219
+285,Austria,Natural Gas,44488.5
+286,Austria,Natural Gas,29195
+287,Austria,Natural Gas,19927.5
+288,Austria,Natural Gas,9826
+289,Austria,Natural Gas,7872.5
+290,Austria,Natural Gas,40817
+291,Austria,Natural Gas,46799
+292,Austria,Natural Gas,44497.25
+293,Austria,Natural Gas,12086.75
+294,Austria,Natural Gas,32515
+295,Austria,Natural Gas,37158.75
+296,Austria,Natural Gas,30593.25
+297,Austria,Natural Gas,51815.75
+298,Austria,Natural Gas,49869.25
+299,Austria,Natural Gas,47640.5
+300,Austria,Natural Gas,32218.75
+301,Austria,Natural Gas,39559.5
+302,Austria,Natural Gas,33501.5
+303,Austria,Natural Gas,11036.5
+304,Austria,Natural Gas,30136.5
+305,Austria,Natural Gas,25732.25
+306,Austria,Natural Gas,48323.5
+307,Austria,Natural Gas,41697.25
+308,Austria,Natural Gas,35193.5
+309,Austria,Natural Gas,28207
+310,Austria,Natural Gas,22839.75
+311,Austria,Natural Gas,45908
+312,Austria,Natural Gas,57879.5
+313,Austria,Natural Gas,39576.75
+314,Austria,Natural Gas,39797
+315,Austria,Natural Gas,42871
+316,Austria,Natural Gas,21779.5
+317,Austria,Natural Gas,20307.5
+318,Austria,Natural Gas,30554.5
+319,Austria,Natural Gas,45785.75
+320,Austria,Natural Gas,46486.75
+321,Austria,Natural Gas,48904
+322,Austria,Natural Gas,58124.5
+323,Austria,Natural Gas,27846.75
+324,Austria,Natural Gas,26306
+325,Austria,Natural Gas,41299
+326,Austria,Natural Gas,36955.75
+327,Austria,Natural Gas,46723
+328,Austria,Natural Gas,44810.5
+329,Austria,Natural Gas,49221
+330,Austria,Natural Gas,26822.5
+331,Austria,Natural Gas,26868.25
+332,Austria,Natural Gas,48940.25
+333,Austria,Natural Gas,58008
+334,Austria,Natural Gas,60526.5
+335,Austria,Natural Gas,61138.5
+336,Austria,Natural Gas,68491.25
+337,Austria,Natural Gas,30618.5
+338,Austria,Natural Gas,28527
+339,Austria,Natural Gas,66618.75
+340,Austria,Natural Gas,59369.5
+341,Austria,Natural Gas,65379.25
+342,Austria,Natural Gas,53363.25
+343,Austria,Natural Gas,62523
+344,Austria,Natural Gas,50079.75
+345,Austria,Natural Gas,39711.25
+346,Austria,Natural Gas,55014.75
+347,Austria,Natural Gas,59102
+348,Austria,Natural Gas,62153
+349,Austria,Natural Gas,63814.75
+350,Austria,Natural Gas,63977
+351,Austria,Natural Gas,45934
+352,Austria,Natural Gas,34334.5
+353,Austria,Natural Gas,42948
+354,Austria,Natural Gas,57153
+355,Austria,Natural Gas,39037
+356,Austria,Natural Gas,43467
+357,Austria,Natural Gas,33717.25
+358,Austria,Natural Gas,14771
+359,Austria,Natural Gas,12311.25
+360,Austria,Natural Gas,729.75
+361,Austria,Natural Gas,9953.5
+362,Austria,Natural Gas,8092.5
+363,Austria,Natural Gas,4956.25
+364,Austria,Natural Gas,609.5
+365,Austria,Natural Gas,10
+274,Austria,Non-renewable waste,2400
+275,Austria,Non-renewable waste,2400
+276,Austria,Non-renewable waste,2400
+277,Austria,Non-renewable waste,2400
+278,Austria,Non-renewable waste,2400
+279,Austria,Non-renewable waste,2400
+280,Austria,Non-renewable waste,2400
+281,Austria,Non-renewable waste,2400
+282,Austria,Non-renewable waste,2400
+283,Austria,Non-renewable waste,2400
+284,Austria,Non-renewable waste,2400
+285,Austria,Non-renewable waste,2400
+286,Austria,Non-renewable waste,2400
+287,Austria,Non-renewable waste,2400
+288,Austria,Non-renewable waste,2400
+289,Austria,Non-renewable waste,2400
+290,Austria,Non-renewable waste,2400
+291,Austria,Non-renewable waste,2400
+292,Austria,Non-renewable waste,2400
+293,Austria,Non-renewable waste,2400
+294,Austria,Non-renewable waste,2400
+295,Austria,Non-renewable waste,2400
+296,Austria,Non-renewable waste,2400
+297,Austria,Non-renewable waste,2400
+298,Austria,Non-renewable waste,2400
+299,Austria,Non-renewable waste,2400
+300,Austria,Non-renewable waste,2400
+301,Austria,Non-renewable waste,2400
+302,Austria,Non-renewable waste,2400
+303,Austria,Non-renewable waste,2400
+304,Austria,Non-renewable waste,2400
+305,Austria,Non-renewable waste,2400
+306,Austria,Non-renewable waste,2400
+307,Austria,Non-renewable waste,2400
+308,Austria,Non-renewable waste,2400
+309,Austria,Non-renewable waste,2400
+310,Austria,Non-renewable waste,2400
+311,Austria,Non-renewable waste,2400
+312,Austria,Non-renewable waste,2400
+313,Austria,Non-renewable waste,2400
+314,Austria,Non-renewable waste,2400
+315,Austria,Non-renewable waste,2400
+316,Austria,Non-renewable waste,2400
+317,Austria,Non-renewable waste,2400
+318,Austria,Non-renewable waste,2400
+319,Austria,Non-renewable waste,2400
+320,Austria,Non-renewable waste,2400
+321,Austria,Non-renewable waste,2400
+322,Austria,Non-renewable waste,2400
+323,Austria,Non-renewable waste,2400
+324,Austria,Non-renewable waste,2400
+325,Austria,Non-renewable waste,2400
+326,Austria,Non-renewable waste,2400
+327,Austria,Non-renewable waste,2400
+328,Austria,Non-renewable waste,2400
+329,Austria,Non-renewable waste,2400
+330,Austria,Non-renewable waste,2400
+331,Austria,Non-renewable waste,2400
+332,Austria,Non-renewable waste,2400
+333,Austria,Non-renewable waste,2400
+334,Austria,Non-renewable waste,2400
+335,Austria,Non-renewable waste,2400
+336,Austria,Non-renewable waste,2400
+337,Austria,Non-renewable waste,2400
+338,Austria,Non-renewable waste,2400
+339,Austria,Non-renewable waste,2400
+340,Austria,Non-renewable waste,2400
+341,Austria,Non-renewable waste,2400
+342,Austria,Non-renewable waste,2400
+343,Austria,Non-renewable waste,2400
+344,Austria,Non-renewable waste,2400
+345,Austria,Non-renewable waste,2400
+346,Austria,Non-renewable waste,2400
+347,Austria,Non-renewable waste,2400
+348,Austria,Non-renewable waste,2400
+349,Austria,Non-renewable waste,2400
+350,Austria,Non-renewable waste,2400
+351,Austria,Non-renewable waste,2400
+352,Austria,Non-renewable waste,2400
+353,Austria,Non-renewable waste,2400
+354,Austria,Non-renewable waste,2400
+355,Austria,Non-renewable waste,2400
+356,Austria,Non-renewable waste,2400
+357,Austria,Non-renewable waste,2400
+358,Austria,Non-renewable waste,2400
+359,Austria,Non-renewable waste,2400
+360,Austria,Non-renewable waste,2400
+361,Austria,Non-renewable waste,2400
+362,Austria,Non-renewable waste,2400
+363,Austria,Non-renewable waste,2400
+364,Austria,Non-renewable waste,2400
+365,Austria,Non-renewable waste,100
+274,Austria,Nuclear,0
+275,Austria,Nuclear,0
+276,Austria,Nuclear,0
+277,Austria,Nuclear,0
+278,Austria,Nuclear,0
+279,Austria,Nuclear,0
+280,Austria,Nuclear,0
+281,Austria,Nuclear,0
+282,Austria,Nuclear,0
+283,Austria,Nuclear,0
+284,Austria,Nuclear,0
+285,Austria,Nuclear,0
+286,Austria,Nuclear,0
+287,Austria,Nuclear,0
+288,Austria,Nuclear,0
+289,Austria,Nuclear,0
+290,Austria,Nuclear,0
+291,Austria,Nuclear,0
+292,Austria,Nuclear,0
+293,Austria,Nuclear,0
+294,Austria,Nuclear,0
+295,Austria,Nuclear,0
+296,Austria,Nuclear,0
+297,Austria,Nuclear,0
+298,Austria,Nuclear,0
+299,Austria,Nuclear,0
+300,Austria,Nuclear,0
+301,Austria,Nuclear,0
+302,Austria,Nuclear,0
+303,Austria,Nuclear,0
+304,Austria,Nuclear,0
+305,Austria,Nuclear,0
+306,Austria,Nuclear,0
+307,Austria,Nuclear,0
+308,Austria,Nuclear,0
+309,Austria,Nuclear,0
+310,Austria,Nuclear,0
+311,Austria,Nuclear,0
+312,Austria,Nuclear,0
+313,Austria,Nuclear,0
+314,Austria,Nuclear,0
+315,Austria,Nuclear,0
+316,Austria,Nuclear,0
+317,Austria,Nuclear,0
+318,Austria,Nuclear,0
+319,Austria,Nuclear,0
+320,Austria,Nuclear,0
+321,Austria,Nuclear,0
+322,Austria,Nuclear,0
+323,Austria,Nuclear,0
+324,Austria,Nuclear,0
+325,Austria,Nuclear,0
+326,Austria,Nuclear,0
+327,Austria,Nuclear,0
+328,Austria,Nuclear,0
+329,Austria,Nuclear,0
+330,Austria,Nuclear,0
+331,Austria,Nuclear,0
+332,Austria,Nuclear,0
+333,Austria,Nuclear,0
+334,Austria,Nuclear,0
+335,Austria,Nuclear,0
+336,Austria,Nuclear,0
+337,Austria,Nuclear,0
+338,Austria,Nuclear,0
+339,Austria,Nuclear,0
+340,Austria,Nuclear,0
+341,Austria,Nuclear,0
+342,Austria,Nuclear,0
+343,Austria,Nuclear,0
+344,Austria,Nuclear,0
+345,Austria,Nuclear,0
+346,Austria,Nuclear,0
+347,Austria,Nuclear,0
+348,Austria,Nuclear,0
+349,Austria,Nuclear,0
+350,Austria,Nuclear,0
+351,Austria,Nuclear,0
+352,Austria,Nuclear,0
+353,Austria,Nuclear,0
+354,Austria,Nuclear,0
+355,Austria,Nuclear,0
+356,Austria,Nuclear,0
+357,Austria,Nuclear,0
+358,Austria,Nuclear,0
+359,Austria,Nuclear,0
+360,Austria,Nuclear,0
+361,Austria,Nuclear,0
+362,Austria,Nuclear,0
+363,Austria,Nuclear,0
+364,Austria,Nuclear,0
+365,Austria,Nuclear,0
+274,Austria,Oil,0
+275,Austria,Oil,0
+276,Austria,Oil,0
+277,Austria,Oil,0
+278,Austria,Oil,0
+279,Austria,Oil,0
+280,Austria,Oil,0
+281,Austria,Oil,0
+282,Austria,Oil,0
+283,Austria,Oil,0
+284,Austria,Oil,0
+285,Austria,Oil,0
+286,Austria,Oil,0
+287,Austria,Oil,0
+288,Austria,Oil,0
+289,Austria,Oil,0
+290,Austria,Oil,0
+291,Austria,Oil,0
+292,Austria,Oil,0
+293,Austria,Oil,0
+294,Austria,Oil,0
+295,Austria,Oil,0
+296,Austria,Oil,0
+297,Austria,Oil,0
+298,Austria,Oil,0
+299,Austria,Oil,0
+300,Austria,Oil,0
+301,Austria,Oil,0
+302,Austria,Oil,0
+303,Austria,Oil,0
+304,Austria,Oil,0
+305,Austria,Oil,0
+306,Austria,Oil,0
+307,Austria,Oil,0
+308,Austria,Oil,0
+309,Austria,Oil,0
+310,Austria,Oil,0
+311,Austria,Oil,0
+312,Austria,Oil,0
+313,Austria,Oil,0
+314,Austria,Oil,0
+315,Austria,Oil,0
+316,Austria,Oil,0
+317,Austria,Oil,0
+318,Austria,Oil,0
+319,Austria,Oil,0
+320,Austria,Oil,0
+321,Austria,Oil,0
+322,Austria,Oil,0
+323,Austria,Oil,0
+324,Austria,Oil,0
+325,Austria,Oil,0
+326,Austria,Oil,0
+327,Austria,Oil,0
+328,Austria,Oil,0
+329,Austria,Oil,0
+330,Austria,Oil,0
+331,Austria,Oil,0
+332,Austria,Oil,0
+333,Austria,Oil,0
+334,Austria,Oil,0
+335,Austria,Oil,0
+336,Austria,Oil,0
+337,Austria,Oil,0
+338,Austria,Oil,0
+339,Austria,Oil,0
+340,Austria,Oil,0
+341,Austria,Oil,0
+342,Austria,Oil,0
+343,Austria,Oil,0
+344,Austria,Oil,0
+345,Austria,Oil,0
+346,Austria,Oil,0
+347,Austria,Oil,0
+348,Austria,Oil,0
+349,Austria,Oil,0
+350,Austria,Oil,0
+351,Austria,Oil,0
+352,Austria,Oil,0
+353,Austria,Oil,0
+354,Austria,Oil,0
+355,Austria,Oil,0
+356,Austria,Oil,0
+357,Austria,Oil,0
+358,Austria,Oil,0
+359,Austria,Oil,0
+360,Austria,Oil,0
+361,Austria,Oil,0
+362,Austria,Oil,0
+363,Austria,Oil,0
+364,Austria,Oil,0
+365,Austria,Oil,0
+274,Austria,Other fossil fuel,528
+275,Austria,Other fossil fuel,528
+276,Austria,Other fossil fuel,528
+277,Austria,Other fossil fuel,528
+278,Austria,Other fossil fuel,528
+279,Austria,Other fossil fuel,528
+280,Austria,Other fossil fuel,528
+281,Austria,Other fossil fuel,528
+282,Austria,Other fossil fuel,528
+283,Austria,Other fossil fuel,528
+284,Austria,Other fossil fuel,528
+285,Austria,Other fossil fuel,528
+286,Austria,Other fossil fuel,528
+287,Austria,Other fossil fuel,528
+288,Austria,Other fossil fuel,528
+289,Austria,Other fossil fuel,528
+290,Austria,Other fossil fuel,528
+291,Austria,Other fossil fuel,528
+292,Austria,Other fossil fuel,528
+293,Austria,Other fossil fuel,528
+294,Austria,Other fossil fuel,528
+295,Austria,Other fossil fuel,528
+296,Austria,Other fossil fuel,528
+297,Austria,Other fossil fuel,528
+298,Austria,Other fossil fuel,528
+299,Austria,Other fossil fuel,528
+300,Austria,Other fossil fuel,528
+301,Austria,Other fossil fuel,528
+302,Austria,Other fossil fuel,528
+303,Austria,Other fossil fuel,528
+304,Austria,Other fossil fuel,528
+305,Austria,Other fossil fuel,528
+306,Austria,Other fossil fuel,528
+307,Austria,Other fossil fuel,528
+308,Austria,Other fossil fuel,528
+309,Austria,Other fossil fuel,528
+310,Austria,Other fossil fuel,528
+311,Austria,Other fossil fuel,528
+312,Austria,Other fossil fuel,528
+313,Austria,Other fossil fuel,528
+314,Austria,Other fossil fuel,528
+315,Austria,Other fossil fuel,528
+316,Austria,Other fossil fuel,528
+317,Austria,Other fossil fuel,528
+318,Austria,Other fossil fuel,528
+319,Austria,Other fossil fuel,528
+320,Austria,Other fossil fuel,528
+321,Austria,Other fossil fuel,528
+322,Austria,Other fossil fuel,528
+323,Austria,Other fossil fuel,528
+324,Austria,Other fossil fuel,528
+325,Austria,Other fossil fuel,528
+326,Austria,Other fossil fuel,528
+327,Austria,Other fossil fuel,528
+328,Austria,Other fossil fuel,528
+329,Austria,Other fossil fuel,528
+330,Austria,Other fossil fuel,528
+331,Austria,Other fossil fuel,528
+332,Austria,Other fossil fuel,528
+333,Austria,Other fossil fuel,528
+334,Austria,Other fossil fuel,528
+335,Austria,Other fossil fuel,528
+336,Austria,Other fossil fuel,528
+337,Austria,Other fossil fuel,528
+338,Austria,Other fossil fuel,528
+339,Austria,Other fossil fuel,528
+340,Austria,Other fossil fuel,528
+341,Austria,Other fossil fuel,528
+342,Austria,Other fossil fuel,528
+343,Austria,Other fossil fuel,528
+344,Austria,Other fossil fuel,528
+345,Austria,Other fossil fuel,528
+346,Austria,Other fossil fuel,528
+347,Austria,Other fossil fuel,528
+348,Austria,Other fossil fuel,528
+349,Austria,Other fossil fuel,528
+350,Austria,Other fossil fuel,528
+351,Austria,Other fossil fuel,528
+352,Austria,Other fossil fuel,528
+353,Austria,Other fossil fuel,528
+354,Austria,Other fossil fuel,528
+355,Austria,Other fossil fuel,528
+356,Austria,Other fossil fuel,528
+357,Austria,Other fossil fuel,528
+358,Austria,Other fossil fuel,528
+359,Austria,Other fossil fuel,528
+360,Austria,Other fossil fuel,528
+361,Austria,Other fossil fuel,528
+362,Austria,Other fossil fuel,528
+363,Austria,Other fossil fuel,528
+364,Austria,Other fossil fuel,528
+365,Austria,Other fossil fuel,22
+274,Austria,Other renewables,0
+275,Austria,Other renewables,0
+276,Austria,Other renewables,0
+277,Austria,Other renewables,0
+278,Austria,Other renewables,0
+279,Austria,Other renewables,0
+280,Austria,Other renewables,0
+281,Austria,Other renewables,0
+282,Austria,Other renewables,0
+283,Austria,Other renewables,0
+284,Austria,Other renewables,0
+285,Austria,Other renewables,0
+286,Austria,Other renewables,0
+287,Austria,Other renewables,0
+288,Austria,Other renewables,0
+289,Austria,Other renewables,0
+290,Austria,Other renewables,0
+291,Austria,Other renewables,0
+292,Austria,Other renewables,0
+293,Austria,Other renewables,0
+294,Austria,Other renewables,0
+295,Austria,Other renewables,0
+296,Austria,Other renewables,0
+297,Austria,Other renewables,0
+298,Austria,Other renewables,0
+299,Austria,Other renewables,0
+300,Austria,Other renewables,0
+301,Austria,Other renewables,0
+302,Austria,Other renewables,0
+303,Austria,Other renewables,0
+304,Austria,Other renewables,0
+305,Austria,Other renewables,0
+306,Austria,Other renewables,0
+307,Austria,Other renewables,0
+308,Austria,Other renewables,0
+309,Austria,Other renewables,0
+310,Austria,Other renewables,0
+311,Austria,Other renewables,0
+312,Austria,Other renewables,0
+313,Austria,Other renewables,0
+314,Austria,Other renewables,0
+315,Austria,Other renewables,0
+316,Austria,Other renewables,0
+317,Austria,Other renewables,0
+318,Austria,Other renewables,0
+319,Austria,Other renewables,0
+320,Austria,Other renewables,0
+321,Austria,Other renewables,0
+322,Austria,Other renewables,0
+323,Austria,Other renewables,0
+324,Austria,Other renewables,0
+325,Austria,Other renewables,0
+326,Austria,Other renewables,0
+327,Austria,Other renewables,0
+328,Austria,Other renewables,0
+329,Austria,Other renewables,0
+330,Austria,Other renewables,0
+331,Austria,Other renewables,0
+332,Austria,Other renewables,0
+333,Austria,Other renewables,0
+334,Austria,Other renewables,0
+335,Austria,Other renewables,0
+336,Austria,Other renewables,0
+337,Austria,Other renewables,0
+338,Austria,Other renewables,0
+339,Austria,Other renewables,0
+340,Austria,Other renewables,0
+341,Austria,Other renewables,0
+342,Austria,Other renewables,0
+343,Austria,Other renewables,0
+344,Austria,Other renewables,0
+345,Austria,Other renewables,0
+346,Austria,Other renewables,0
+347,Austria,Other renewables,0
+348,Austria,Other renewables,0
+349,Austria,Other renewables,0
+350,Austria,Other renewables,0
+351,Austria,Other renewables,0
+352,Austria,Other renewables,0
+353,Austria,Other renewables,0
+354,Austria,Other renewables,0
+355,Austria,Other renewables,0
+356,Austria,Other renewables,0
+357,Austria,Other renewables,0
+358,Austria,Other renewables,0
+359,Austria,Other renewables,0
+360,Austria,Other renewables,0
+361,Austria,Other renewables,0
+362,Austria,Other renewables,0
+363,Austria,Other renewables,0
+364,Austria,Other renewables,0
+365,Austria,Other renewables,0
+274,Austria,Pumped storage generation,669.75
+275,Austria,Pumped storage generation,1428.75
+276,Austria,Pumped storage generation,12049.25
+277,Austria,Pumped storage generation,21658
+278,Austria,Pumped storage generation,5108.75
+279,Austria,Pumped storage generation,31537.75
+280,Austria,Pumped storage generation,25305.75
+281,Austria,Pumped storage generation,9587.75
+282,Austria,Pumped storage generation,2506.75
+283,Austria,Pumped storage generation,8884.5
+284,Austria,Pumped storage generation,28636.75
+285,Austria,Pumped storage generation,27381.5
+286,Austria,Pumped storage generation,31342.5
+287,Austria,Pumped storage generation,18182
+288,Austria,Pumped storage generation,2174.25
+289,Austria,Pumped storage generation,2599.25
+290,Austria,Pumped storage generation,8777
+291,Austria,Pumped storage generation,11975
+292,Austria,Pumped storage generation,10299.25
+293,Austria,Pumped storage generation,18510.5
+294,Austria,Pumped storage generation,18756.25
+295,Austria,Pumped storage generation,1134
+296,Austria,Pumped storage generation,0
+297,Austria,Pumped storage generation,11246.25
+298,Austria,Pumped storage generation,10330.5
+299,Austria,Pumped storage generation,13360.25
+300,Austria,Pumped storage generation,24207.25
+301,Austria,Pumped storage generation,14970.25
+302,Austria,Pumped storage generation,7064.25
+303,Austria,Pumped storage generation,15736
+304,Austria,Pumped storage generation,33060.75
+305,Austria,Pumped storage generation,6885.5
+306,Austria,Pumped storage generation,19220
+307,Austria,Pumped storage generation,16182.5
+308,Austria,Pumped storage generation,17777.75
+309,Austria,Pumped storage generation,1095.25
+310,Austria,Pumped storage generation,3348.25
+311,Austria,Pumped storage generation,8205.75
+312,Austria,Pumped storage generation,6539.5
+313,Austria,Pumped storage generation,23546.5
+314,Austria,Pumped storage generation,23331
+315,Austria,Pumped storage generation,9400
+316,Austria,Pumped storage generation,7090.25
+317,Austria,Pumped storage generation,3441.5
+318,Austria,Pumped storage generation,18191.25
+319,Austria,Pumped storage generation,11138.75
+320,Austria,Pumped storage generation,12859.25
+321,Austria,Pumped storage generation,4670.25
+322,Austria,Pumped storage generation,12961.25
+323,Austria,Pumped storage generation,576.5
+324,Austria,Pumped storage generation,1121.5
+325,Austria,Pumped storage generation,17826
+326,Austria,Pumped storage generation,6595.75
+327,Austria,Pumped storage generation,7312.75
+328,Austria,Pumped storage generation,23044
+329,Austria,Pumped storage generation,13735.5
+330,Austria,Pumped storage generation,2253.5
+331,Austria,Pumped storage generation,1552.75
+332,Austria,Pumped storage generation,23277
+333,Austria,Pumped storage generation,24607.75
+334,Austria,Pumped storage generation,18817.25
+335,Austria,Pumped storage generation,20416.5
+336,Austria,Pumped storage generation,18406.25
+337,Austria,Pumped storage generation,6581.75
+338,Austria,Pumped storage generation,534.25
+339,Austria,Pumped storage generation,23568
+340,Austria,Pumped storage generation,20112.5
+341,Austria,Pumped storage generation,18830.75
+342,Austria,Pumped storage generation,23236
+343,Austria,Pumped storage generation,26507.25
+344,Austria,Pumped storage generation,2703
+345,Austria,Pumped storage generation,1761.5
+346,Austria,Pumped storage generation,20505
+347,Austria,Pumped storage generation,24752.5
+348,Austria,Pumped storage generation,22375.5
+349,Austria,Pumped storage generation,24070.75
+350,Austria,Pumped storage generation,23748.75
+351,Austria,Pumped storage generation,5737
+352,Austria,Pumped storage generation,9408
+353,Austria,Pumped storage generation,4482.75
+354,Austria,Pumped storage generation,19303.75
+355,Austria,Pumped storage generation,12165.25
+356,Austria,Pumped storage generation,13243.75
+357,Austria,Pumped storage generation,9018
+358,Austria,Pumped storage generation,10093.25
+359,Austria,Pumped storage generation,710
+360,Austria,Pumped storage generation,0
+361,Austria,Pumped storage generation,13222
+362,Austria,Pumped storage generation,3624.5
+363,Austria,Pumped storage generation,11503
+364,Austria,Pumped storage generation,17865.75
+365,Austria,Pumped storage generation,0
+274,Austria,Run-of-River Hydro,88032.5
+275,Austria,Run-of-River Hydro,94532.75
+276,Austria,Run-of-River Hydro,106639.75
+277,Austria,Run-of-River Hydro,106599.5
+278,Austria,Run-of-River Hydro,104635
+279,Austria,Run-of-River Hydro,93587
+280,Austria,Run-of-River Hydro,87462.75
+281,Austria,Run-of-River Hydro,85583.5
+282,Austria,Run-of-River Hydro,83383
+283,Austria,Run-of-River Hydro,72338
+284,Austria,Run-of-River Hydro,67182
+285,Austria,Run-of-River Hydro,68765.75
+286,Austria,Run-of-River Hydro,66212.5
+287,Austria,Run-of-River Hydro,67876
+288,Austria,Run-of-River Hydro,70039
+289,Austria,Run-of-River Hydro,70575
+290,Austria,Run-of-River Hydro,61661.5
+291,Austria,Run-of-River Hydro,58771.25
+292,Austria,Run-of-River Hydro,55886.75
+293,Austria,Run-of-River Hydro,57882.75
+294,Austria,Run-of-River Hydro,54132.75
+295,Austria,Run-of-River Hydro,56845.75
+296,Austria,Run-of-River Hydro,59982
+297,Austria,Run-of-River Hydro,56329.5
+298,Austria,Run-of-River Hydro,71744.5
+299,Austria,Run-of-River Hydro,69767.5
+300,Austria,Run-of-River Hydro,66944.5
+301,Austria,Run-of-River Hydro,61887
+302,Austria,Run-of-River Hydro,57881.75
+303,Austria,Run-of-River Hydro,58533.75
+304,Austria,Run-of-River Hydro,55654.5
+305,Austria,Run-of-River Hydro,51728
+306,Austria,Run-of-River Hydro,46222.5
+307,Austria,Run-of-River Hydro,47863.5
+308,Austria,Run-of-River Hydro,53787.75
+309,Austria,Run-of-River Hydro,68159
+310,Austria,Run-of-River Hydro,60703.5
+311,Austria,Run-of-River Hydro,55380.333
+312,Austria,Run-of-River Hydro,49085
+313,Austria,Run-of-River Hydro,46731
+314,Austria,Run-of-River Hydro,50430.25
+315,Austria,Run-of-River Hydro,50671.5
+316,Austria,Run-of-River Hydro,48686.75
+317,Austria,Run-of-River Hydro,45844
+318,Austria,Run-of-River Hydro,45226
+319,Austria,Run-of-River Hydro,44098.75
+320,Austria,Run-of-River Hydro,44295
+321,Austria,Run-of-River Hydro,43917.25
+322,Austria,Run-of-River Hydro,44249.25
+323,Austria,Run-of-River Hydro,53083.75
+324,Austria,Run-of-River Hydro,53651.25
+325,Austria,Run-of-River Hydro,52510
+326,Austria,Run-of-River Hydro,50026.75
+327,Austria,Run-of-River Hydro,50952
+328,Austria,Run-of-River Hydro,54885.75
+329,Austria,Run-of-River Hydro,58380.25
+330,Austria,Run-of-River Hydro,54814.25
+331,Austria,Run-of-River Hydro,49286.25
+332,Austria,Run-of-River Hydro,52205.75
+333,Austria,Run-of-River Hydro,53836.5
+334,Austria,Run-of-River Hydro,52374
+335,Austria,Run-of-River Hydro,48596.75
+336,Austria,Run-of-River Hydro,49237.25
+337,Austria,Run-of-River Hydro,42769
+338,Austria,Run-of-River Hydro,43927.25
+339,Austria,Run-of-River Hydro,44176.75
+340,Austria,Run-of-River Hydro,50648.75
+341,Austria,Run-of-River Hydro,46213.25
+342,Austria,Run-of-River Hydro,48454.75
+343,Austria,Run-of-River Hydro,50925.25
+344,Austria,Run-of-River Hydro,42752.5
+345,Austria,Run-of-River Hydro,36875.25
+346,Austria,Run-of-River Hydro,40210.75
+347,Austria,Run-of-River Hydro,40700.25
+348,Austria,Run-of-River Hydro,42777.25
+349,Austria,Run-of-River Hydro,44138.25
+350,Austria,Run-of-River Hydro,45639.5
+351,Austria,Run-of-River Hydro,41501.5
+352,Austria,Run-of-River Hydro,36958.5
+353,Austria,Run-of-River Hydro,34543
+354,Austria,Run-of-River Hydro,37759
+355,Austria,Run-of-River Hydro,41047
+356,Austria,Run-of-River Hydro,45017.75
+357,Austria,Run-of-River Hydro,71707.5
+358,Austria,Run-of-River Hydro,90948.5
+359,Austria,Run-of-River Hydro,82263.75
+360,Austria,Run-of-River Hydro,77693.5
+361,Austria,Run-of-River Hydro,83522.5
+362,Austria,Run-of-River Hydro,74085.25
+363,Austria,Run-of-River Hydro,74389
+364,Austria,Run-of-River Hydro,63711.75
+365,Austria,Run-of-River Hydro,2192.75
+274,Austria,Solar,1569
+275,Austria,Solar,1114
+276,Austria,Solar,1375
+277,Austria,Solar,1756
+278,Austria,Solar,1796
+279,Austria,Solar,1720
+280,Austria,Solar,1735
+281,Austria,Solar,1380
+282,Austria,Solar,1714
+283,Austria,Solar,1397
+284,Austria,Solar,1357
+285,Austria,Solar,1180
+286,Austria,Solar,1273
+287,Austria,Solar,1230
+288,Austria,Solar,940
+289,Austria,Solar,1707
+290,Austria,Solar,1399
+291,Austria,Solar,1393
+292,Austria,Solar,1082
+293,Austria,Solar,1534
+294,Austria,Solar,993
+295,Austria,Solar,458
+296,Austria,Solar,1489
+297,Austria,Solar,848
+298,Austria,Solar,2069
+299,Austria,Solar,1251
+300,Austria,Solar,1560
+301,Austria,Solar,1461
+302,Austria,Solar,1703
+303,Austria,Solar,1674
+304,Austria,Solar,1377
+305,Austria,Solar,1679
+306,Austria,Solar,1931
+307,Austria,Solar,1645
+308,Austria,Solar,240
+309,Austria,Solar,916
+310,Austria,Solar,1797
+311,Austria,Solar,1846
+312,Austria,Solar,1921
+313,Austria,Solar,1297
+314,Austria,Solar,842
+315,Austria,Solar,1432
+316,Austria,Solar,1582
+317,Austria,Solar,1627
+318,Austria,Solar,1564
+319,Austria,Solar,1205
+320,Austria,Solar,567
+321,Austria,Solar,893
+322,Austria,Solar,328
+323,Austria,Solar,525
+324,Austria,Solar,1137
+325,Austria,Solar,1293
+326,Austria,Solar,375
+327,Austria,Solar,683
+328,Austria,Solar,1166
+329,Austria,Solar,1429
+330,Austria,Solar,805
+331,Austria,Solar,1136
+332,Austria,Solar,638
+333,Austria,Solar,478
+334,Austria,Solar,630
+335,Austria,Solar,746
+336,Austria,Solar,507
+337,Austria,Solar,600
+338,Austria,Solar,438
+339,Austria,Solar,409
+340,Austria,Solar,747
+341,Austria,Solar,673
+342,Austria,Solar,719
+343,Austria,Solar,413
+344,Austria,Solar,418
+345,Austria,Solar,646
+346,Austria,Solar,784
+347,Austria,Solar,878
+348,Austria,Solar,688
+349,Austria,Solar,624
+350,Austria,Solar,421
+351,Austria,Solar,832
+352,Austria,Solar,1044
+353,Austria,Solar,779
+354,Austria,Solar,735
+355,Austria,Solar,528
+356,Austria,Solar,630
+357,Austria,Solar,457
+358,Austria,Solar,604
+359,Austria,Solar,867
+360,Austria,Solar,740
+361,Austria,Solar,808
+362,Austria,Solar,804
+363,Austria,Solar,720
+364,Austria,Solar,685
+365,Austria,Solar,0
+274,Austria,Wind offshore,0
+275,Austria,Wind offshore,0
+276,Austria,Wind offshore,0
+277,Austria,Wind offshore,0
+278,Austria,Wind offshore,0
+279,Austria,Wind offshore,0
+280,Austria,Wind offshore,0
+281,Austria,Wind offshore,0
+282,Austria,Wind offshore,0
+283,Austria,Wind offshore,0
+284,Austria,Wind offshore,0
+285,Austria,Wind offshore,0
+286,Austria,Wind offshore,0
+287,Austria,Wind offshore,0
+288,Austria,Wind offshore,0
+289,Austria,Wind offshore,0
+290,Austria,Wind offshore,0
+291,Austria,Wind offshore,0
+292,Austria,Wind offshore,0
+293,Austria,Wind offshore,0
+294,Austria,Wind offshore,0
+295,Austria,Wind offshore,0
+296,Austria,Wind offshore,0
+297,Austria,Wind offshore,0
+298,Austria,Wind offshore,0
+299,Austria,Wind offshore,0
+300,Austria,Wind offshore,0
+301,Austria,Wind offshore,0
+302,Austria,Wind offshore,0
+303,Austria,Wind offshore,0
+304,Austria,Wind offshore,0
+305,Austria,Wind offshore,0
+306,Austria,Wind offshore,0
+307,Austria,Wind offshore,0
+308,Austria,Wind offshore,0
+309,Austria,Wind offshore,0
+310,Austria,Wind offshore,0
+311,Austria,Wind offshore,0
+312,Austria,Wind offshore,0
+313,Austria,Wind offshore,0
+314,Austria,Wind offshore,0
+315,Austria,Wind offshore,0
+316,Austria,Wind offshore,0
+317,Austria,Wind offshore,0
+318,Austria,Wind offshore,0
+319,Austria,Wind offshore,0
+320,Austria,Wind offshore,0
+321,Austria,Wind offshore,0
+322,Austria,Wind offshore,0
+323,Austria,Wind offshore,0
+324,Austria,Wind offshore,0
+325,Austria,Wind offshore,0
+326,Austria,Wind offshore,0
+327,Austria,Wind offshore,0
+328,Austria,Wind offshore,0
+329,Austria,Wind offshore,0
+330,Austria,Wind offshore,0
+331,Austria,Wind offshore,0
+332,Austria,Wind offshore,0
+333,Austria,Wind offshore,0
+334,Austria,Wind offshore,0
+335,Austria,Wind offshore,0
+336,Austria,Wind offshore,0
+337,Austria,Wind offshore,0
+338,Austria,Wind offshore,0
+339,Austria,Wind offshore,0
+340,Austria,Wind offshore,0
+341,Austria,Wind offshore,0
+342,Austria,Wind offshore,0
+343,Austria,Wind offshore,0
+344,Austria,Wind offshore,0
+345,Austria,Wind offshore,0
+346,Austria,Wind offshore,0
+347,Austria,Wind offshore,0
+348,Austria,Wind offshore,0
+349,Austria,Wind offshore,0
+350,Austria,Wind offshore,0
+351,Austria,Wind offshore,0
+352,Austria,Wind offshore,0
+353,Austria,Wind offshore,0
+354,Austria,Wind offshore,0
+355,Austria,Wind offshore,0
+356,Austria,Wind offshore,0
+357,Austria,Wind offshore,0
+358,Austria,Wind offshore,0
+359,Austria,Wind offshore,0
+360,Austria,Wind offshore,0
+361,Austria,Wind offshore,0
+362,Austria,Wind offshore,0
+363,Austria,Wind offshore,0
+364,Austria,Wind offshore,0
+365,Austria,Wind offshore,0
+274,Austria,Wind onshore,13644
+275,Austria,Wind onshore,36547
+276,Austria,Wind onshore,58337
+277,Austria,Wind onshore,19497
+278,Austria,Wind onshore,25707
+279,Austria,Wind onshore,4117
+280,Austria,Wind onshore,21514
+281,Austria,Wind onshore,7903
+282,Austria,Wind onshore,15171
+283,Austria,Wind onshore,31052
+284,Austria,Wind onshore,4583
+285,Austria,Wind onshore,2585
+286,Austria,Wind onshore,1366
+287,Austria,Wind onshore,6244
+288,Austria,Wind onshore,25800
+289,Austria,Wind onshore,18143
+290,Austria,Wind onshore,39190
+291,Austria,Wind onshore,14080
+292,Austria,Wind onshore,24594
+293,Austria,Wind onshore,25587
+294,Austria,Wind onshore,31155
+295,Austria,Wind onshore,7385
+296,Austria,Wind onshore,6329
+297,Austria,Wind onshore,4562
+298,Austria,Wind onshore,10285
+299,Austria,Wind onshore,789
+300,Austria,Wind onshore,1364
+301,Austria,Wind onshore,2920
+302,Austria,Wind onshore,1378
+303,Austria,Wind onshore,119
+304,Austria,Wind onshore,3900
+305,Austria,Wind onshore,4807
+306,Austria,Wind onshore,8945
+307,Austria,Wind onshore,28761
+308,Austria,Wind onshore,31133
+309,Austria,Wind onshore,50483
+310,Austria,Wind onshore,20489
+311,Austria,Wind onshore,7340.667
+312,Austria,Wind onshore,13063
+313,Austria,Wind onshore,5043
+314,Austria,Wind onshore,10036
+315,Austria,Wind onshore,3102
+316,Austria,Wind onshore,7549
+317,Austria,Wind onshore,11821
+318,Austria,Wind onshore,21409
+319,Austria,Wind onshore,6639
+320,Austria,Wind onshore,2408
+321,Austria,Wind onshore,1080
+322,Austria,Wind onshore,12133
+323,Austria,Wind onshore,5427
+324,Austria,Wind onshore,2436
+325,Austria,Wind onshore,10038
+326,Austria,Wind onshore,24259
+327,Austria,Wind onshore,23020
+328,Austria,Wind onshore,20908
+329,Austria,Wind onshore,4366
+330,Austria,Wind onshore,23823
+331,Austria,Wind onshore,8589
+332,Austria,Wind onshore,47203
+333,Austria,Wind onshore,20863
+334,Austria,Wind onshore,3806
+335,Austria,Wind onshore,7763
+336,Austria,Wind onshore,8039
+337,Austria,Wind onshore,34391
+338,Austria,Wind onshore,33071
+339,Austria,Wind onshore,24782
+340,Austria,Wind onshore,22285
+341,Austria,Wind onshore,17043
+342,Austria,Wind onshore,8416
+343,Austria,Wind onshore,10765
+344,Austria,Wind onshore,39143
+345,Austria,Wind onshore,57379
+346,Austria,Wind onshore,34774
+347,Austria,Wind onshore,10428
+348,Austria,Wind onshore,44210
+349,Austria,Wind onshore,2683
+350,Austria,Wind onshore,17697
+351,Austria,Wind onshore,43745
+352,Austria,Wind onshore,10712
+353,Austria,Wind onshore,59057
+354,Austria,Wind onshore,16672
+355,Austria,Wind onshore,567
+356,Austria,Wind onshore,10660
+357,Austria,Wind onshore,9251
+358,Austria,Wind onshore,33322
+359,Austria,Wind onshore,15369
+360,Austria,Wind onshore,10816
+361,Austria,Wind onshore,37561
+362,Austria,Wind onshore,24959
+363,Austria,Wind onshore,17271
+364,Austria,Wind onshore,8956
+365,Austria,Wind onshore,333
+274,Denmark,Biomass,564
+275,Denmark,Biomass,548
+276,Denmark,Biomass,8499
+277,Denmark,Biomass,10612
+278,Denmark,Biomass,483
+279,Denmark,Biomass,472
+280,Denmark,Biomass,451
+281,Denmark,Biomass,882
+282,Denmark,Biomass,5193
+283,Denmark,Biomass,4037
+284,Denmark,Biomass,8846
+285,Denmark,Biomass,16112
+286,Denmark,Biomass,15766
+287,Denmark,Biomass,13854
+288,Denmark,Biomass,3798
+289,Denmark,Biomass,2652
+290,Denmark,Biomass,3844
+291,Denmark,Biomass,5140
+292,Denmark,Biomass,4722
+293,Denmark,Biomass,7226
+294,Denmark,Biomass,11897
+295,Denmark,Biomass,5968
+296,Denmark,Biomass,5040
+297,Denmark,Biomass,4538
+298,Denmark,Biomass,4904
+299,Denmark,Biomass,4789
+300,Denmark,Biomass,5242
+301,Denmark,Biomass,5752
+302,Denmark,Biomass,5815
+303,Denmark,Biomass,5830
+304,Denmark,Biomass,5997
+305,Denmark,Biomass,4229
+306,Denmark,Biomass,4280
+307,Denmark,Biomass,5861
+308,Denmark,Biomass,8786
+309,Denmark,Biomass,9043
+310,Denmark,Biomass,7809
+311,Denmark,Biomass,7501
+312,Denmark,Biomass,8065
+313,Denmark,Biomass,7057
+314,Denmark,Biomass,7102
+315,Denmark,Biomass,2566
+316,Denmark,Biomass,11943
+317,Denmark,Biomass,9232
+318,Denmark,Biomass,6943
+319,Denmark,Biomass,6723
+320,Denmark,Biomass,7726
+321,Denmark,Biomass,5941
+322,Denmark,Biomass,7579
+323,Denmark,Biomass,12192
+324,Denmark,Biomass,18828
+325,Denmark,Biomass,21726
+326,Denmark,Biomass,18801
+327,Denmark,Biomass,20438
+328,Denmark,Biomass,19629
+329,Denmark,Biomass,21119
+330,Denmark,Biomass,23262
+331,Denmark,Biomass,14078
+332,Denmark,Biomass,11660
+333,Denmark,Biomass,16832
+334,Denmark,Biomass,20983
+335,Denmark,Biomass,24416
+336,Denmark,Biomass,20709
+337,Denmark,Biomass,21131
+338,Denmark,Biomass,19724
+339,Denmark,Biomass,21108
+340,Denmark,Biomass,23447
+341,Denmark,Biomass,20078
+342,Denmark,Biomass,21591
+343,Denmark,Biomass,22178
+344,Denmark,Biomass,22088
+345,Denmark,Biomass,19164
+346,Denmark,Biomass,20803
+347,Denmark,Biomass,16373
+348,Denmark,Biomass,20266
+349,Denmark,Biomass,21938
+350,Denmark,Biomass,22145
+351,Denmark,Biomass,17322
+352,Denmark,Biomass,17300
+353,Denmark,Biomass,17510
+354,Denmark,Biomass,16967
+355,Denmark,Biomass,18272
+356,Denmark,Biomass,18863
+357,Denmark,Biomass,17539
+358,Denmark,Biomass,16185
+359,Denmark,Biomass,13999
+360,Denmark,Biomass,10180
+361,Denmark,Biomass,13268
+362,Denmark,Biomass,12813
+363,Denmark,Biomass,9163
+364,Denmark,Biomass,9995
+365,Denmark,Biomass,227
+274,Denmark,Dam Hydro,0
+275,Denmark,Dam Hydro,0
+276,Denmark,Dam Hydro,0
+277,Denmark,Dam Hydro,0
+278,Denmark,Dam Hydro,0
+279,Denmark,Dam Hydro,0
+280,Denmark,Dam Hydro,0
+281,Denmark,Dam Hydro,0
+282,Denmark,Dam Hydro,0
+283,Denmark,Dam Hydro,0
+284,Denmark,Dam Hydro,0
+285,Denmark,Dam Hydro,0
+286,Denmark,Dam Hydro,0
+287,Denmark,Dam Hydro,0
+288,Denmark,Dam Hydro,0
+289,Denmark,Dam Hydro,0
+290,Denmark,Dam Hydro,0
+291,Denmark,Dam Hydro,0
+292,Denmark,Dam Hydro,0
+293,Denmark,Dam Hydro,0
+294,Denmark,Dam Hydro,0
+295,Denmark,Dam Hydro,0
+296,Denmark,Dam Hydro,0
+297,Denmark,Dam Hydro,0
+298,Denmark,Dam Hydro,0
+299,Denmark,Dam Hydro,0
+300,Denmark,Dam Hydro,0
+301,Denmark,Dam Hydro,0
+302,Denmark,Dam Hydro,0
+303,Denmark,Dam Hydro,0
+304,Denmark,Dam Hydro,0
+305,Denmark,Dam Hydro,0
+306,Denmark,Dam Hydro,0
+307,Denmark,Dam Hydro,0
+308,Denmark,Dam Hydro,0
+309,Denmark,Dam Hydro,0
+310,Denmark,Dam Hydro,0
+311,Denmark,Dam Hydro,0
+312,Denmark,Dam Hydro,0
+313,Denmark,Dam Hydro,0
+314,Denmark,Dam Hydro,0
+315,Denmark,Dam Hydro,0
+316,Denmark,Dam Hydro,0
+317,Denmark,Dam Hydro,0
+318,Denmark,Dam Hydro,0
+319,Denmark,Dam Hydro,0
+320,Denmark,Dam Hydro,0
+321,Denmark,Dam Hydro,0
+322,Denmark,Dam Hydro,0
+323,Denmark,Dam Hydro,0
+324,Denmark,Dam Hydro,0
+325,Denmark,Dam Hydro,0
+326,Denmark,Dam Hydro,0
+327,Denmark,Dam Hydro,0
+328,Denmark,Dam Hydro,0
+329,Denmark,Dam Hydro,0
+330,Denmark,Dam Hydro,0
+331,Denmark,Dam Hydro,0
+332,Denmark,Dam Hydro,0
+333,Denmark,Dam Hydro,0
+334,Denmark,Dam Hydro,0
+335,Denmark,Dam Hydro,0
+336,Denmark,Dam Hydro,0
+337,Denmark,Dam Hydro,0
+338,Denmark,Dam Hydro,0
+339,Denmark,Dam Hydro,0
+340,Denmark,Dam Hydro,0
+341,Denmark,Dam Hydro,0
+342,Denmark,Dam Hydro,0
+343,Denmark,Dam Hydro,0
+344,Denmark,Dam Hydro,0
+345,Denmark,Dam Hydro,0
+346,Denmark,Dam Hydro,0
+347,Denmark,Dam Hydro,0
+348,Denmark,Dam Hydro,0
+349,Denmark,Dam Hydro,0
+350,Denmark,Dam Hydro,0
+351,Denmark,Dam Hydro,0
+352,Denmark,Dam Hydro,0
+353,Denmark,Dam Hydro,0
+354,Denmark,Dam Hydro,0
+355,Denmark,Dam Hydro,0
+356,Denmark,Dam Hydro,0
+357,Denmark,Dam Hydro,0
+358,Denmark,Dam Hydro,0
+359,Denmark,Dam Hydro,0
+360,Denmark,Dam Hydro,0
+361,Denmark,Dam Hydro,0
+362,Denmark,Dam Hydro,0
+363,Denmark,Dam Hydro,0
+364,Denmark,Dam Hydro,0
+365,Denmark,Dam Hydro,0
+274,Denmark,Geothermal,0
+275,Denmark,Geothermal,0
+276,Denmark,Geothermal,0
+277,Denmark,Geothermal,0
+278,Denmark,Geothermal,0
+279,Denmark,Geothermal,0
+280,Denmark,Geothermal,0
+281,Denmark,Geothermal,0
+282,Denmark,Geothermal,0
+283,Denmark,Geothermal,0
+284,Denmark,Geothermal,0
+285,Denmark,Geothermal,0
+286,Denmark,Geothermal,0
+287,Denmark,Geothermal,0
+288,Denmark,Geothermal,0
+289,Denmark,Geothermal,0
+290,Denmark,Geothermal,0
+291,Denmark,Geothermal,0
+292,Denmark,Geothermal,0
+293,Denmark,Geothermal,0
+294,Denmark,Geothermal,0
+295,Denmark,Geothermal,0
+296,Denmark,Geothermal,0
+297,Denmark,Geothermal,0
+298,Denmark,Geothermal,0
+299,Denmark,Geothermal,0
+300,Denmark,Geothermal,0
+301,Denmark,Geothermal,0
+302,Denmark,Geothermal,0
+303,Denmark,Geothermal,0
+304,Denmark,Geothermal,0
+305,Denmark,Geothermal,0
+306,Denmark,Geothermal,0
+307,Denmark,Geothermal,0
+308,Denmark,Geothermal,0
+309,Denmark,Geothermal,0
+310,Denmark,Geothermal,0
+311,Denmark,Geothermal,0
+312,Denmark,Geothermal,0
+313,Denmark,Geothermal,0
+314,Denmark,Geothermal,0
+315,Denmark,Geothermal,0
+316,Denmark,Geothermal,0
+317,Denmark,Geothermal,0
+318,Denmark,Geothermal,0
+319,Denmark,Geothermal,0
+320,Denmark,Geothermal,0
+321,Denmark,Geothermal,0
+322,Denmark,Geothermal,0
+323,Denmark,Geothermal,0
+324,Denmark,Geothermal,0
+325,Denmark,Geothermal,0
+326,Denmark,Geothermal,0
+327,Denmark,Geothermal,0
+328,Denmark,Geothermal,0
+329,Denmark,Geothermal,0
+330,Denmark,Geothermal,0
+331,Denmark,Geothermal,0
+332,Denmark,Geothermal,0
+333,Denmark,Geothermal,0
+334,Denmark,Geothermal,0
+335,Denmark,Geothermal,0
+336,Denmark,Geothermal,0
+337,Denmark,Geothermal,0
+338,Denmark,Geothermal,0
+339,Denmark,Geothermal,0
+340,Denmark,Geothermal,0
+341,Denmark,Geothermal,0
+342,Denmark,Geothermal,0
+343,Denmark,Geothermal,0
+344,Denmark,Geothermal,0
+345,Denmark,Geothermal,0
+346,Denmark,Geothermal,0
+347,Denmark,Geothermal,0
+348,Denmark,Geothermal,0
+349,Denmark,Geothermal,0
+350,Denmark,Geothermal,0
+351,Denmark,Geothermal,0
+352,Denmark,Geothermal,0
+353,Denmark,Geothermal,0
+354,Denmark,Geothermal,0
+355,Denmark,Geothermal,0
+356,Denmark,Geothermal,0
+357,Denmark,Geothermal,0
+358,Denmark,Geothermal,0
+359,Denmark,Geothermal,0
+360,Denmark,Geothermal,0
+361,Denmark,Geothermal,0
+362,Denmark,Geothermal,0
+363,Denmark,Geothermal,0
+364,Denmark,Geothermal,0
+365,Denmark,Geothermal,0
+274,Denmark,Hard Coal,6476
+275,Denmark,Hard Coal,7145
+276,Denmark,Hard Coal,9347
+277,Denmark,Hard Coal,9505
+278,Denmark,Hard Coal,7199
+279,Denmark,Hard Coal,5517
+280,Denmark,Hard Coal,5896
+281,Denmark,Hard Coal,7071
+282,Denmark,Hard Coal,4226
+283,Denmark,Hard Coal,9874
+284,Denmark,Hard Coal,12660
+285,Denmark,Hard Coal,13483
+286,Denmark,Hard Coal,13942
+287,Denmark,Hard Coal,12799
+288,Denmark,Hard Coal,8642
+289,Denmark,Hard Coal,6703
+290,Denmark,Hard Coal,9148
+291,Denmark,Hard Coal,10455
+292,Denmark,Hard Coal,10904
+293,Denmark,Hard Coal,9396
+294,Denmark,Hard Coal,10737
+295,Denmark,Hard Coal,4451
+296,Denmark,Hard Coal,4314
+297,Denmark,Hard Coal,3883
+298,Denmark,Hard Coal,5345
+299,Denmark,Hard Coal,9042
+300,Denmark,Hard Coal,7151
+301,Denmark,Hard Coal,5561
+302,Denmark,Hard Coal,5265
+303,Denmark,Hard Coal,4122
+304,Denmark,Hard Coal,4081
+305,Denmark,Hard Coal,4519
+306,Denmark,Hard Coal,5940
+307,Denmark,Hard Coal,6471
+308,Denmark,Hard Coal,6601
+309,Denmark,Hard Coal,3686
+310,Denmark,Hard Coal,2430
+311,Denmark,Hard Coal,3892
+312,Denmark,Hard Coal,5587
+313,Denmark,Hard Coal,6121
+314,Denmark,Hard Coal,5464
+315,Denmark,Hard Coal,4579
+316,Denmark,Hard Coal,14708
+317,Denmark,Hard Coal,15348
+318,Denmark,Hard Coal,12474
+319,Denmark,Hard Coal,10530
+320,Denmark,Hard Coal,8469
+321,Denmark,Hard Coal,10544
+322,Denmark,Hard Coal,13940
+323,Denmark,Hard Coal,22586
+324,Denmark,Hard Coal,20974
+325,Denmark,Hard Coal,22149
+326,Denmark,Hard Coal,20385
+327,Denmark,Hard Coal,18709
+328,Denmark,Hard Coal,21033
+329,Denmark,Hard Coal,18719
+330,Denmark,Hard Coal,18626
+331,Denmark,Hard Coal,16188
+332,Denmark,Hard Coal,15437
+333,Denmark,Hard Coal,22135
+334,Denmark,Hard Coal,22094
+335,Denmark,Hard Coal,21476
+336,Denmark,Hard Coal,18561
+337,Denmark,Hard Coal,19029
+338,Denmark,Hard Coal,19725
+339,Denmark,Hard Coal,19368
+340,Denmark,Hard Coal,22928
+341,Denmark,Hard Coal,19412
+342,Denmark,Hard Coal,23492
+343,Denmark,Hard Coal,24239
+344,Denmark,Hard Coal,22467
+345,Denmark,Hard Coal,23323
+346,Denmark,Hard Coal,24867
+347,Denmark,Hard Coal,25284
+348,Denmark,Hard Coal,25341
+349,Denmark,Hard Coal,24221
+350,Denmark,Hard Coal,24351
+351,Denmark,Hard Coal,23155
+352,Denmark,Hard Coal,21126
+353,Denmark,Hard Coal,19937
+354,Denmark,Hard Coal,16580
+355,Denmark,Hard Coal,19040
+356,Denmark,Hard Coal,18681
+357,Denmark,Hard Coal,18562
+358,Denmark,Hard Coal,17766
+359,Denmark,Hard Coal,13473
+360,Denmark,Hard Coal,6358
+361,Denmark,Hard Coal,12170
+362,Denmark,Hard Coal,10899
+363,Denmark,Hard Coal,5297
+364,Denmark,Hard Coal,8964
+365,Denmark,Hard Coal,218
+274,Denmark,Lignite,0
+275,Denmark,Lignite,0
+276,Denmark,Lignite,0
+277,Denmark,Lignite,0
+278,Denmark,Lignite,0
+279,Denmark,Lignite,0
+280,Denmark,Lignite,0
+281,Denmark,Lignite,0
+282,Denmark,Lignite,0
+283,Denmark,Lignite,0
+284,Denmark,Lignite,0
+285,Denmark,Lignite,0
+286,Denmark,Lignite,0
+287,Denmark,Lignite,0
+288,Denmark,Lignite,0
+289,Denmark,Lignite,0
+290,Denmark,Lignite,0
+291,Denmark,Lignite,0
+292,Denmark,Lignite,0
+293,Denmark,Lignite,0
+294,Denmark,Lignite,0
+295,Denmark,Lignite,0
+296,Denmark,Lignite,0
+297,Denmark,Lignite,0
+298,Denmark,Lignite,0
+299,Denmark,Lignite,0
+300,Denmark,Lignite,0
+301,Denmark,Lignite,0
+302,Denmark,Lignite,0
+303,Denmark,Lignite,0
+304,Denmark,Lignite,0
+305,Denmark,Lignite,0
+306,Denmark,Lignite,0
+307,Denmark,Lignite,0
+308,Denmark,Lignite,0
+309,Denmark,Lignite,0
+310,Denmark,Lignite,0
+311,Denmark,Lignite,0
+312,Denmark,Lignite,0
+313,Denmark,Lignite,0
+314,Denmark,Lignite,0
+315,Denmark,Lignite,0
+316,Denmark,Lignite,0
+317,Denmark,Lignite,0
+318,Denmark,Lignite,0
+319,Denmark,Lignite,0
+320,Denmark,Lignite,0
+321,Denmark,Lignite,0
+322,Denmark,Lignite,0
+323,Denmark,Lignite,0
+324,Denmark,Lignite,0
+325,Denmark,Lignite,0
+326,Denmark,Lignite,0
+327,Denmark,Lignite,0
+328,Denmark,Lignite,0
+329,Denmark,Lignite,0
+330,Denmark,Lignite,0
+331,Denmark,Lignite,0
+332,Denmark,Lignite,0
+333,Denmark,Lignite,0
+334,Denmark,Lignite,0
+335,Denmark,Lignite,0
+336,Denmark,Lignite,0
+337,Denmark,Lignite,0
+338,Denmark,Lignite,0
+339,Denmark,Lignite,0
+340,Denmark,Lignite,0
+341,Denmark,Lignite,0
+342,Denmark,Lignite,0
+343,Denmark,Lignite,0
+344,Denmark,Lignite,0
+345,Denmark,Lignite,0
+346,Denmark,Lignite,0
+347,Denmark,Lignite,0
+348,Denmark,Lignite,0
+349,Denmark,Lignite,0
+350,Denmark,Lignite,0
+351,Denmark,Lignite,0
+352,Denmark,Lignite,0
+353,Denmark,Lignite,0
+354,Denmark,Lignite,0
+355,Denmark,Lignite,0
+356,Denmark,Lignite,0
+357,Denmark,Lignite,0
+358,Denmark,Lignite,0
+359,Denmark,Lignite,0
+360,Denmark,Lignite,0
+361,Denmark,Lignite,0
+362,Denmark,Lignite,0
+363,Denmark,Lignite,0
+364,Denmark,Lignite,0
+365,Denmark,Lignite,0
+274,Denmark,Natural Gas,3307
+275,Denmark,Natural Gas,3986
+276,Denmark,Natural Gas,4860
+277,Denmark,Natural Gas,5030
+278,Denmark,Natural Gas,3112
+279,Denmark,Natural Gas,2910
+280,Denmark,Natural Gas,2976
+281,Denmark,Natural Gas,3677
+282,Denmark,Natural Gas,4663
+283,Denmark,Natural Gas,5469
+284,Denmark,Natural Gas,6492
+285,Denmark,Natural Gas,7803
+286,Denmark,Natural Gas,6642
+287,Denmark,Natural Gas,7888
+288,Denmark,Natural Gas,4649
+289,Denmark,Natural Gas,3957
+290,Denmark,Natural Gas,6678
+291,Denmark,Natural Gas,5856
+292,Denmark,Natural Gas,6973
+293,Denmark,Natural Gas,6201
+294,Denmark,Natural Gas,7194
+295,Denmark,Natural Gas,5580
+296,Denmark,Natural Gas,5105
+297,Denmark,Natural Gas,5115
+298,Denmark,Natural Gas,6838
+299,Denmark,Natural Gas,7062
+300,Denmark,Natural Gas,6502
+301,Denmark,Natural Gas,4922
+302,Denmark,Natural Gas,5772
+303,Denmark,Natural Gas,6088
+304,Denmark,Natural Gas,6525
+305,Denmark,Natural Gas,4170
+306,Denmark,Natural Gas,4751
+307,Denmark,Natural Gas,4967
+308,Denmark,Natural Gas,5976
+309,Denmark,Natural Gas,5027
+310,Denmark,Natural Gas,2641
+311,Denmark,Natural Gas,3339
+312,Denmark,Natural Gas,3600
+313,Denmark,Natural Gas,4578
+314,Denmark,Natural Gas,2999
+315,Denmark,Natural Gas,2348
+316,Denmark,Natural Gas,5600
+317,Denmark,Natural Gas,5472
+318,Denmark,Natural Gas,6558
+319,Denmark,Natural Gas,4471
+320,Denmark,Natural Gas,2811
+321,Denmark,Natural Gas,3562
+322,Denmark,Natural Gas,4720
+323,Denmark,Natural Gas,8924
+324,Denmark,Natural Gas,8204
+325,Denmark,Natural Gas,10256
+326,Denmark,Natural Gas,9361
+327,Denmark,Natural Gas,7627
+328,Denmark,Natural Gas,10179
+329,Denmark,Natural Gas,8891
+330,Denmark,Natural Gas,8326
+331,Denmark,Natural Gas,4966
+332,Denmark,Natural Gas,7050
+333,Denmark,Natural Gas,10705
+334,Denmark,Natural Gas,12179
+335,Denmark,Natural Gas,12826
+336,Denmark,Natural Gas,10956
+337,Denmark,Natural Gas,10798
+338,Denmark,Natural Gas,9553
+339,Denmark,Natural Gas,12123
+340,Denmark,Natural Gas,13626
+341,Denmark,Natural Gas,12199
+342,Denmark,Natural Gas,14500
+343,Denmark,Natural Gas,15030
+344,Denmark,Natural Gas,14353
+345,Denmark,Natural Gas,14066
+346,Denmark,Natural Gas,15946
+347,Denmark,Natural Gas,16088
+348,Denmark,Natural Gas,15860
+349,Denmark,Natural Gas,16547
+350,Denmark,Natural Gas,16238
+351,Denmark,Natural Gas,13946
+352,Denmark,Natural Gas,9658
+353,Denmark,Natural Gas,7413
+354,Denmark,Natural Gas,8258
+355,Denmark,Natural Gas,9834
+356,Denmark,Natural Gas,9973
+357,Denmark,Natural Gas,10921
+358,Denmark,Natural Gas,7358
+359,Denmark,Natural Gas,4976
+360,Denmark,Natural Gas,2731
+361,Denmark,Natural Gas,5076
+362,Denmark,Natural Gas,4031
+363,Denmark,Natural Gas,2773
+364,Denmark,Natural Gas,2785
+365,Denmark,Natural Gas,112
+274,Denmark,Non-renewable waste,3834
+275,Denmark,Non-renewable waste,3689
+276,Denmark,Non-renewable waste,3631
+277,Denmark,Non-renewable waste,3593
+278,Denmark,Non-renewable waste,3158
+279,Denmark,Non-renewable waste,3035
+280,Denmark,Non-renewable waste,2997
+281,Denmark,Non-renewable waste,3058
+282,Denmark,Non-renewable waste,3022
+283,Denmark,Non-renewable waste,3132
+284,Denmark,Non-renewable waste,3233
+285,Denmark,Non-renewable waste,3278
+286,Denmark,Non-renewable waste,3318
+287,Denmark,Non-renewable waste,3561
+288,Denmark,Non-renewable waste,3238
+289,Denmark,Non-renewable waste,3149
+290,Denmark,Non-renewable waste,3737
+291,Denmark,Non-renewable waste,3512
+292,Denmark,Non-renewable waste,3481
+293,Denmark,Non-renewable waste,3534
+294,Denmark,Non-renewable waste,4109
+295,Denmark,Non-renewable waste,4277
+296,Denmark,Non-renewable waste,3993
+297,Denmark,Non-renewable waste,3914
+298,Denmark,Non-renewable waste,3985
+299,Denmark,Non-renewable waste,3998
+300,Denmark,Non-renewable waste,4055
+301,Denmark,Non-renewable waste,4030
+302,Denmark,Non-renewable waste,3975
+303,Denmark,Non-renewable waste,3630
+304,Denmark,Non-renewable waste,3938
+305,Denmark,Non-renewable waste,3677
+306,Denmark,Non-renewable waste,3643
+307,Denmark,Non-renewable waste,3321
+308,Denmark,Non-renewable waste,3414
+309,Denmark,Non-renewable waste,3747
+310,Denmark,Non-renewable waste,3632
+311,Denmark,Non-renewable waste,3718
+312,Denmark,Non-renewable waste,3751
+313,Denmark,Non-renewable waste,3078
+314,Denmark,Non-renewable waste,3239
+315,Denmark,Non-renewable waste,3124
+316,Denmark,Non-renewable waste,3508
+317,Denmark,Non-renewable waste,3749
+318,Denmark,Non-renewable waste,3614
+319,Denmark,Non-renewable waste,3450
+320,Denmark,Non-renewable waste,3519
+321,Denmark,Non-renewable waste,3530
+322,Denmark,Non-renewable waste,3430
+323,Denmark,Non-renewable waste,3266
+324,Denmark,Non-renewable waste,3378
+325,Denmark,Non-renewable waste,3663
+326,Denmark,Non-renewable waste,3357
+327,Denmark,Non-renewable waste,3432
+328,Denmark,Non-renewable waste,3724
+329,Denmark,Non-renewable waste,3914
+330,Denmark,Non-renewable waste,3939
+331,Denmark,Non-renewable waste,3550
+332,Denmark,Non-renewable waste,3572
+333,Denmark,Non-renewable waste,4104
+334,Denmark,Non-renewable waste,4382
+335,Denmark,Non-renewable waste,4024
+336,Denmark,Non-renewable waste,3801
+337,Denmark,Non-renewable waste,3817
+338,Denmark,Non-renewable waste,3772
+339,Denmark,Non-renewable waste,4164
+340,Denmark,Non-renewable waste,4500
+341,Denmark,Non-renewable waste,4380
+342,Denmark,Non-renewable waste,4190
+343,Denmark,Non-renewable waste,4417
+344,Denmark,Non-renewable waste,4304
+345,Denmark,Non-renewable waste,4285
+346,Denmark,Non-renewable waste,4170
+347,Denmark,Non-renewable waste,3261
+348,Denmark,Non-renewable waste,4285
+349,Denmark,Non-renewable waste,4226
+350,Denmark,Non-renewable waste,4763
+351,Denmark,Non-renewable waste,4474
+352,Denmark,Non-renewable waste,3532
+353,Denmark,Non-renewable waste,3323
+354,Denmark,Non-renewable waste,3753
+355,Denmark,Non-renewable waste,4241
+356,Denmark,Non-renewable waste,3961
+357,Denmark,Non-renewable waste,3436
+358,Denmark,Non-renewable waste,3097
+359,Denmark,Non-renewable waste,3410
+360,Denmark,Non-renewable waste,3356
+361,Denmark,Non-renewable waste,3389
+362,Denmark,Non-renewable waste,3212
+363,Denmark,Non-renewable waste,3168
+364,Denmark,Non-renewable waste,3056
+365,Denmark,Non-renewable waste,120
+274,Denmark,Nuclear,0
+275,Denmark,Nuclear,0
+276,Denmark,Nuclear,0
+277,Denmark,Nuclear,0
+278,Denmark,Nuclear,0
+279,Denmark,Nuclear,0
+280,Denmark,Nuclear,0
+281,Denmark,Nuclear,0
+282,Denmark,Nuclear,0
+283,Denmark,Nuclear,0
+284,Denmark,Nuclear,0
+285,Denmark,Nuclear,0
+286,Denmark,Nuclear,0
+287,Denmark,Nuclear,0
+288,Denmark,Nuclear,0
+289,Denmark,Nuclear,0
+290,Denmark,Nuclear,0
+291,Denmark,Nuclear,0
+292,Denmark,Nuclear,0
+293,Denmark,Nuclear,0
+294,Denmark,Nuclear,0
+295,Denmark,Nuclear,0
+296,Denmark,Nuclear,0
+297,Denmark,Nuclear,0
+298,Denmark,Nuclear,0
+299,Denmark,Nuclear,0
+300,Denmark,Nuclear,0
+301,Denmark,Nuclear,0
+302,Denmark,Nuclear,0
+303,Denmark,Nuclear,0
+304,Denmark,Nuclear,0
+305,Denmark,Nuclear,0
+306,Denmark,Nuclear,0
+307,Denmark,Nuclear,0
+308,Denmark,Nuclear,0
+309,Denmark,Nuclear,0
+310,Denmark,Nuclear,0
+311,Denmark,Nuclear,0
+312,Denmark,Nuclear,0
+313,Denmark,Nuclear,0
+314,Denmark,Nuclear,0
+315,Denmark,Nuclear,0
+316,Denmark,Nuclear,0
+317,Denmark,Nuclear,0
+318,Denmark,Nuclear,0
+319,Denmark,Nuclear,0
+320,Denmark,Nuclear,0
+321,Denmark,Nuclear,0
+322,Denmark,Nuclear,0
+323,Denmark,Nuclear,0
+324,Denmark,Nuclear,0
+325,Denmark,Nuclear,0
+326,Denmark,Nuclear,0
+327,Denmark,Nuclear,0
+328,Denmark,Nuclear,0
+329,Denmark,Nuclear,0
+330,Denmark,Nuclear,0
+331,Denmark,Nuclear,0
+332,Denmark,Nuclear,0
+333,Denmark,Nuclear,0
+334,Denmark,Nuclear,0
+335,Denmark,Nuclear,0
+336,Denmark,Nuclear,0
+337,Denmark,Nuclear,0
+338,Denmark,Nuclear,0
+339,Denmark,Nuclear,0
+340,Denmark,Nuclear,0
+341,Denmark,Nuclear,0
+342,Denmark,Nuclear,0
+343,Denmark,Nuclear,0
+344,Denmark,Nuclear,0
+345,Denmark,Nuclear,0
+346,Denmark,Nuclear,0
+347,Denmark,Nuclear,0
+348,Denmark,Nuclear,0
+349,Denmark,Nuclear,0
+350,Denmark,Nuclear,0
+351,Denmark,Nuclear,0
+352,Denmark,Nuclear,0
+353,Denmark,Nuclear,0
+354,Denmark,Nuclear,0
+355,Denmark,Nuclear,0
+356,Denmark,Nuclear,0
+357,Denmark,Nuclear,0
+358,Denmark,Nuclear,0
+359,Denmark,Nuclear,0
+360,Denmark,Nuclear,0
+361,Denmark,Nuclear,0
+362,Denmark,Nuclear,0
+363,Denmark,Nuclear,0
+364,Denmark,Nuclear,0
+365,Denmark,Nuclear,0
+274,Denmark,Oil,722
+275,Denmark,Oil,699
+276,Denmark,Oil,811
+277,Denmark,Oil,893
+278,Denmark,Oil,655
+279,Denmark,Oil,498
+280,Denmark,Oil,714
+281,Denmark,Oil,777
+282,Denmark,Oil,903
+283,Denmark,Oil,1182
+284,Denmark,Oil,1078
+285,Denmark,Oil,1017
+286,Denmark,Oil,1040
+287,Denmark,Oil,1116
+288,Denmark,Oil,875
+289,Denmark,Oil,689
+290,Denmark,Oil,1077
+291,Denmark,Oil,1118
+292,Denmark,Oil,987
+293,Denmark,Oil,1001
+294,Denmark,Oil,1024
+295,Denmark,Oil,910
+296,Denmark,Oil,882
+297,Denmark,Oil,795
+298,Denmark,Oil,844
+299,Denmark,Oil,897
+300,Denmark,Oil,910
+301,Denmark,Oil,749
+302,Denmark,Oil,768
+303,Denmark,Oil,833
+304,Denmark,Oil,842
+305,Denmark,Oil,688
+306,Denmark,Oil,764
+307,Denmark,Oil,1157
+308,Denmark,Oil,946
+309,Denmark,Oil,846
+310,Denmark,Oil,582
+311,Denmark,Oil,714
+312,Denmark,Oil,857
+313,Denmark,Oil,861
+314,Denmark,Oil,618
+315,Denmark,Oil,540
+316,Denmark,Oil,959
+317,Denmark,Oil,905
+318,Denmark,Oil,1016
+319,Denmark,Oil,918
+320,Denmark,Oil,686
+321,Denmark,Oil,705
+322,Denmark,Oil,885
+323,Denmark,Oil,1074
+324,Denmark,Oil,1089
+325,Denmark,Oil,1176
+326,Denmark,Oil,1061
+327,Denmark,Oil,1079
+328,Denmark,Oil,1100
+329,Denmark,Oil,1032
+330,Denmark,Oil,1061
+331,Denmark,Oil,855
+332,Denmark,Oil,973
+333,Denmark,Oil,1174
+334,Denmark,Oil,1158
+335,Denmark,Oil,1101
+336,Denmark,Oil,966
+337,Denmark,Oil,1067
+338,Denmark,Oil,1054
+339,Denmark,Oil,1354
+340,Denmark,Oil,1802
+341,Denmark,Oil,1099
+342,Denmark,Oil,1151
+343,Denmark,Oil,1149
+344,Denmark,Oil,1131
+345,Denmark,Oil,1061
+346,Denmark,Oil,1302
+347,Denmark,Oil,1410
+348,Denmark,Oil,1258
+349,Denmark,Oil,2484
+350,Denmark,Oil,1379
+351,Denmark,Oil,1175
+352,Denmark,Oil,1054
+353,Denmark,Oil,1064
+354,Denmark,Oil,1035
+355,Denmark,Oil,1035
+356,Denmark,Oil,1044
+357,Denmark,Oil,1080
+358,Denmark,Oil,928
+359,Denmark,Oil,871
+360,Denmark,Oil,492
+361,Denmark,Oil,708
+362,Denmark,Oil,734
+363,Denmark,Oil,503
+364,Denmark,Oil,491
+365,Denmark,Oil,18
+274,Denmark,Other fossil fuel,0
+275,Denmark,Other fossil fuel,0
+276,Denmark,Other fossil fuel,0
+277,Denmark,Other fossil fuel,0
+278,Denmark,Other fossil fuel,0
+279,Denmark,Other fossil fuel,0
+280,Denmark,Other fossil fuel,0
+281,Denmark,Other fossil fuel,0
+282,Denmark,Other fossil fuel,0
+283,Denmark,Other fossil fuel,0
+284,Denmark,Other fossil fuel,0
+285,Denmark,Other fossil fuel,0
+286,Denmark,Other fossil fuel,0
+287,Denmark,Other fossil fuel,0
+288,Denmark,Other fossil fuel,0
+289,Denmark,Other fossil fuel,0
+290,Denmark,Other fossil fuel,0
+291,Denmark,Other fossil fuel,0
+292,Denmark,Other fossil fuel,0
+293,Denmark,Other fossil fuel,0
+294,Denmark,Other fossil fuel,0
+295,Denmark,Other fossil fuel,0
+296,Denmark,Other fossil fuel,0
+297,Denmark,Other fossil fuel,0
+298,Denmark,Other fossil fuel,0
+299,Denmark,Other fossil fuel,0
+300,Denmark,Other fossil fuel,0
+301,Denmark,Other fossil fuel,0
+302,Denmark,Other fossil fuel,0
+303,Denmark,Other fossil fuel,0
+304,Denmark,Other fossil fuel,0
+305,Denmark,Other fossil fuel,0
+306,Denmark,Other fossil fuel,0
+307,Denmark,Other fossil fuel,0
+308,Denmark,Other fossil fuel,0
+309,Denmark,Other fossil fuel,0
+310,Denmark,Other fossil fuel,0
+311,Denmark,Other fossil fuel,0
+312,Denmark,Other fossil fuel,0
+313,Denmark,Other fossil fuel,0
+314,Denmark,Other fossil fuel,0
+315,Denmark,Other fossil fuel,0
+316,Denmark,Other fossil fuel,0
+317,Denmark,Other fossil fuel,0
+318,Denmark,Other fossil fuel,0
+319,Denmark,Other fossil fuel,0
+320,Denmark,Other fossil fuel,0
+321,Denmark,Other fossil fuel,0
+322,Denmark,Other fossil fuel,0
+323,Denmark,Other fossil fuel,0
+324,Denmark,Other fossil fuel,0
+325,Denmark,Other fossil fuel,0
+326,Denmark,Other fossil fuel,0
+327,Denmark,Other fossil fuel,0
+328,Denmark,Other fossil fuel,0
+329,Denmark,Other fossil fuel,0
+330,Denmark,Other fossil fuel,0
+331,Denmark,Other fossil fuel,0
+332,Denmark,Other fossil fuel,0
+333,Denmark,Other fossil fuel,0
+334,Denmark,Other fossil fuel,0
+335,Denmark,Other fossil fuel,0
+336,Denmark,Other fossil fuel,0
+337,Denmark,Other fossil fuel,0
+338,Denmark,Other fossil fuel,0
+339,Denmark,Other fossil fuel,0
+340,Denmark,Other fossil fuel,0
+341,Denmark,Other fossil fuel,0
+342,Denmark,Other fossil fuel,0
+343,Denmark,Other fossil fuel,0
+344,Denmark,Other fossil fuel,0
+345,Denmark,Other fossil fuel,0
+346,Denmark,Other fossil fuel,0
+347,Denmark,Other fossil fuel,0
+348,Denmark,Other fossil fuel,0
+349,Denmark,Other fossil fuel,0
+350,Denmark,Other fossil fuel,0
+351,Denmark,Other fossil fuel,0
+352,Denmark,Other fossil fuel,0
+353,Denmark,Other fossil fuel,0
+354,Denmark,Other fossil fuel,0
+355,Denmark,Other fossil fuel,0
+356,Denmark,Other fossil fuel,0
+357,Denmark,Other fossil fuel,0
+358,Denmark,Other fossil fuel,0
+359,Denmark,Other fossil fuel,0
+360,Denmark,Other fossil fuel,0
+361,Denmark,Other fossil fuel,0
+362,Denmark,Other fossil fuel,0
+363,Denmark,Other fossil fuel,0
+364,Denmark,Other fossil fuel,0
+365,Denmark,Other fossil fuel,0
+274,Denmark,Other renewables,0
+275,Denmark,Other renewables,0
+276,Denmark,Other renewables,0
+277,Denmark,Other renewables,0
+278,Denmark,Other renewables,0
+279,Denmark,Other renewables,0
+280,Denmark,Other renewables,0
+281,Denmark,Other renewables,0
+282,Denmark,Other renewables,0
+283,Denmark,Other renewables,0
+284,Denmark,Other renewables,0
+285,Denmark,Other renewables,0
+286,Denmark,Other renewables,0
+287,Denmark,Other renewables,0
+288,Denmark,Other renewables,0
+289,Denmark,Other renewables,0
+290,Denmark,Other renewables,0
+291,Denmark,Other renewables,0
+292,Denmark,Other renewables,0
+293,Denmark,Other renewables,0
+294,Denmark,Other renewables,0
+295,Denmark,Other renewables,0
+296,Denmark,Other renewables,0
+297,Denmark,Other renewables,0
+298,Denmark,Other renewables,0
+299,Denmark,Other renewables,0
+300,Denmark,Other renewables,0
+301,Denmark,Other renewables,0
+302,Denmark,Other renewables,0
+303,Denmark,Other renewables,0
+304,Denmark,Other renewables,0
+305,Denmark,Other renewables,0
+306,Denmark,Other renewables,0
+307,Denmark,Other renewables,0
+308,Denmark,Other renewables,0
+309,Denmark,Other renewables,0
+310,Denmark,Other renewables,0
+311,Denmark,Other renewables,0
+312,Denmark,Other renewables,0
+313,Denmark,Other renewables,0
+314,Denmark,Other renewables,0
+315,Denmark,Other renewables,0
+316,Denmark,Other renewables,0
+317,Denmark,Other renewables,0
+318,Denmark,Other renewables,0
+319,Denmark,Other renewables,0
+320,Denmark,Other renewables,0
+321,Denmark,Other renewables,0
+322,Denmark,Other renewables,0
+323,Denmark,Other renewables,0
+324,Denmark,Other renewables,0
+325,Denmark,Other renewables,0
+326,Denmark,Other renewables,0
+327,Denmark,Other renewables,0
+328,Denmark,Other renewables,0
+329,Denmark,Other renewables,0
+330,Denmark,Other renewables,0
+331,Denmark,Other renewables,0
+332,Denmark,Other renewables,0
+333,Denmark,Other renewables,0
+334,Denmark,Other renewables,0
+335,Denmark,Other renewables,0
+336,Denmark,Other renewables,0
+337,Denmark,Other renewables,0
+338,Denmark,Other renewables,0
+339,Denmark,Other renewables,0
+340,Denmark,Other renewables,0
+341,Denmark,Other renewables,0
+342,Denmark,Other renewables,0
+343,Denmark,Other renewables,0
+344,Denmark,Other renewables,0
+345,Denmark,Other renewables,0
+346,Denmark,Other renewables,0
+347,Denmark,Other renewables,0
+348,Denmark,Other renewables,0
+349,Denmark,Other renewables,0
+350,Denmark,Other renewables,0
+351,Denmark,Other renewables,0
+352,Denmark,Other renewables,0
+353,Denmark,Other renewables,0
+354,Denmark,Other renewables,0
+355,Denmark,Other renewables,0
+356,Denmark,Other renewables,0
+357,Denmark,Other renewables,0
+358,Denmark,Other renewables,0
+359,Denmark,Other renewables,0
+360,Denmark,Other renewables,0
+361,Denmark,Other renewables,0
+362,Denmark,Other renewables,0
+363,Denmark,Other renewables,0
+364,Denmark,Other renewables,0
+365,Denmark,Other renewables,0
+274,Denmark,Pumped storage generation,0
+275,Denmark,Pumped storage generation,0
+276,Denmark,Pumped storage generation,0
+277,Denmark,Pumped storage generation,0
+278,Denmark,Pumped storage generation,0
+279,Denmark,Pumped storage generation,0
+280,Denmark,Pumped storage generation,0
+281,Denmark,Pumped storage generation,0
+282,Denmark,Pumped storage generation,0
+283,Denmark,Pumped storage generation,0
+284,Denmark,Pumped storage generation,0
+285,Denmark,Pumped storage generation,0
+286,Denmark,Pumped storage generation,0
+287,Denmark,Pumped storage generation,0
+288,Denmark,Pumped storage generation,0
+289,Denmark,Pumped storage generation,0
+290,Denmark,Pumped storage generation,0
+291,Denmark,Pumped storage generation,0
+292,Denmark,Pumped storage generation,0
+293,Denmark,Pumped storage generation,0
+294,Denmark,Pumped storage generation,0
+295,Denmark,Pumped storage generation,0
+296,Denmark,Pumped storage generation,0
+297,Denmark,Pumped storage generation,0
+298,Denmark,Pumped storage generation,0
+299,Denmark,Pumped storage generation,0
+300,Denmark,Pumped storage generation,0
+301,Denmark,Pumped storage generation,0
+302,Denmark,Pumped storage generation,0
+303,Denmark,Pumped storage generation,0
+304,Denmark,Pumped storage generation,0
+305,Denmark,Pumped storage generation,0
+306,Denmark,Pumped storage generation,0
+307,Denmark,Pumped storage generation,0
+308,Denmark,Pumped storage generation,0
+309,Denmark,Pumped storage generation,0
+310,Denmark,Pumped storage generation,0
+311,Denmark,Pumped storage generation,0
+312,Denmark,Pumped storage generation,0
+313,Denmark,Pumped storage generation,0
+314,Denmark,Pumped storage generation,0
+315,Denmark,Pumped storage generation,0
+316,Denmark,Pumped storage generation,0
+317,Denmark,Pumped storage generation,0
+318,Denmark,Pumped storage generation,0
+319,Denmark,Pumped storage generation,0
+320,Denmark,Pumped storage generation,0
+321,Denmark,Pumped storage generation,0
+322,Denmark,Pumped storage generation,0
+323,Denmark,Pumped storage generation,0
+324,Denmark,Pumped storage generation,0
+325,Denmark,Pumped storage generation,0
+326,Denmark,Pumped storage generation,0
+327,Denmark,Pumped storage generation,0
+328,Denmark,Pumped storage generation,0
+329,Denmark,Pumped storage generation,0
+330,Denmark,Pumped storage generation,0
+331,Denmark,Pumped storage generation,0
+332,Denmark,Pumped storage generation,0
+333,Denmark,Pumped storage generation,0
+334,Denmark,Pumped storage generation,0
+335,Denmark,Pumped storage generation,0
+336,Denmark,Pumped storage generation,0
+337,Denmark,Pumped storage generation,0
+338,Denmark,Pumped storage generation,0
+339,Denmark,Pumped storage generation,0
+340,Denmark,Pumped storage generation,0
+341,Denmark,Pumped storage generation,0
+342,Denmark,Pumped storage generation,0
+343,Denmark,Pumped storage generation,0
+344,Denmark,Pumped storage generation,0
+345,Denmark,Pumped storage generation,0
+346,Denmark,Pumped storage generation,0
+347,Denmark,Pumped storage generation,0
+348,Denmark,Pumped storage generation,0
+349,Denmark,Pumped storage generation,0
+350,Denmark,Pumped storage generation,0
+351,Denmark,Pumped storage generation,0
+352,Denmark,Pumped storage generation,0
+353,Denmark,Pumped storage generation,0
+354,Denmark,Pumped storage generation,0
+355,Denmark,Pumped storage generation,0
+356,Denmark,Pumped storage generation,0
+357,Denmark,Pumped storage generation,0
+358,Denmark,Pumped storage generation,0
+359,Denmark,Pumped storage generation,0
+360,Denmark,Pumped storage generation,0
+361,Denmark,Pumped storage generation,0
+362,Denmark,Pumped storage generation,0
+363,Denmark,Pumped storage generation,0
+364,Denmark,Pumped storage generation,0
+365,Denmark,Pumped storage generation,0
+274,Denmark,Run-of-River Hydro,0
+275,Denmark,Run-of-River Hydro,0
+276,Denmark,Run-of-River Hydro,0
+277,Denmark,Run-of-River Hydro,0
+278,Denmark,Run-of-River Hydro,0
+279,Denmark,Run-of-River Hydro,0
+280,Denmark,Run-of-River Hydro,0
+281,Denmark,Run-of-River Hydro,0
+282,Denmark,Run-of-River Hydro,0
+283,Denmark,Run-of-River Hydro,0
+284,Denmark,Run-of-River Hydro,0
+285,Denmark,Run-of-River Hydro,0
+286,Denmark,Run-of-River Hydro,0
+287,Denmark,Run-of-River Hydro,0
+288,Denmark,Run-of-River Hydro,0
+289,Denmark,Run-of-River Hydro,0
+290,Denmark,Run-of-River Hydro,0
+291,Denmark,Run-of-River Hydro,0
+292,Denmark,Run-of-River Hydro,0
+293,Denmark,Run-of-River Hydro,0
+294,Denmark,Run-of-River Hydro,0
+295,Denmark,Run-of-River Hydro,0
+296,Denmark,Run-of-River Hydro,0
+297,Denmark,Run-of-River Hydro,0
+298,Denmark,Run-of-River Hydro,0
+299,Denmark,Run-of-River Hydro,0
+300,Denmark,Run-of-River Hydro,0
+301,Denmark,Run-of-River Hydro,0
+302,Denmark,Run-of-River Hydro,0
+303,Denmark,Run-of-River Hydro,0
+304,Denmark,Run-of-River Hydro,0
+305,Denmark,Run-of-River Hydro,0
+306,Denmark,Run-of-River Hydro,0
+307,Denmark,Run-of-River Hydro,0
+308,Denmark,Run-of-River Hydro,0
+309,Denmark,Run-of-River Hydro,0
+310,Denmark,Run-of-River Hydro,0
+311,Denmark,Run-of-River Hydro,0
+312,Denmark,Run-of-River Hydro,0
+313,Denmark,Run-of-River Hydro,0
+314,Denmark,Run-of-River Hydro,0
+315,Denmark,Run-of-River Hydro,0
+316,Denmark,Run-of-River Hydro,0
+317,Denmark,Run-of-River Hydro,0
+318,Denmark,Run-of-River Hydro,0
+319,Denmark,Run-of-River Hydro,0
+320,Denmark,Run-of-River Hydro,0
+321,Denmark,Run-of-River Hydro,0
+322,Denmark,Run-of-River Hydro,0
+323,Denmark,Run-of-River Hydro,0
+324,Denmark,Run-of-River Hydro,0
+325,Denmark,Run-of-River Hydro,0
+326,Denmark,Run-of-River Hydro,0
+327,Denmark,Run-of-River Hydro,0
+328,Denmark,Run-of-River Hydro,0
+329,Denmark,Run-of-River Hydro,0
+330,Denmark,Run-of-River Hydro,0
+331,Denmark,Run-of-River Hydro,0
+332,Denmark,Run-of-River Hydro,0
+333,Denmark,Run-of-River Hydro,0
+334,Denmark,Run-of-River Hydro,0
+335,Denmark,Run-of-River Hydro,0
+336,Denmark,Run-of-River Hydro,0
+337,Denmark,Run-of-River Hydro,0
+338,Denmark,Run-of-River Hydro,0
+339,Denmark,Run-of-River Hydro,0
+340,Denmark,Run-of-River Hydro,0
+341,Denmark,Run-of-River Hydro,0
+342,Denmark,Run-of-River Hydro,0
+343,Denmark,Run-of-River Hydro,0
+344,Denmark,Run-of-River Hydro,0
+345,Denmark,Run-of-River Hydro,0
+346,Denmark,Run-of-River Hydro,0
+347,Denmark,Run-of-River Hydro,0
+348,Denmark,Run-of-River Hydro,0
+349,Denmark,Run-of-River Hydro,0
+350,Denmark,Run-of-River Hydro,0
+351,Denmark,Run-of-River Hydro,0
+352,Denmark,Run-of-River Hydro,0
+353,Denmark,Run-of-River Hydro,0
+354,Denmark,Run-of-River Hydro,0
+355,Denmark,Run-of-River Hydro,0
+356,Denmark,Run-of-River Hydro,0
+357,Denmark,Run-of-River Hydro,0
+358,Denmark,Run-of-River Hydro,0
+359,Denmark,Run-of-River Hydro,0
+360,Denmark,Run-of-River Hydro,0
+361,Denmark,Run-of-River Hydro,0
+362,Denmark,Run-of-River Hydro,0
+363,Denmark,Run-of-River Hydro,0
+364,Denmark,Run-of-River Hydro,0
+365,Denmark,Run-of-River Hydro,0
+274,Denmark,Solar,2328
+275,Denmark,Solar,7431
+276,Denmark,Solar,6626
+277,Denmark,Solar,4568
+278,Denmark,Solar,1553
+279,Denmark,Solar,6265
+280,Denmark,Solar,4544
+281,Denmark,Solar,6162
+282,Denmark,Solar,3944
+283,Denmark,Solar,5532
+284,Denmark,Solar,5880
+285,Denmark,Solar,5683
+286,Denmark,Solar,2602
+287,Denmark,Solar,5647
+288,Denmark,Solar,4975
+289,Denmark,Solar,6498
+290,Denmark,Solar,1824
+291,Denmark,Solar,3612
+292,Denmark,Solar,6648
+293,Denmark,Solar,5484
+294,Denmark,Solar,1091
+295,Denmark,Solar,1516
+296,Denmark,Solar,2804
+297,Denmark,Solar,2295
+298,Denmark,Solar,2314
+299,Denmark,Solar,2331
+300,Denmark,Solar,2381
+301,Denmark,Solar,2961
+302,Denmark,Solar,2933
+303,Denmark,Solar,2279
+304,Denmark,Solar,2247
+305,Denmark,Solar,1285
+306,Denmark,Solar,1590
+307,Denmark,Solar,1652
+308,Denmark,Solar,1365
+309,Denmark,Solar,3416
+310,Denmark,Solar,1037
+311,Denmark,Solar,1778
+312,Denmark,Solar,1818
+313,Denmark,Solar,1967
+314,Denmark,Solar,906
+315,Denmark,Solar,501
+316,Denmark,Solar,622
+317,Denmark,Solar,1475
+318,Denmark,Solar,931
+319,Denmark,Solar,441
+320,Denmark,Solar,469
+321,Denmark,Solar,1220
+322,Denmark,Solar,1778
+323,Denmark,Solar,1139
+324,Denmark,Solar,2338
+325,Denmark,Solar,619
+326,Denmark,Solar,297
+327,Denmark,Solar,426
+328,Denmark,Solar,401
+329,Denmark,Solar,431
+330,Denmark,Solar,1327
+331,Denmark,Solar,703
+332,Denmark,Solar,462
+333,Denmark,Solar,454
+334,Denmark,Solar,541
+335,Denmark,Solar,811
+336,Denmark,Solar,680
+337,Denmark,Solar,349
+338,Denmark,Solar,290
+339,Denmark,Solar,267
+340,Denmark,Solar,1044
+341,Denmark,Solar,774
+342,Denmark,Solar,993
+343,Denmark,Solar,210
+344,Denmark,Solar,320
+345,Denmark,Solar,479
+346,Denmark,Solar,395
+347,Denmark,Solar,676
+348,Denmark,Solar,577
+349,Denmark,Solar,325
+350,Denmark,Solar,758
+351,Denmark,Solar,467
+352,Denmark,Solar,752
+353,Denmark,Solar,150
+354,Denmark,Solar,197
+355,Denmark,Solar,552
+356,Denmark,Solar,668
+357,Denmark,Solar,1781
+358,Denmark,Solar,675
+359,Denmark,Solar,225
+360,Denmark,Solar,371
+361,Denmark,Solar,1533
+362,Denmark,Solar,643
+363,Denmark,Solar,591
+364,Denmark,Solar,762
+365,Denmark,Solar,0
+274,Denmark,Wind offshore,38017
+275,Denmark,Wind offshore,42428
+276,Denmark,Wind offshore,29573
+277,Denmark,Wind offshore,22857
+278,Denmark,Wind offshore,41657
+279,Denmark,Wind offshore,39538
+280,Denmark,Wind offshore,41155
+281,Denmark,Wind offshore,34808
+282,Denmark,Wind offshore,19790
+283,Denmark,Wind offshore,36523
+284,Denmark,Wind offshore,29664
+285,Denmark,Wind offshore,14518
+286,Denmark,Wind offshore,10898
+287,Denmark,Wind offshore,8917
+288,Denmark,Wind offshore,22176
+289,Denmark,Wind offshore,35071
+290,Denmark,Wind offshore,29270
+291,Denmark,Wind offshore,34965
+292,Denmark,Wind offshore,6999
+293,Denmark,Wind offshore,31483
+294,Denmark,Wind offshore,9080
+295,Denmark,Wind offshore,6093
+296,Denmark,Wind offshore,14351
+297,Denmark,Wind offshore,35634
+298,Denmark,Wind offshore,29033
+299,Denmark,Wind offshore,16305
+300,Denmark,Wind offshore,23348
+301,Denmark,Wind offshore,20066
+302,Denmark,Wind offshore,16967
+303,Denmark,Wind offshore,7383
+304,Denmark,Wind offshore,6776
+305,Denmark,Wind offshore,36781
+306,Denmark,Wind offshore,39453
+307,Denmark,Wind offshore,33647
+308,Denmark,Wind offshore,26781
+309,Denmark,Wind offshore,26142
+310,Denmark,Wind offshore,35555
+311,Denmark,Wind offshore,38918
+312,Denmark,Wind offshore,40492
+313,Denmark,Wind offshore,35812
+314,Denmark,Wind offshore,34043
+315,Denmark,Wind offshore,40016
+316,Denmark,Wind offshore,15751
+317,Denmark,Wind offshore,10323
+318,Denmark,Wind offshore,30247
+319,Denmark,Wind offshore,36231
+320,Denmark,Wind offshore,49729
+321,Denmark,Wind offshore,48001
+322,Denmark,Wind offshore,45390
+323,Denmark,Wind offshore,31055
+324,Denmark,Wind offshore,12576
+325,Denmark,Wind offshore,12649
+326,Denmark,Wind offshore,44221
+327,Denmark,Wind offshore,39894
+328,Denmark,Wind offshore,19396
+329,Denmark,Wind offshore,24302
+330,Denmark,Wind offshore,7143
+331,Denmark,Wind offshore,31619
+332,Denmark,Wind offshore,48011
+333,Denmark,Wind offshore,26371
+334,Denmark,Wind offshore,11482
+335,Denmark,Wind offshore,9878
+336,Denmark,Wind offshore,24905
+337,Denmark,Wind offshore,37350
+338,Denmark,Wind offshore,39839
+339,Denmark,Wind offshore,28891
+340,Denmark,Wind offshore,7773
+341,Denmark,Wind offshore,16932
+342,Denmark,Wind offshore,9724
+343,Denmark,Wind offshore,8503
+344,Denmark,Wind offshore,14921
+345,Denmark,Wind offshore,16316
+346,Denmark,Wind offshore,21806
+347,Denmark,Wind offshore,21459
+348,Denmark,Wind offshore,24178
+349,Denmark,Wind offshore,5499
+350,Denmark,Wind offshore,6268
+351,Denmark,Wind offshore,34697
+352,Denmark,Wind offshore,42092
+353,Denmark,Wind offshore,48021
+354,Denmark,Wind offshore,44717
+355,Denmark,Wind offshore,26809
+356,Denmark,Wind offshore,34823
+357,Denmark,Wind offshore,9729
+358,Denmark,Wind offshore,11002
+359,Denmark,Wind offshore,25050
+360,Denmark,Wind offshore,35465
+361,Denmark,Wind offshore,44541
+362,Denmark,Wind offshore,44089
+363,Denmark,Wind offshore,46542
+364,Denmark,Wind offshore,46247
+365,Denmark,Wind offshore,1168
+274,Denmark,Wind onshore,39989
+275,Denmark,Wind onshore,45326
+276,Denmark,Wind onshore,34760
+277,Denmark,Wind onshore,29172
+278,Denmark,Wind onshore,65334
+279,Denmark,Wind onshore,76165
+280,Denmark,Wind onshore,69683
+281,Denmark,Wind onshore,34079
+282,Denmark,Wind onshore,23078
+283,Denmark,Wind onshore,36818
+284,Denmark,Wind onshore,35819
+285,Denmark,Wind onshore,17921
+286,Denmark,Wind onshore,12296
+287,Denmark,Wind onshore,11793
+288,Denmark,Wind onshore,24710
+289,Denmark,Wind onshore,56134
+290,Denmark,Wind onshore,33231
+291,Denmark,Wind onshore,38650
+292,Denmark,Wind onshore,7069
+293,Denmark,Wind onshore,34790
+294,Denmark,Wind onshore,10478
+295,Denmark,Wind onshore,7640
+296,Denmark,Wind onshore,15778
+297,Denmark,Wind onshore,45524
+298,Denmark,Wind onshore,35086
+299,Denmark,Wind onshore,16263
+300,Denmark,Wind onshore,22083
+301,Denmark,Wind onshore,21964
+302,Denmark,Wind onshore,23489
+303,Denmark,Wind onshore,9954
+304,Denmark,Wind onshore,10441
+305,Denmark,Wind onshore,61420
+306,Denmark,Wind onshore,47199
+307,Denmark,Wind onshore,47754
+308,Denmark,Wind onshore,52143
+309,Denmark,Wind onshore,29801
+310,Denmark,Wind onshore,44587
+311,Denmark,Wind onshore,49867
+312,Denmark,Wind onshore,45020
+313,Denmark,Wind onshore,36846
+314,Denmark,Wind onshore,44664
+315,Denmark,Wind onshore,67400
+316,Denmark,Wind onshore,19864
+317,Denmark,Wind onshore,11631
+318,Denmark,Wind onshore,37534
+319,Denmark,Wind onshore,50254
+320,Denmark,Wind onshore,85887
+321,Denmark,Wind onshore,92072
+322,Denmark,Wind onshore,62441
+323,Denmark,Wind onshore,30301
+324,Denmark,Wind onshore,14666
+325,Denmark,Wind onshore,8766
+326,Denmark,Wind onshore,46586
+327,Denmark,Wind onshore,45246
+328,Denmark,Wind onshore,25300
+329,Denmark,Wind onshore,31410
+330,Denmark,Wind onshore,10205
+331,Denmark,Wind onshore,32165
+332,Denmark,Wind onshore,55973
+333,Denmark,Wind onshore,20134
+334,Denmark,Wind onshore,11706
+335,Denmark,Wind onshore,12357
+336,Denmark,Wind onshore,23145
+337,Denmark,Wind onshore,34471
+338,Denmark,Wind onshore,40982
+339,Denmark,Wind onshore,26895
+340,Denmark,Wind onshore,4034
+341,Denmark,Wind onshore,13486
+342,Denmark,Wind onshore,16383
+343,Denmark,Wind onshore,10912
+344,Denmark,Wind onshore,9151
+345,Denmark,Wind onshore,9789
+346,Denmark,Wind onshore,10170
+347,Denmark,Wind onshore,16369
+348,Denmark,Wind onshore,17427
+349,Denmark,Wind onshore,2749
+350,Denmark,Wind onshore,17017
+351,Denmark,Wind onshore,55867
+352,Denmark,Wind onshore,47681
+353,Denmark,Wind onshore,51595
+354,Denmark,Wind onshore,55028
+355,Denmark,Wind onshore,35991
+356,Denmark,Wind onshore,41127
+357,Denmark,Wind onshore,9362
+358,Denmark,Wind onshore,12430
+359,Denmark,Wind onshore,29491
+360,Denmark,Wind onshore,46894
+361,Denmark,Wind onshore,41487
+362,Denmark,Wind onshore,55936
+363,Denmark,Wind onshore,77452
+364,Denmark,Wind onshore,77196
+365,Denmark,Wind onshore,2897
+274,France,Biomass,8082
+275,France,Biomass,7972
+276,France,Biomass,7741
+277,France,Biomass,7706
+278,France,Biomass,7726
+279,France,Biomass,7703
+280,France,Biomass,7746
+281,France,Biomass,7685
+282,France,Biomass,6991
+283,France,Biomass,6922
+284,France,Biomass,6663
+285,France,Biomass,7010
+286,France,Biomass,7327
+287,France,Biomass,7696
+288,France,Biomass,7636
+289,France,Biomass,7641
+290,France,Biomass,7673
+291,France,Biomass,7848
+292,France,Biomass,7691
+293,France,Biomass,7626
+294,France,Biomass,7714
+295,France,Biomass,7096
+296,France,Biomass,1130
+297,France,Biomass,7615
+298,France,Biomass,7814
+299,France,Biomass,7731
+300,France,Biomass,7499
+301,France,Biomass,7414
+302,France,Biomass,7099
+303,France,Biomass,7133
+304,France,Biomass,7452
+305,France,Biomass,7214
+306,France,Biomass,6938
+307,France,Biomass,6661
+308,France,Biomass,6714
+309,France,Biomass,6729
+310,France,Biomass,6556
+311,France,Biomass,6270
+312,France,Biomass,6631
+313,France,Biomass,6527
+314,France,Biomass,6558
+315,France,Biomass,6599
+316,France,Biomass,6608
+317,France,Biomass,6663
+318,France,Biomass,6731
+319,France,Biomass,6660
+320,France,Biomass,6957
+321,France,Biomass,6888
+322,France,Biomass,8144
+323,France,Biomass,9856
+324,France,Biomass,10357
+325,France,Biomass,10459
+326,France,Biomass,10752
+327,France,Biomass,9753
+328,France,Biomass,9804
+329,France,Biomass,9795
+330,France,Biomass,9995
+331,France,Biomass,9870
+332,France,Biomass,9968
+333,France,Biomass,8347
+334,France,Biomass,6697
+335,France,Biomass,9775
+336,France,Biomass,10166
+337,France,Biomass,10188
+338,France,Biomass,10251
+339,France,Biomass,10400
+340,France,Biomass,10627
+341,France,Biomass,10576
+342,France,Biomass,10593
+343,France,Biomass,10616
+344,France,Biomass,10620
+345,France,Biomass,10584
+346,France,Biomass,7886
+347,France,Biomass,7265
+348,France,Biomass,7441
+349,France,Biomass,7282
+350,France,Biomass,7587
+351,France,Biomass,10243
+352,France,Biomass,10915
+353,France,Biomass,11008
+354,France,Biomass,10764
+355,France,Biomass,10915
+356,France,Biomass,10931
+357,France,Biomass,10664
+358,France,Biomass,10248
+359,France,Biomass,10240
+360,France,Biomass,10128
+361,France,Biomass,10106
+362,France,Biomass,10046
+363,France,Biomass,10245
+364,France,Biomass,10102
+365,France,Biomass,425
+274,France,Dam Hydro,20513
+275,France,Dam Hydro,16834
+276,France,Dam Hydro,22052
+277,France,Dam Hydro,24996
+278,France,Dam Hydro,17990
+279,France,Dam Hydro,18588
+280,France,Dam Hydro,18659
+281,France,Dam Hydro,12599
+282,France,Dam Hydro,10997
+283,France,Dam Hydro,14325
+284,France,Dam Hydro,14509
+285,France,Dam Hydro,18018
+286,France,Dam Hydro,25177
+287,France,Dam Hydro,20185
+288,France,Dam Hydro,14322
+289,France,Dam Hydro,13379
+290,France,Dam Hydro,13094
+291,France,Dam Hydro,18762
+292,France,Dam Hydro,17827
+293,France,Dam Hydro,21798
+294,France,Dam Hydro,24643
+295,France,Dam Hydro,17293
+296,France,Dam Hydro,11558
+297,France,Dam Hydro,10769
+298,France,Dam Hydro,12885
+299,France,Dam Hydro,15370
+300,France,Dam Hydro,21937
+301,France,Dam Hydro,15033
+302,France,Dam Hydro,11090
+303,France,Dam Hydro,4320
+304,France,Dam Hydro,12959
+305,France,Dam Hydro,6744
+306,France,Dam Hydro,8444
+307,France,Dam Hydro,15873
+308,France,Dam Hydro,19592
+309,France,Dam Hydro,8578
+310,France,Dam Hydro,7129
+311,France,Dam Hydro,16338
+312,France,Dam Hydro,14190
+313,France,Dam Hydro,20209
+314,France,Dam Hydro,21847
+315,France,Dam Hydro,15915
+316,France,Dam Hydro,17482
+317,France,Dam Hydro,11065
+318,France,Dam Hydro,26895
+319,France,Dam Hydro,18748
+320,France,Dam Hydro,27132
+321,France,Dam Hydro,17942
+322,France,Dam Hydro,18359
+323,France,Dam Hydro,13305
+324,France,Dam Hydro,10078
+325,France,Dam Hydro,29081
+326,France,Dam Hydro,26137
+327,France,Dam Hydro,29262
+328,France,Dam Hydro,29489
+329,France,Dam Hydro,23497
+330,France,Dam Hydro,14814
+331,France,Dam Hydro,16079
+332,France,Dam Hydro,33481
+333,France,Dam Hydro,51716
+334,France,Dam Hydro,53865
+335,France,Dam Hydro,52870
+336,France,Dam Hydro,32317
+337,France,Dam Hydro,14794
+338,France,Dam Hydro,11883
+339,France,Dam Hydro,52687
+340,France,Dam Hydro,44576
+341,France,Dam Hydro,35449
+342,France,Dam Hydro,46332
+343,France,Dam Hydro,44332
+344,France,Dam Hydro,18855
+345,France,Dam Hydro,27819
+346,France,Dam Hydro,76019
+347,France,Dam Hydro,78054
+348,France,Dam Hydro,75747
+349,France,Dam Hydro,57702
+350,France,Dam Hydro,61721
+351,France,Dam Hydro,38258
+352,France,Dam Hydro,36782
+353,France,Dam Hydro,25589
+354,France,Dam Hydro,20902
+355,France,Dam Hydro,21182
+356,France,Dam Hydro,26189
+357,France,Dam Hydro,24505
+358,France,Dam Hydro,23908
+359,France,Dam Hydro,23438
+360,France,Dam Hydro,12437
+361,France,Dam Hydro,15348
+362,France,Dam Hydro,19380
+363,France,Dam Hydro,20931
+364,France,Dam Hydro,23001
+365,France,Dam Hydro,526
+274,France,Geothermal,0
+275,France,Geothermal,0
+276,France,Geothermal,0
+277,France,Geothermal,0
+278,France,Geothermal,0
+279,France,Geothermal,0
+280,France,Geothermal,0
+281,France,Geothermal,0
+282,France,Geothermal,0
+283,France,Geothermal,0
+284,France,Geothermal,0
+285,France,Geothermal,0
+286,France,Geothermal,0
+287,France,Geothermal,0
+288,France,Geothermal,0
+289,France,Geothermal,0
+290,France,Geothermal,0
+291,France,Geothermal,0
+292,France,Geothermal,0
+293,France,Geothermal,0
+294,France,Geothermal,0
+295,France,Geothermal,0
+296,France,Geothermal,0
+297,France,Geothermal,0
+298,France,Geothermal,0
+299,France,Geothermal,0
+300,France,Geothermal,0
+301,France,Geothermal,0
+302,France,Geothermal,0
+303,France,Geothermal,0
+304,France,Geothermal,0
+305,France,Geothermal,0
+306,France,Geothermal,0
+307,France,Geothermal,0
+308,France,Geothermal,0
+309,France,Geothermal,0
+310,France,Geothermal,0
+311,France,Geothermal,0
+312,France,Geothermal,0
+313,France,Geothermal,0
+314,France,Geothermal,0
+315,France,Geothermal,0
+316,France,Geothermal,0
+317,France,Geothermal,0
+318,France,Geothermal,0
+319,France,Geothermal,0
+320,France,Geothermal,0
+321,France,Geothermal,0
+322,France,Geothermal,0
+323,France,Geothermal,0
+324,France,Geothermal,0
+325,France,Geothermal,0
+326,France,Geothermal,0
+327,France,Geothermal,0
+328,France,Geothermal,0
+329,France,Geothermal,0
+330,France,Geothermal,0
+331,France,Geothermal,0
+332,France,Geothermal,0
+333,France,Geothermal,0
+334,France,Geothermal,0
+335,France,Geothermal,0
+336,France,Geothermal,0
+337,France,Geothermal,0
+338,France,Geothermal,0
+339,France,Geothermal,0
+340,France,Geothermal,0
+341,France,Geothermal,0
+342,France,Geothermal,0
+343,France,Geothermal,0
+344,France,Geothermal,0
+345,France,Geothermal,0
+346,France,Geothermal,0
+347,France,Geothermal,0
+348,France,Geothermal,0
+349,France,Geothermal,0
+350,France,Geothermal,0
+351,France,Geothermal,0
+352,France,Geothermal,0
+353,France,Geothermal,0
+354,France,Geothermal,0
+355,France,Geothermal,0
+356,France,Geothermal,0
+357,France,Geothermal,0
+358,France,Geothermal,0
+359,France,Geothermal,0
+360,France,Geothermal,0
+361,France,Geothermal,0
+362,France,Geothermal,0
+363,France,Geothermal,0
+364,France,Geothermal,0
+365,France,Geothermal,0
+274,France,Hard Coal,656
+275,France,Hard Coal,378
+276,France,Hard Coal,351
+277,France,Hard Coal,380
+278,France,Hard Coal,422
+279,France,Hard Coal,315
+280,France,Hard Coal,306
+281,France,Hard Coal,335
+282,France,Hard Coal,294
+283,France,Hard Coal,114
+284,France,Hard Coal,228
+285,France,Hard Coal,330
+286,France,Hard Coal,397
+287,France,Hard Coal,439
+288,France,Hard Coal,288
+289,France,Hard Coal,504
+290,France,Hard Coal,3698
+291,France,Hard Coal,3898
+292,France,Hard Coal,331
+293,France,Hard Coal,355
+294,France,Hard Coal,2883
+295,France,Hard Coal,6889
+296,France,Hard Coal,24
+297,France,Hard Coal,267
+298,France,Hard Coal,275
+299,France,Hard Coal,5669
+300,France,Hard Coal,375
+301,France,Hard Coal,310
+302,France,Hard Coal,539
+303,France,Hard Coal,24
+304,France,Hard Coal,675
+305,France,Hard Coal,578
+306,France,Hard Coal,907
+307,France,Hard Coal,1059
+308,France,Hard Coal,1320
+309,France,Hard Coal,1229
+310,France,Hard Coal,894
+311,France,Hard Coal,966
+312,France,Hard Coal,1046
+313,France,Hard Coal,932
+314,France,Hard Coal,994
+315,France,Hard Coal,1237
+316,France,Hard Coal,1083
+317,France,Hard Coal,1035
+318,France,Hard Coal,2948
+319,France,Hard Coal,8894
+320,France,Hard Coal,7219
+321,France,Hard Coal,945
+322,France,Hard Coal,10075
+323,France,Hard Coal,11258
+324,France,Hard Coal,9293
+325,France,Hard Coal,11401
+326,France,Hard Coal,13838
+327,France,Hard Coal,13480
+328,France,Hard Coal,13667
+329,France,Hard Coal,12693
+330,France,Hard Coal,11137
+331,France,Hard Coal,15787
+332,France,Hard Coal,33195
+333,France,Hard Coal,29528
+334,France,Hard Coal,33086
+335,France,Hard Coal,38218
+336,France,Hard Coal,40066
+337,France,Hard Coal,41548
+338,France,Hard Coal,39520
+339,France,Hard Coal,39556
+340,France,Hard Coal,38653
+341,France,Hard Coal,37437
+342,France,Hard Coal,41217
+343,France,Hard Coal,40060
+344,France,Hard Coal,31803
+345,France,Hard Coal,27094
+346,France,Hard Coal,41499
+347,France,Hard Coal,41350
+348,France,Hard Coal,39540
+349,France,Hard Coal,40546
+350,France,Hard Coal,40148
+351,France,Hard Coal,41866
+352,France,Hard Coal,37850
+353,France,Hard Coal,16647
+354,France,Hard Coal,11669
+355,France,Hard Coal,11705
+356,France,Hard Coal,852
+357,France,Hard Coal,1030
+358,France,Hard Coal,949
+359,France,Hard Coal,982
+360,France,Hard Coal,457
+361,France,Hard Coal,0
+362,France,Hard Coal,167
+363,France,Hard Coal,820
+364,France,Hard Coal,960
+365,France,Hard Coal,43
+274,France,Lignite,0
+275,France,Lignite,0
+276,France,Lignite,0
+277,France,Lignite,0
+278,France,Lignite,0
+279,France,Lignite,0
+280,France,Lignite,0
+281,France,Lignite,0
+282,France,Lignite,0
+283,France,Lignite,0
+284,France,Lignite,0
+285,France,Lignite,0
+286,France,Lignite,0
+287,France,Lignite,0
+288,France,Lignite,0
+289,France,Lignite,0
+290,France,Lignite,0
+291,France,Lignite,0
+292,France,Lignite,0
+293,France,Lignite,0
+294,France,Lignite,0
+295,France,Lignite,0
+296,France,Lignite,0
+297,France,Lignite,0
+298,France,Lignite,0
+299,France,Lignite,0
+300,France,Lignite,0
+301,France,Lignite,0
+302,France,Lignite,0
+303,France,Lignite,0
+304,France,Lignite,0
+305,France,Lignite,0
+306,France,Lignite,0
+307,France,Lignite,0
+308,France,Lignite,0
+309,France,Lignite,0
+310,France,Lignite,0
+311,France,Lignite,0
+312,France,Lignite,0
+313,France,Lignite,0
+314,France,Lignite,0
+315,France,Lignite,0
+316,France,Lignite,0
+317,France,Lignite,0
+318,France,Lignite,0
+319,France,Lignite,0
+320,France,Lignite,0
+321,France,Lignite,0
+322,France,Lignite,0
+323,France,Lignite,0
+324,France,Lignite,0
+325,France,Lignite,0
+326,France,Lignite,0
+327,France,Lignite,0
+328,France,Lignite,0
+329,France,Lignite,0
+330,France,Lignite,0
+331,France,Lignite,0
+332,France,Lignite,0
+333,France,Lignite,0
+334,France,Lignite,0
+335,France,Lignite,0
+336,France,Lignite,0
+337,France,Lignite,0
+338,France,Lignite,0
+339,France,Lignite,0
+340,France,Lignite,0
+341,France,Lignite,0
+342,France,Lignite,0
+343,France,Lignite,0
+344,France,Lignite,0
+345,France,Lignite,0
+346,France,Lignite,0
+347,France,Lignite,0
+348,France,Lignite,0
+349,France,Lignite,0
+350,France,Lignite,0
+351,France,Lignite,0
+352,France,Lignite,0
+353,France,Lignite,0
+354,France,Lignite,0
+355,France,Lignite,0
+356,France,Lignite,0
+357,France,Lignite,0
+358,France,Lignite,0
+359,France,Lignite,0
+360,France,Lignite,0
+361,France,Lignite,0
+362,France,Lignite,0
+363,France,Lignite,0
+364,France,Lignite,0
+365,France,Lignite,0
+274,France,Natural Gas,51038
+275,France,Natural Gas,66085
+276,France,Natural Gas,118466
+277,France,Natural Gas,122103
+278,France,Natural Gas,83935
+279,France,Natural Gas,102795
+280,France,Natural Gas,120196
+281,France,Natural Gas,100432
+282,France,Natural Gas,81547
+283,France,Natural Gas,112321
+284,France,Natural Gas,121108
+285,France,Natural Gas,125785
+286,France,Natural Gas,135196
+287,France,Natural Gas,137314
+288,France,Natural Gas,117543
+289,France,Natural Gas,94802
+290,France,Natural Gas,115942
+291,France,Natural Gas,109242
+292,France,Natural Gas,142143
+293,France,Natural Gas,140431
+294,France,Natural Gas,135242
+295,France,Natural Gas,124580
+296,France,Natural Gas,102966
+297,France,Natural Gas,106442
+298,France,Natural Gas,128132
+299,France,Natural Gas,119977
+300,France,Natural Gas,114365
+301,France,Natural Gas,128954
+302,France,Natural Gas,125242
+303,France,Natural Gas,121331
+304,France,Natural Gas,122869
+305,France,Natural Gas,82051
+306,France,Natural Gas,149240
+307,France,Natural Gas,145096
+308,France,Natural Gas,147650
+309,France,Natural Gas,150866
+310,France,Natural Gas,101609
+311,France,Natural Gas,131199
+312,France,Natural Gas,110916
+313,France,Natural Gas,147791
+314,France,Natural Gas,163042
+315,France,Natural Gas,155301
+316,France,Natural Gas,159511
+317,France,Natural Gas,158293
+318,France,Natural Gas,149765
+319,France,Natural Gas,130081
+320,France,Natural Gas,85265
+321,France,Natural Gas,67376
+322,France,Natural Gas,134729
+323,France,Natural Gas,138975
+324,France,Natural Gas,143026
+325,France,Natural Gas,140656
+326,France,Natural Gas,146091
+327,France,Natural Gas,105119
+328,France,Natural Gas,122435
+329,France,Natural Gas,141661
+330,France,Natural Gas,148300
+331,France,Natural Gas,88802
+332,France,Natural Gas,179570
+333,France,Natural Gas,202417
+334,France,Natural Gas,213559
+335,France,Natural Gas,197974
+336,France,Natural Gas,196201
+337,France,Natural Gas,178000
+338,France,Natural Gas,162861
+339,France,Natural Gas,187497
+340,France,Natural Gas,188262
+341,France,Natural Gas,189534
+342,France,Natural Gas,203176
+343,France,Natural Gas,200766
+344,France,Natural Gas,183868
+345,France,Natural Gas,185701
+346,France,Natural Gas,214433
+347,France,Natural Gas,215595
+348,France,Natural Gas,217143
+349,France,Natural Gas,214769
+350,France,Natural Gas,211855
+351,France,Natural Gas,196866
+352,France,Natural Gas,157059
+353,France,Natural Gas,132277
+354,France,Natural Gas,134713
+355,France,Natural Gas,131610
+356,France,Natural Gas,114141
+357,France,Natural Gas,98073
+358,France,Natural Gas,58090
+359,France,Natural Gas,57870
+360,France,Natural Gas,57450
+361,France,Natural Gas,54880
+362,France,Natural Gas,54008
+363,France,Natural Gas,56028
+364,France,Natural Gas,54884
+365,France,Natural Gas,2362
+274,France,Non-renewable waste,2715
+275,France,Non-renewable waste,2237
+276,France,Non-renewable waste,2142
+277,France,Non-renewable waste,2664
+278,France,Non-renewable waste,2622
+279,France,Non-renewable waste,2593
+280,France,Non-renewable waste,2569
+281,France,Non-renewable waste,2428
+282,France,Non-renewable waste,2332
+283,France,Non-renewable waste,2234
+284,France,Non-renewable waste,2165
+285,France,Non-renewable waste,2320
+286,France,Non-renewable waste,2264
+287,France,Non-renewable waste,2488
+288,France,Non-renewable waste,2296
+289,France,Non-renewable waste,2378
+290,France,Non-renewable waste,2353
+291,France,Non-renewable waste,2282
+292,France,Non-renewable waste,2162
+293,France,Non-renewable waste,2087
+294,France,Non-renewable waste,2209
+295,France,Non-renewable waste,2379
+296,France,Non-renewable waste,1834
+297,France,Non-renewable waste,2317
+298,France,Non-renewable waste,2464
+299,France,Non-renewable waste,2598
+300,France,Non-renewable waste,2685
+301,France,Non-renewable waste,2677
+302,France,Non-renewable waste,2493
+303,France,Non-renewable waste,2452
+304,France,Non-renewable waste,2465
+305,France,Non-renewable waste,2921
+306,France,Non-renewable waste,2893
+307,France,Non-renewable waste,2965
+308,France,Non-renewable waste,3100
+309,France,Non-renewable waste,3275
+310,France,Non-renewable waste,3292
+311,France,Non-renewable waste,2855
+312,France,Non-renewable waste,2856
+313,France,Non-renewable waste,2924
+314,France,Non-renewable waste,3121
+315,France,Non-renewable waste,3070
+316,France,Non-renewable waste,2954
+317,France,Non-renewable waste,3055
+318,France,Non-renewable waste,3118
+319,France,Non-renewable waste,3116
+320,France,Non-renewable waste,3183
+321,France,Non-renewable waste,2589
+322,France,Non-renewable waste,2873
+323,France,Non-renewable waste,3273
+324,France,Non-renewable waste,3222
+325,France,Non-renewable waste,3186
+326,France,Non-renewable waste,3032
+327,France,Non-renewable waste,3042
+328,France,Non-renewable waste,3204
+329,France,Non-renewable waste,3218
+330,France,Non-renewable waste,3110
+331,France,Non-renewable waste,2917
+332,France,Non-renewable waste,2912
+333,France,Non-renewable waste,3038
+334,France,Non-renewable waste,2511
+335,France,Non-renewable waste,2157
+336,France,Non-renewable waste,1931
+337,France,Non-renewable waste,2254
+338,France,Non-renewable waste,2615
+339,France,Non-renewable waste,2695
+340,France,Non-renewable waste,2677
+341,France,Non-renewable waste,2594
+342,France,Non-renewable waste,2557
+343,France,Non-renewable waste,2528
+344,France,Non-renewable waste,2504
+345,France,Non-renewable waste,2596
+346,France,Non-renewable waste,2344
+347,France,Non-renewable waste,2634
+348,France,Non-renewable waste,2508
+349,France,Non-renewable waste,2343
+350,France,Non-renewable waste,2109
+351,France,Non-renewable waste,2379
+352,France,Non-renewable waste,2541
+353,France,Non-renewable waste,2556
+354,France,Non-renewable waste,2466
+355,France,Non-renewable waste,2623
+356,France,Non-renewable waste,2630
+357,France,Non-renewable waste,2660
+358,France,Non-renewable waste,2738
+359,France,Non-renewable waste,2717
+360,France,Non-renewable waste,2576
+361,France,Non-renewable waste,2459
+362,France,Non-renewable waste,2571
+363,France,Non-renewable waste,2660
+364,France,Non-renewable waste,2463
+365,France,Non-renewable waste,127
+274,France,Nuclear,606319
+275,France,Nuclear,592678
+276,France,Nuclear,620369
+277,France,Nuclear,627367
+278,France,Nuclear,604164
+279,France,Nuclear,605007
+280,France,Nuclear,634182
+281,France,Nuclear,639546
+282,France,Nuclear,637286
+283,France,Nuclear,689986
+284,France,Nuclear,696808
+285,France,Nuclear,693959
+286,France,Nuclear,688436
+287,France,Nuclear,683149
+288,France,Nuclear,620766
+289,France,Nuclear,611774
+290,France,Nuclear,630739
+291,France,Nuclear,654485
+292,France,Nuclear,636705
+293,France,Nuclear,620163
+294,France,Nuclear,647148
+295,France,Nuclear,695126
+296,France,Nuclear,683342
+297,France,Nuclear,698671
+298,France,Nuclear,712774
+299,France,Nuclear,684706
+300,France,Nuclear,682068
+301,France,Nuclear,683341
+302,France,Nuclear,583047
+303,France,Nuclear,563862
+304,France,Nuclear,650858
+305,France,Nuclear,615636
+306,France,Nuclear,646554
+307,France,Nuclear,679060
+308,France,Nuclear,686257
+309,France,Nuclear,680688
+310,France,Nuclear,658286
+311,France,Nuclear,653159
+312,France,Nuclear,694797
+313,France,Nuclear,711173
+314,France,Nuclear,701682
+315,France,Nuclear,699786
+316,France,Nuclear,699921
+317,France,Nuclear,700894
+318,France,Nuclear,722428
+319,France,Nuclear,717702
+320,France,Nuclear,716586
+321,France,Nuclear,700051
+322,France,Nuclear,724233
+323,France,Nuclear,710476
+324,France,Nuclear,708442
+325,France,Nuclear,741327
+326,France,Nuclear,744704
+327,France,Nuclear,758908
+328,France,Nuclear,775272
+329,France,Nuclear,780765
+330,France,Nuclear,752929
+331,France,Nuclear,713369
+332,France,Nuclear,774915
+333,France,Nuclear,813709
+334,France,Nuclear,825754
+335,France,Nuclear,829479
+336,France,Nuclear,848093
+337,France,Nuclear,859500
+338,France,Nuclear,887946
+339,France,Nuclear,879854
+340,France,Nuclear,878515
+341,France,Nuclear,880166
+342,France,Nuclear,895317
+343,France,Nuclear,933729
+344,France,Nuclear,956651
+345,France,Nuclear,969376
+346,France,Nuclear,986438
+347,France,Nuclear,991018
+348,France,Nuclear,994135
+349,France,Nuclear,998158
+350,France,Nuclear,1002171
+351,France,Nuclear,1002343
+352,France,Nuclear,974077
+353,France,Nuclear,949153
+354,France,Nuclear,946134
+355,France,Nuclear,961682
+356,France,Nuclear,954111
+357,France,Nuclear,900806
+358,France,Nuclear,824339
+359,France,Nuclear,822268
+360,France,Nuclear,777628
+361,France,Nuclear,885956
+362,France,Nuclear,875021
+363,France,Nuclear,774975
+364,France,Nuclear,729076
+365,France,Nuclear,25880
+274,France,Oil,3812
+275,France,Oil,3784
+276,France,Oil,7772
+277,France,Oil,7297
+278,France,Oil,3811
+279,France,Oil,3989
+280,France,Oil,3999
+281,France,Oil,3984
+282,France,Oil,3940
+283,France,Oil,3998
+284,France,Oil,3978
+285,France,Oil,3973
+286,France,Oil,3984
+287,France,Oil,3973
+288,France,Oil,3979
+289,France,Oil,3978
+290,France,Oil,3968
+291,France,Oil,4315
+292,France,Oil,4204
+293,France,Oil,4037
+294,France,Oil,3928
+295,France,Oil,3916
+296,France,Oil,3540
+297,France,Oil,3958
+298,France,Oil,4438
+299,France,Oil,3930
+300,France,Oil,3876
+301,France,Oil,4175
+302,France,Oil,3724
+303,France,Oil,3331
+304,France,Oil,8790
+305,France,Oil,5522
+306,France,Oil,4767
+307,France,Oil,4817
+308,France,Oil,4803
+309,France,Oil,4782
+310,France,Oil,4814
+311,France,Oil,5088
+312,France,Oil,4817
+313,France,Oil,4819
+314,France,Oil,4636
+315,France,Oil,4512
+316,France,Oil,4512
+317,France,Oil,4510
+318,France,Oil,4624
+319,France,Oil,4539
+320,France,Oil,4521
+321,France,Oil,4542
+322,France,Oil,4692
+323,France,Oil,4741
+324,France,Oil,4804
+325,France,Oil,4793
+326,France,Oil,4802
+327,France,Oil,5721
+328,France,Oil,7051
+329,France,Oil,4743
+330,France,Oil,4738
+331,France,Oil,4779
+332,France,Oil,4744
+333,France,Oil,6294
+334,France,Oil,4667
+335,France,Oil,5687
+336,France,Oil,4022
+337,France,Oil,4057
+338,France,Oil,4122
+339,France,Oil,5256
+340,France,Oil,9767
+341,France,Oil,5179
+342,France,Oil,5417
+343,France,Oil,5122
+344,France,Oil,4703
+345,France,Oil,12223
+346,France,Oil,25383
+347,France,Oil,19316
+348,France,Oil,9873
+349,France,Oil,10229
+350,France,Oil,13078
+351,France,Oil,4137
+352,France,Oil,4132
+353,France,Oil,4127
+354,France,Oil,4166
+355,France,Oil,4288
+356,France,Oil,4153
+357,France,Oil,4157
+358,France,Oil,4163
+359,France,Oil,4136
+360,France,Oil,3901
+361,France,Oil,3634
+362,France,Oil,3758
+363,France,Oil,4176
+364,France,Oil,4109
+365,France,Oil,171
+274,France,Other fossil fuel,0
+275,France,Other fossil fuel,0
+276,France,Other fossil fuel,0
+277,France,Other fossil fuel,0
+278,France,Other fossil fuel,0
+279,France,Other fossil fuel,0
+280,France,Other fossil fuel,0
+281,France,Other fossil fuel,0
+282,France,Other fossil fuel,0
+283,France,Other fossil fuel,0
+284,France,Other fossil fuel,0
+285,France,Other fossil fuel,0
+286,France,Other fossil fuel,0
+287,France,Other fossil fuel,0
+288,France,Other fossil fuel,0
+289,France,Other fossil fuel,0
+290,France,Other fossil fuel,0
+291,France,Other fossil fuel,0
+292,France,Other fossil fuel,0
+293,France,Other fossil fuel,0
+294,France,Other fossil fuel,0
+295,France,Other fossil fuel,0
+296,France,Other fossil fuel,0
+297,France,Other fossil fuel,0
+298,France,Other fossil fuel,0
+299,France,Other fossil fuel,0
+300,France,Other fossil fuel,0
+301,France,Other fossil fuel,0
+302,France,Other fossil fuel,0
+303,France,Other fossil fuel,0
+304,France,Other fossil fuel,0
+305,France,Other fossil fuel,0
+306,France,Other fossil fuel,0
+307,France,Other fossil fuel,0
+308,France,Other fossil fuel,0
+309,France,Other fossil fuel,0
+310,France,Other fossil fuel,0
+311,France,Other fossil fuel,0
+312,France,Other fossil fuel,0
+313,France,Other fossil fuel,0
+314,France,Other fossil fuel,0
+315,France,Other fossil fuel,0
+316,France,Other fossil fuel,0
+317,France,Other fossil fuel,0
+318,France,Other fossil fuel,0
+319,France,Other fossil fuel,0
+320,France,Other fossil fuel,0
+321,France,Other fossil fuel,0
+322,France,Other fossil fuel,0
+323,France,Other fossil fuel,0
+324,France,Other fossil fuel,0
+325,France,Other fossil fuel,0
+326,France,Other fossil fuel,0
+327,France,Other fossil fuel,0
+328,France,Other fossil fuel,0
+329,France,Other fossil fuel,0
+330,France,Other fossil fuel,0
+331,France,Other fossil fuel,0
+332,France,Other fossil fuel,0
+333,France,Other fossil fuel,0
+334,France,Other fossil fuel,0
+335,France,Other fossil fuel,0
+336,France,Other fossil fuel,0
+337,France,Other fossil fuel,0
+338,France,Other fossil fuel,0
+339,France,Other fossil fuel,0
+340,France,Other fossil fuel,0
+341,France,Other fossil fuel,0
+342,France,Other fossil fuel,0
+343,France,Other fossil fuel,0
+344,France,Other fossil fuel,0
+345,France,Other fossil fuel,0
+346,France,Other fossil fuel,0
+347,France,Other fossil fuel,0
+348,France,Other fossil fuel,0
+349,France,Other fossil fuel,0
+350,France,Other fossil fuel,0
+351,France,Other fossil fuel,0
+352,France,Other fossil fuel,0
+353,France,Other fossil fuel,0
+354,France,Other fossil fuel,0
+355,France,Other fossil fuel,0
+356,France,Other fossil fuel,0
+357,France,Other fossil fuel,0
+358,France,Other fossil fuel,0
+359,France,Other fossil fuel,0
+360,France,Other fossil fuel,0
+361,France,Other fossil fuel,0
+362,France,Other fossil fuel,0
+363,France,Other fossil fuel,0
+364,France,Other fossil fuel,0
+365,France,Other fossil fuel,0
+274,France,Other renewables,0
+275,France,Other renewables,0
+276,France,Other renewables,0
+277,France,Other renewables,0
+278,France,Other renewables,0
+279,France,Other renewables,0
+280,France,Other renewables,0
+281,France,Other renewables,0
+282,France,Other renewables,0
+283,France,Other renewables,0
+284,France,Other renewables,0
+285,France,Other renewables,0
+286,France,Other renewables,0
+287,France,Other renewables,0
+288,France,Other renewables,0
+289,France,Other renewables,0
+290,France,Other renewables,0
+291,France,Other renewables,0
+292,France,Other renewables,0
+293,France,Other renewables,0
+294,France,Other renewables,0
+295,France,Other renewables,0
+296,France,Other renewables,0
+297,France,Other renewables,0
+298,France,Other renewables,0
+299,France,Other renewables,0
+300,France,Other renewables,0
+301,France,Other renewables,0
+302,France,Other renewables,0
+303,France,Other renewables,0
+304,France,Other renewables,0
+305,France,Other renewables,0
+306,France,Other renewables,0
+307,France,Other renewables,0
+308,France,Other renewables,0
+309,France,Other renewables,0
+310,France,Other renewables,0
+311,France,Other renewables,0
+312,France,Other renewables,0
+313,France,Other renewables,0
+314,France,Other renewables,0
+315,France,Other renewables,0
+316,France,Other renewables,0
+317,France,Other renewables,0
+318,France,Other renewables,0
+319,France,Other renewables,0
+320,France,Other renewables,0
+321,France,Other renewables,0
+322,France,Other renewables,0
+323,France,Other renewables,0
+324,France,Other renewables,0
+325,France,Other renewables,0
+326,France,Other renewables,0
+327,France,Other renewables,0
+328,France,Other renewables,0
+329,France,Other renewables,0
+330,France,Other renewables,0
+331,France,Other renewables,0
+332,France,Other renewables,0
+333,France,Other renewables,0
+334,France,Other renewables,0
+335,France,Other renewables,0
+336,France,Other renewables,0
+337,France,Other renewables,0
+338,France,Other renewables,0
+339,France,Other renewables,0
+340,France,Other renewables,0
+341,France,Other renewables,0
+342,France,Other renewables,0
+343,France,Other renewables,0
+344,France,Other renewables,0
+345,France,Other renewables,0
+346,France,Other renewables,0
+347,France,Other renewables,0
+348,France,Other renewables,0
+349,France,Other renewables,0
+350,France,Other renewables,0
+351,France,Other renewables,0
+352,France,Other renewables,0
+353,France,Other renewables,0
+354,France,Other renewables,0
+355,France,Other renewables,0
+356,France,Other renewables,0
+357,France,Other renewables,0
+358,France,Other renewables,0
+359,France,Other renewables,0
+360,France,Other renewables,0
+361,France,Other renewables,0
+362,France,Other renewables,0
+363,France,Other renewables,0
+364,France,Other renewables,0
+365,France,Other renewables,0
+274,France,Pumped storage generation,3111
+275,France,Pumped storage generation,9922
+276,France,Pumped storage generation,18915
+277,France,Pumped storage generation,20242
+278,France,Pumped storage generation,9915
+279,France,Pumped storage generation,21528
+280,France,Pumped storage generation,16248
+281,France,Pumped storage generation,7061
+282,France,Pumped storage generation,3651
+283,France,Pumped storage generation,22492
+284,France,Pumped storage generation,18323
+285,France,Pumped storage generation,18060
+286,France,Pumped storage generation,17309
+287,France,Pumped storage generation,19829
+288,France,Pumped storage generation,2715
+289,France,Pumped storage generation,8416
+290,France,Pumped storage generation,20578
+291,France,Pumped storage generation,28832
+292,France,Pumped storage generation,19381
+293,France,Pumped storage generation,25098
+294,France,Pumped storage generation,12896
+295,France,Pumped storage generation,5389
+296,France,Pumped storage generation,1306
+297,France,Pumped storage generation,11400
+298,France,Pumped storage generation,14386
+299,France,Pumped storage generation,26165
+300,France,Pumped storage generation,10430
+301,France,Pumped storage generation,14557
+302,France,Pumped storage generation,13295
+303,France,Pumped storage generation,11911
+304,France,Pumped storage generation,25981
+305,France,Pumped storage generation,4804
+306,France,Pumped storage generation,22623
+307,France,Pumped storage generation,26442
+308,France,Pumped storage generation,29873
+309,France,Pumped storage generation,5803
+310,France,Pumped storage generation,7031
+311,France,Pumped storage generation,17957
+312,France,Pumped storage generation,15739
+313,France,Pumped storage generation,18257
+314,France,Pumped storage generation,27239
+315,France,Pumped storage generation,12922
+316,France,Pumped storage generation,25453
+317,France,Pumped storage generation,7445
+318,France,Pumped storage generation,36031
+319,France,Pumped storage generation,29829
+320,France,Pumped storage generation,20572
+321,France,Pumped storage generation,10828
+322,France,Pumped storage generation,18873
+323,France,Pumped storage generation,12952
+324,France,Pumped storage generation,1934
+325,France,Pumped storage generation,35806
+326,France,Pumped storage generation,28772
+327,France,Pumped storage generation,11294
+328,France,Pumped storage generation,20871
+329,France,Pumped storage generation,17051
+330,France,Pumped storage generation,11287
+331,France,Pumped storage generation,3543
+332,France,Pumped storage generation,21486
+333,France,Pumped storage generation,36559
+334,France,Pumped storage generation,37154
+335,France,Pumped storage generation,30581
+336,France,Pumped storage generation,22308
+337,France,Pumped storage generation,4811
+338,France,Pumped storage generation,1444
+339,France,Pumped storage generation,32885
+340,France,Pumped storage generation,32560
+341,France,Pumped storage generation,13920
+342,France,Pumped storage generation,15353
+343,France,Pumped storage generation,20875
+344,France,Pumped storage generation,12243
+345,France,Pumped storage generation,12421
+346,France,Pumped storage generation,42963
+347,France,Pumped storage generation,34656
+348,France,Pumped storage generation,30890
+349,France,Pumped storage generation,19859
+350,France,Pumped storage generation,33615
+351,France,Pumped storage generation,16286
+352,France,Pumped storage generation,5386
+353,France,Pumped storage generation,6950
+354,France,Pumped storage generation,18308
+355,France,Pumped storage generation,16596
+356,France,Pumped storage generation,14241
+357,France,Pumped storage generation,10206
+358,France,Pumped storage generation,15242
+359,France,Pumped storage generation,6781
+360,France,Pumped storage generation,5585
+361,France,Pumped storage generation,17588
+362,France,Pumped storage generation,18094
+363,France,Pumped storage generation,21096
+364,France,Pumped storage generation,28114
+365,France,Pumped storage generation,0
+274,France,Run-of-River Hydro,84310
+275,France,Run-of-River Hydro,92480
+276,France,Run-of-River Hydro,93468
+277,France,Run-of-River Hydro,85162
+278,France,Run-of-River Hydro,77122
+279,France,Run-of-River Hydro,75844
+280,France,Run-of-River Hydro,75061
+281,France,Run-of-River Hydro,60027
+282,France,Run-of-River Hydro,52399
+283,France,Run-of-River Hydro,55121
+284,France,Run-of-River Hydro,55089
+285,France,Run-of-River Hydro,55308
+286,France,Run-of-River Hydro,54596
+287,France,Run-of-River Hydro,54817
+288,France,Run-of-River Hydro,48801
+289,France,Run-of-River Hydro,44243
+290,France,Run-of-River Hydro,50586
+291,France,Run-of-River Hydro,51797
+292,France,Run-of-River Hydro,53533
+293,France,Run-of-River Hydro,59003
+294,France,Run-of-River Hydro,71798
+295,France,Run-of-River Hydro,81347
+296,France,Run-of-River Hydro,62993
+297,France,Run-of-River Hydro,81801
+298,France,Run-of-River Hydro,90972
+299,France,Run-of-River Hydro,84053
+300,France,Run-of-River Hydro,76184
+301,France,Run-of-River Hydro,71437
+302,France,Run-of-River Hydro,58066
+303,France,Run-of-River Hydro,50360
+304,France,Run-of-River Hydro,61211
+305,France,Run-of-River Hydro,71364
+306,France,Run-of-River Hydro,75474
+307,France,Run-of-River Hydro,75350
+308,France,Run-of-River Hydro,85521
+309,France,Run-of-River Hydro,80165
+310,France,Run-of-River Hydro,70671
+311,France,Run-of-River Hydro,75729
+312,France,Run-of-River Hydro,77259
+313,France,Run-of-River Hydro,87701
+314,France,Run-of-River Hydro,103812
+315,France,Run-of-River Hydro,89403
+316,France,Run-of-River Hydro,83042
+317,France,Run-of-River Hydro,70920
+318,France,Run-of-River Hydro,83895
+319,France,Run-of-River Hydro,80646
+320,France,Run-of-River Hydro,88380
+321,France,Run-of-River Hydro,82038
+322,France,Run-of-River Hydro,93815
+323,France,Run-of-River Hydro,92468
+324,France,Run-of-River Hydro,82798
+325,France,Run-of-River Hydro,97505
+326,France,Run-of-River Hydro,101609
+327,France,Run-of-River Hydro,104482
+328,France,Run-of-River Hydro,106788
+329,France,Run-of-River Hydro,105508
+330,France,Run-of-River Hydro,91056
+331,France,Run-of-River Hydro,76777
+332,France,Run-of-River Hydro,89055
+333,France,Run-of-River Hydro,95959
+334,France,Run-of-River Hydro,99981
+335,France,Run-of-River Hydro,96451
+336,France,Run-of-River Hydro,96859
+337,France,Run-of-River Hydro,72634
+338,France,Run-of-River Hydro,67186
+339,France,Run-of-River Hydro,89791
+340,France,Run-of-River Hydro,95659
+341,France,Run-of-River Hydro,89129
+342,France,Run-of-River Hydro,86745
+343,France,Run-of-River Hydro,101893
+344,France,Run-of-River Hydro,85700
+345,France,Run-of-River Hydro,77390
+346,France,Run-of-River Hydro,111925
+347,France,Run-of-River Hydro,118064
+348,France,Run-of-River Hydro,115769
+349,France,Run-of-River Hydro,121469
+350,France,Run-of-River Hydro,140917
+351,France,Run-of-River Hydro,120792
+352,France,Run-of-River Hydro,102849
+353,France,Run-of-River Hydro,92139
+354,France,Run-of-River Hydro,91351
+355,France,Run-of-River Hydro,98961
+356,France,Run-of-River Hydro,101577
+357,France,Run-of-River Hydro,118971
+358,France,Run-of-River Hydro,130086
+359,France,Run-of-River Hydro,124475
+360,France,Run-of-River Hydro,123927
+361,France,Run-of-River Hydro,130152
+362,France,Run-of-River Hydro,126083
+363,France,Run-of-River Hydro,121427
+364,France,Run-of-River Hydro,128051
+365,France,Run-of-River Hydro,5060
+274,France,Solar,35194
+275,France,Solar,47541
+276,France,Solar,53653
+277,France,Solar,64097
+278,France,Solar,58044
+279,France,Solar,50471
+280,France,Solar,56278
+281,France,Solar,42002
+282,France,Solar,56777
+283,France,Solar,39187
+284,France,Solar,39778
+285,France,Solar,44874
+286,France,Solar,27982
+287,France,Solar,27567
+288,France,Solar,42771
+289,France,Solar,46084
+290,France,Solar,33674
+291,France,Solar,50103
+292,France,Solar,36815
+293,France,Solar,27742
+294,France,Solar,24556
+295,France,Solar,43605
+296,France,Solar,28863
+297,France,Solar,38636
+298,France,Solar,32920
+299,France,Solar,41300
+300,France,Solar,31105
+301,France,Solar,34937
+302,France,Solar,33511
+303,France,Solar,35914
+304,France,Solar,30331
+305,France,Solar,39038
+306,France,Solar,43679
+307,France,Solar,15823
+308,France,Solar,28273
+309,France,Solar,39737
+310,France,Solar,34422
+311,France,Solar,40397
+312,France,Solar,20553
+313,France,Solar,17468
+314,France,Solar,37280
+315,France,Solar,42143
+316,France,Solar,39032
+317,France,Solar,34395
+318,France,Solar,16430
+319,France,Solar,14347
+320,France,Solar,31334
+321,France,Solar,24433
+322,France,Solar,26842
+323,France,Solar,30704
+324,France,Solar,28112
+325,France,Solar,11325
+326,France,Solar,24549
+327,France,Solar,22775
+328,France,Solar,24480
+329,France,Solar,24542
+330,France,Solar,25448
+331,France,Solar,21888
+332,France,Solar,16500
+333,France,Solar,19933
+334,France,Solar,24959
+335,France,Solar,20645
+336,France,Solar,15588
+337,France,Solar,13042
+338,France,Solar,18008
+339,France,Solar,30163
+340,France,Solar,23096
+341,France,Solar,27547
+342,France,Solar,14191
+343,France,Solar,16715
+344,France,Solar,25973
+345,France,Solar,25612
+346,France,Solar,17681
+347,France,Solar,13991
+348,France,Solar,15305
+349,France,Solar,11983
+350,France,Solar,24516
+351,France,Solar,29059
+352,France,Solar,23722
+353,France,Solar,16237
+354,France,Solar,10439
+355,France,Solar,18786
+356,France,Solar,15035
+357,France,Solar,15872
+358,France,Solar,21882
+359,France,Solar,21268
+360,France,Solar,17768
+361,France,Solar,24766
+362,France,Solar,24175
+363,France,Solar,13666
+364,France,Solar,13107
+365,France,Solar,0
+274,France,Wind offshore,0
+275,France,Wind offshore,0
+276,France,Wind offshore,0
+277,France,Wind offshore,0
+278,France,Wind offshore,0
+279,France,Wind offshore,0
+280,France,Wind offshore,0
+281,France,Wind offshore,0
+282,France,Wind offshore,0
+283,France,Wind offshore,0
+284,France,Wind offshore,0
+285,France,Wind offshore,0
+286,France,Wind offshore,0
+287,France,Wind offshore,0
+288,France,Wind offshore,0
+289,France,Wind offshore,0
+290,France,Wind offshore,0
+291,France,Wind offshore,0
+292,France,Wind offshore,0
+293,France,Wind offshore,0
+294,France,Wind offshore,0
+295,France,Wind offshore,0
+296,France,Wind offshore,0
+297,France,Wind offshore,0
+298,France,Wind offshore,0
+299,France,Wind offshore,0
+300,France,Wind offshore,0
+301,France,Wind offshore,0
+302,France,Wind offshore,0
+303,France,Wind offshore,0
+304,France,Wind offshore,0
+305,France,Wind offshore,0
+306,France,Wind offshore,0
+307,France,Wind offshore,0
+308,France,Wind offshore,0
+309,France,Wind offshore,0
+310,France,Wind offshore,0
+311,France,Wind offshore,0
+312,France,Wind offshore,0
+313,France,Wind offshore,0
+314,France,Wind offshore,0
+315,France,Wind offshore,0
+316,France,Wind offshore,0
+317,France,Wind offshore,0
+318,France,Wind offshore,0
+319,France,Wind offshore,0
+320,France,Wind offshore,0
+321,France,Wind offshore,0
+322,France,Wind offshore,0
+323,France,Wind offshore,0
+324,France,Wind offshore,0
+325,France,Wind offshore,0
+326,France,Wind offshore,0
+327,France,Wind offshore,0
+328,France,Wind offshore,0
+329,France,Wind offshore,0
+330,France,Wind offshore,0
+331,France,Wind offshore,0
+332,France,Wind offshore,0
+333,France,Wind offshore,0
+334,France,Wind offshore,0
+335,France,Wind offshore,0
+336,France,Wind offshore,0
+337,France,Wind offshore,0
+338,France,Wind offshore,0
+339,France,Wind offshore,0
+340,France,Wind offshore,0
+341,France,Wind offshore,0
+342,France,Wind offshore,0
+343,France,Wind offshore,0
+344,France,Wind offshore,0
+345,France,Wind offshore,0
+346,France,Wind offshore,0
+347,France,Wind offshore,0
+348,France,Wind offshore,0
+349,France,Wind offshore,0
+350,France,Wind offshore,0
+351,France,Wind offshore,0
+352,France,Wind offshore,0
+353,France,Wind offshore,0
+354,France,Wind offshore,0
+355,France,Wind offshore,0
+356,France,Wind offshore,0
+357,France,Wind offshore,0
+358,France,Wind offshore,0
+359,France,Wind offshore,0
+360,France,Wind offshore,0
+361,France,Wind offshore,0
+362,France,Wind offshore,0
+363,France,Wind offshore,0
+364,France,Wind offshore,0
+365,France,Wind offshore,0
+274,France,Wind onshore,233550
+275,France,Wind onshore,102892
+276,France,Wind onshore,31558
+277,France,Wind onshore,36913
+278,France,Wind onshore,165807
+279,France,Wind onshore,35723
+280,France,Wind onshore,40062
+281,France,Wind onshore,46887
+282,France,Wind onshore,84660
+283,France,Wind onshore,63652
+284,France,Wind onshore,46838
+285,France,Wind onshore,24081
+286,France,Wind onshore,73485
+287,France,Wind onshore,123925
+288,France,Wind onshore,150506
+289,France,Wind onshore,104088
+290,France,Wind onshore,101475
+291,France,Wind onshore,68649
+292,France,Wind onshore,145832
+293,France,Wind onshore,137027
+294,France,Wind onshore,162914
+295,France,Wind onshore,97937
+296,France,Wind onshore,240183
+297,France,Wind onshore,229646
+298,France,Wind onshore,100958
+299,France,Wind onshore,122043
+300,France,Wind onshore,155885
+301,France,Wind onshore,118675
+302,France,Wind onshore,125757
+303,France,Wind onshore,66047
+304,France,Wind onshore,162694
+305,France,Wind onshore,256873
+306,France,Wind onshore,153540
+307,France,Wind onshore,229787
+308,France,Wind onshore,156914
+309,France,Wind onshore,99318
+310,France,Wind onshore,210352
+311,France,Wind onshore,230315
+312,France,Wind onshore,277812
+313,France,Wind onshore,146787
+314,France,Wind onshore,79236
+315,France,Wind onshore,76716
+316,France,Wind onshore,70274
+317,France,Wind onshore,50509
+318,France,Wind onshore,103964
+319,France,Wind onshore,201956
+320,France,Wind onshore,249454
+321,France,Wind onshore,275327
+322,France,Wind onshore,123339
+323,France,Wind onshore,66987
+324,France,Wind onshore,173464
+325,France,Wind onshore,214737
+326,France,Wind onshore,265878
+327,France,Wind onshore,240457
+328,France,Wind onshore,202867
+329,France,Wind onshore,94927
+330,France,Wind onshore,98547
+331,France,Wind onshore,153382
+332,France,Wind onshore,85602
+333,France,Wind onshore,41740
+334,France,Wind onshore,52939
+335,France,Wind onshore,83215
+336,France,Wind onshore,77483
+337,France,Wind onshore,123216
+338,France,Wind onshore,55137
+339,France,Wind onshore,31995
+340,France,Wind onshore,46476
+341,France,Wind onshore,50445
+342,France,Wind onshore,47434
+343,France,Wind onshore,55504
+344,France,Wind onshore,45681
+345,France,Wind onshore,50944
+346,France,Wind onshore,80292
+347,France,Wind onshore,103233
+348,France,Wind onshore,54449
+349,France,Wind onshore,136903
+350,France,Wind onshore,89160
+351,France,Wind onshore,69699
+352,France,Wind onshore,201419
+353,France,Wind onshore,306954
+354,France,Wind onshore,234544
+355,France,Wind onshore,197478
+356,France,Wind onshore,289729
+357,France,Wind onshore,267862
+358,France,Wind onshore,113190
+359,France,Wind onshore,151673
+360,France,Wind onshore,166524
+361,France,Wind onshore,131606
+362,France,Wind onshore,310432
+363,France,Wind onshore,245197
+364,France,Wind onshore,311191
+365,France,Wind onshore,14560
+274,Germany,Biomass,111341.26
+275,Germany,Biomass,111900.65
+276,Germany,Biomass,112915.5
+277,Germany,Biomass,113024.56
+278,Germany,Biomass,112261.71
+279,Germany,Biomass,112078.86
+280,Germany,Biomass,112943.87
+281,Germany,Biomass,113691.51
+282,Germany,Biomass,111603.26
+283,Germany,Biomass,109585.94
+284,Germany,Biomass,109466.81
+285,Germany,Biomass,109511.96
+286,Germany,Biomass,109656.65
+287,Germany,Biomass,108479.57
+288,Germany,Biomass,107972.52
+289,Germany,Biomass,109274.46
+290,Germany,Biomass,110357.36
+291,Germany,Biomass,113183.16
+292,Germany,Biomass,115280.96
+293,Germany,Biomass,115360.68
+294,Germany,Biomass,118344.85
+295,Germany,Biomass,118263.11
+296,Germany,Biomass,118601.98
+297,Germany,Biomass,118507.83
+298,Germany,Biomass,118884.65
+299,Germany,Biomass,118957.1
+300,Germany,Biomass,119002.22
+301,Germany,Biomass,118735.83
+302,Germany,Biomass,118727.84
+303,Germany,Biomass,118957.38
+304,Germany,Biomass,119322.32
+305,Germany,Biomass,118799.29
+306,Germany,Biomass,119815.68
+307,Germany,Biomass,121075
+308,Germany,Biomass,121775.73
+309,Germany,Biomass,121749.94
+310,Germany,Biomass,121709.93
+311,Germany,Biomass,120951.47
+312,Germany,Biomass,121817.75
+313,Germany,Biomass,121118.36
+314,Germany,Biomass,120711.36
+315,Germany,Biomass,122151.14
+316,Germany,Biomass,122399.62
+317,Germany,Biomass,122045.24
+318,Germany,Biomass,120542.46
+319,Germany,Biomass,120717.05
+320,Germany,Biomass,118794.13
+321,Germany,Biomass,117411.79
+322,Germany,Biomass,117422.59
+323,Germany,Biomass,117649.3
+324,Germany,Biomass,118410.64
+325,Germany,Biomass,117643.12
+326,Germany,Biomass,118189.33
+327,Germany,Biomass,120498.87
+328,Germany,Biomass,119516.75
+329,Germany,Biomass,119935.36
+330,Germany,Biomass,119514.95
+331,Germany,Biomass,119657.05
+332,Germany,Biomass,119340.1
+333,Germany,Biomass,119451.3
+334,Germany,Biomass,119634.12
+335,Germany,Biomass,117513.63
+336,Germany,Biomass,119134.56
+337,Germany,Biomass,119965.25
+338,Germany,Biomass,119455.89
+339,Germany,Biomass,118375.01
+340,Germany,Biomass,117724.06
+341,Germany,Biomass,117405.04
+342,Germany,Biomass,116192.91
+343,Germany,Biomass,119604.97
+344,Germany,Biomass,122120.04
+345,Germany,Biomass,121752.76
+346,Germany,Biomass,120299.5
+347,Germany,Biomass,120253.08
+348,Germany,Biomass,121130.99
+349,Germany,Biomass,121298.36
+350,Germany,Biomass,121902.64
+351,Germany,Biomass,122190.44
+352,Germany,Biomass,122146.61
+353,Germany,Biomass,119791.16
+354,Germany,Biomass,120980.86
+355,Germany,Biomass,121151.59
+356,Germany,Biomass,121146.95
+357,Germany,Biomass,122492.98
+358,Germany,Biomass,122117.19
+359,Germany,Biomass,122020.23
+360,Germany,Biomass,120495.77
+361,Germany,Biomass,119987.7
+362,Germany,Biomass,120384.09
+363,Germany,Biomass,119032.69
+364,Germany,Biomass,118761.85
+365,Germany,Biomass,4920.27
+274,Germany,Dam Hydro,2642.45
+275,Germany,Dam Hydro,3113.68
+276,Germany,Dam Hydro,7294.96
+277,Germany,Dam Hydro,8132.64
+278,Germany,Dam Hydro,5346.85
+279,Germany,Dam Hydro,7305.22
+280,Germany,Dam Hydro,7201.89
+281,Germany,Dam Hydro,4803.42
+282,Germany,Dam Hydro,3130.43
+283,Germany,Dam Hydro,6317.64
+284,Germany,Dam Hydro,5788.61
+285,Germany,Dam Hydro,8620.3
+286,Germany,Dam Hydro,6758.38
+287,Germany,Dam Hydro,8408.78
+288,Germany,Dam Hydro,2282.46
+289,Germany,Dam Hydro,1567.27
+290,Germany,Dam Hydro,3930.14
+291,Germany,Dam Hydro,4181.31
+292,Germany,Dam Hydro,3987.97
+293,Germany,Dam Hydro,4475.27
+294,Germany,Dam Hydro,5463.87
+295,Germany,Dam Hydro,2467.96
+296,Germany,Dam Hydro,1876.64
+297,Germany,Dam Hydro,1712.71
+298,Germany,Dam Hydro,4425.3
+299,Germany,Dam Hydro,4307.93
+300,Germany,Dam Hydro,3739.85
+301,Germany,Dam Hydro,4263.04
+302,Germany,Dam Hydro,2029.9
+303,Germany,Dam Hydro,2785.49
+304,Germany,Dam Hydro,4327.42
+305,Germany,Dam Hydro,2862.83
+306,Germany,Dam Hydro,2245.47
+307,Germany,Dam Hydro,3181.05
+308,Germany,Dam Hydro,4614.88
+309,Germany,Dam Hydro,1427.34
+310,Germany,Dam Hydro,2270.47
+311,Germany,Dam Hydro,1508.77
+312,Germany,Dam Hydro,2864.18
+313,Germany,Dam Hydro,3803.51
+314,Germany,Dam Hydro,3526.69
+315,Germany,Dam Hydro,4713.77
+316,Germany,Dam Hydro,8327.34
+317,Germany,Dam Hydro,3856.9
+318,Germany,Dam Hydro,4872.56
+319,Germany,Dam Hydro,4262.06
+320,Germany,Dam Hydro,5770.81
+321,Germany,Dam Hydro,4185.42
+322,Germany,Dam Hydro,3814.81
+323,Germany,Dam Hydro,2709.54
+324,Germany,Dam Hydro,1979.98
+325,Germany,Dam Hydro,5669.86
+326,Germany,Dam Hydro,2878.93
+327,Germany,Dam Hydro,1583.7
+328,Germany,Dam Hydro,3093.13
+329,Germany,Dam Hydro,2105.91
+330,Germany,Dam Hydro,2004.25
+331,Germany,Dam Hydro,2304.7
+332,Germany,Dam Hydro,3864.77
+333,Germany,Dam Hydro,3539.69
+334,Germany,Dam Hydro,4729.16
+335,Germany,Dam Hydro,4128.26
+336,Germany,Dam Hydro,3484.25
+337,Germany,Dam Hydro,1242.51
+338,Germany,Dam Hydro,1806.14
+339,Germany,Dam Hydro,3825.09
+340,Germany,Dam Hydro,3315.2
+341,Germany,Dam Hydro,2519.59
+342,Germany,Dam Hydro,2854.96
+343,Germany,Dam Hydro,2937.76
+344,Germany,Dam Hydro,1185.38
+345,Germany,Dam Hydro,1353.06
+346,Germany,Dam Hydro,5408.43
+347,Germany,Dam Hydro,5395.78
+348,Germany,Dam Hydro,4457.78
+349,Germany,Dam Hydro,5915.21
+350,Germany,Dam Hydro,4262.09
+351,Germany,Dam Hydro,3834.32
+352,Germany,Dam Hydro,2274.58
+353,Germany,Dam Hydro,2631.52
+354,Germany,Dam Hydro,2161.65
+355,Germany,Dam Hydro,1480.68
+356,Germany,Dam Hydro,1991.24
+357,Germany,Dam Hydro,1476.95
+358,Germany,Dam Hydro,1457.08
+359,Germany,Dam Hydro,1550.51
+360,Germany,Dam Hydro,1545.71
+361,Germany,Dam Hydro,2477.86
+362,Germany,Dam Hydro,2386.48
+363,Germany,Dam Hydro,2092.55
+364,Germany,Dam Hydro,1402.33
+365,Germany,Dam Hydro,31.48
+274,Germany,Geothermal,499.44
+275,Germany,Geothermal,499.44
+276,Germany,Geothermal,499.44
+277,Germany,Geothermal,499.44
+278,Germany,Geothermal,499.44
+279,Germany,Geothermal,499.44
+280,Germany,Geothermal,499.44
+281,Germany,Geothermal,499.44
+282,Germany,Geothermal,499.44
+283,Germany,Geothermal,499.44
+284,Germany,Geothermal,499.44
+285,Germany,Geothermal,499.44
+286,Germany,Geothermal,499.44
+287,Germany,Geothermal,499.44
+288,Germany,Geothermal,499.44
+289,Germany,Geothermal,499.44
+290,Germany,Geothermal,499.44
+291,Germany,Geothermal,499.44
+292,Germany,Geothermal,499.44
+293,Germany,Geothermal,499.44
+294,Germany,Geothermal,499.44
+295,Germany,Geothermal,499.44
+296,Germany,Geothermal,499.44
+297,Germany,Geothermal,499.44
+298,Germany,Geothermal,499.44
+299,Germany,Geothermal,499.44
+300,Germany,Geothermal,499.44
+301,Germany,Geothermal,499.44
+302,Germany,Geothermal,499.44
+303,Germany,Geothermal,499.44
+304,Germany,Geothermal,499.44
+305,Germany,Geothermal,499.44
+306,Germany,Geothermal,499.44
+307,Germany,Geothermal,499.44
+308,Germany,Geothermal,499.44
+309,Germany,Geothermal,499.44
+310,Germany,Geothermal,499.44
+311,Germany,Geothermal,499.44
+312,Germany,Geothermal,499.44
+313,Germany,Geothermal,499.44
+314,Germany,Geothermal,499.44
+315,Germany,Geothermal,499.44
+316,Germany,Geothermal,499.44
+317,Germany,Geothermal,499.44
+318,Germany,Geothermal,499.44
+319,Germany,Geothermal,499.44
+320,Germany,Geothermal,499.44
+321,Germany,Geothermal,499.44
+322,Germany,Geothermal,499.44
+323,Germany,Geothermal,499.44
+324,Germany,Geothermal,499.44
+325,Germany,Geothermal,499.44
+326,Germany,Geothermal,499.44
+327,Germany,Geothermal,499.44
+328,Germany,Geothermal,499.44
+329,Germany,Geothermal,499.44
+330,Germany,Geothermal,499.44
+331,Germany,Geothermal,499.44
+332,Germany,Geothermal,499.44
+333,Germany,Geothermal,499.44
+334,Germany,Geothermal,499.44
+335,Germany,Geothermal,499.44
+336,Germany,Geothermal,499.44
+337,Germany,Geothermal,499.44
+338,Germany,Geothermal,499.44
+339,Germany,Geothermal,499.44
+340,Germany,Geothermal,499.44
+341,Germany,Geothermal,499.44
+342,Germany,Geothermal,499.44
+343,Germany,Geothermal,499.44
+344,Germany,Geothermal,499.44
+345,Germany,Geothermal,499.44
+346,Germany,Geothermal,499.44
+347,Germany,Geothermal,499.44
+348,Germany,Geothermal,499.44
+349,Germany,Geothermal,499.44
+350,Germany,Geothermal,499.44
+351,Germany,Geothermal,499.44
+352,Germany,Geothermal,499.44
+353,Germany,Geothermal,499.44
+354,Germany,Geothermal,499.44
+355,Germany,Geothermal,499.44
+356,Germany,Geothermal,499.44
+357,Germany,Geothermal,499.44
+358,Germany,Geothermal,499.44
+359,Germany,Geothermal,499.44
+360,Germany,Geothermal,499.44
+361,Germany,Geothermal,499.44
+362,Germany,Geothermal,499.44
+363,Germany,Geothermal,499.44
+364,Germany,Geothermal,499.44
+365,Germany,Geothermal,20.81
+274,Germany,Hard Coal,57079.66
+275,Germany,Hard Coal,70306.15
+276,Germany,Hard Coal,143763.22
+277,Germany,Hard Coal,172671.86
+278,Germany,Hard Coal,98730.48
+279,Germany,Hard Coal,139289.63
+280,Germany,Hard Coal,168252.32
+281,Germany,Hard Coal,114182.18
+282,Germany,Hard Coal,78424.96
+283,Germany,Hard Coal,178288.8
+284,Germany,Hard Coal,220392.21
+285,Germany,Hard Coal,246612.05
+286,Germany,Hard Coal,239908.69
+287,Germany,Hard Coal,200121.94
+288,Germany,Hard Coal,89642.37
+289,Germany,Hard Coal,80217.82
+290,Germany,Hard Coal,134986.54
+291,Germany,Hard Coal,205671.95
+292,Germany,Hard Coal,151966.55
+293,Germany,Hard Coal,113960.02
+294,Germany,Hard Coal,122482.92
+295,Germany,Hard Coal,51004.43
+296,Germany,Hard Coal,41444.62
+297,Germany,Hard Coal,75024.96
+298,Germany,Hard Coal,59404.46
+299,Germany,Hard Coal,58307.28
+300,Germany,Hard Coal,54718.72
+301,Germany,Hard Coal,48992.98
+302,Germany,Hard Coal,42288.93
+303,Germany,Hard Coal,38574.83
+304,Germany,Hard Coal,54817.29
+305,Germany,Hard Coal,54410.87
+306,Germany,Hard Coal,72196.85
+307,Germany,Hard Coal,56575.85
+308,Germany,Hard Coal,149493.26
+309,Germany,Hard Coal,92655.25
+310,Germany,Hard Coal,107829.1
+311,Germany,Hard Coal,109333.85
+312,Germany,Hard Coal,110677.45
+313,Germany,Hard Coal,114640.31
+314,Germany,Hard Coal,128937.23
+315,Germany,Hard Coal,135055.24
+316,Germany,Hard Coal,163704.45
+317,Germany,Hard Coal,160064.23
+318,Germany,Hard Coal,196715.96
+319,Germany,Hard Coal,239050.6
+320,Germany,Hard Coal,187880.95
+321,Germany,Hard Coal,188670.49
+322,Germany,Hard Coal,249591.33
+323,Germany,Hard Coal,264156.6
+324,Germany,Hard Coal,249946.8
+325,Germany,Hard Coal,233645.83
+326,Germany,Hard Coal,212699.8
+327,Germany,Hard Coal,232402.25
+328,Germany,Hard Coal,239674.89
+329,Germany,Hard Coal,302159.54
+330,Germany,Hard Coal,312535.06
+331,Germany,Hard Coal,202685.98
+332,Germany,Hard Coal,289182.41
+333,Germany,Hard Coal,336372.25
+334,Germany,Hard Coal,347604.18
+335,Germany,Hard Coal,344474.65
+336,Germany,Hard Coal,329445.81
+337,Germany,Hard Coal,296090.48
+338,Germany,Hard Coal,271014.01
+339,Germany,Hard Coal,300203.34
+340,Germany,Hard Coal,326065.54
+341,Germany,Hard Coal,305267.89
+342,Germany,Hard Coal,340472.04
+343,Germany,Hard Coal,313511
+344,Germany,Hard Coal,316659.1
+345,Germany,Hard Coal,311573.15
+346,Germany,Hard Coal,331579.41
+347,Germany,Hard Coal,329256.99
+348,Germany,Hard Coal,319331.28
+349,Germany,Hard Coal,286957.86
+350,Germany,Hard Coal,293521.44
+351,Germany,Hard Coal,263359.21
+352,Germany,Hard Coal,220512.22
+353,Germany,Hard Coal,171089.24
+354,Germany,Hard Coal,174004.97
+355,Germany,Hard Coal,199075.03
+356,Germany,Hard Coal,164359.7
+357,Germany,Hard Coal,158961.58
+358,Germany,Hard Coal,70385.67
+359,Germany,Hard Coal,56911.58
+360,Germany,Hard Coal,83630.46
+361,Germany,Hard Coal,96980.27
+362,Germany,Hard Coal,65248.52
+363,Germany,Hard Coal,85185.71
+364,Germany,Hard Coal,77530.18
+365,Germany,Hard Coal,2465.24
+274,Germany,Lignite,172543.84
+275,Germany,Lignite,208116.51
+276,Germany,Lignite,262323.79
+277,Germany,Lignite,307981.87
+278,Germany,Lignite,251187.43
+279,Germany,Lignite,286983.71
+280,Germany,Lignite,306988.96
+281,Germany,Lignite,316174.26
+282,Germany,Lignite,314402.61
+283,Germany,Lignite,328756.43
+284,Germany,Lignite,334537.69
+285,Germany,Lignite,324565.01
+286,Germany,Lignite,342962.09
+287,Germany,Lignite,353688.3
+288,Germany,Lignite,316981.13
+289,Germany,Lignite,280889.27
+290,Germany,Lignite,322077.96
+291,Germany,Lignite,294332.44
+292,Germany,Lignite,296306.66
+293,Germany,Lignite,280728.23
+294,Germany,Lignite,318504.25
+295,Germany,Lignite,273340.06
+296,Germany,Lignite,250420.77
+297,Germany,Lignite,216378.25
+298,Germany,Lignite,280287.34
+299,Germany,Lignite,345246.07
+300,Germany,Lignite,339036.02
+301,Germany,Lignite,324282.07
+302,Germany,Lignite,286166.86
+303,Germany,Lignite,410282.83
+304,Germany,Lignite,306862.9
+305,Germany,Lignite,225515.72
+306,Germany,Lignite,239565.57
+307,Germany,Lignite,311495.99
+308,Germany,Lignite,343317.86
+309,Germany,Lignite,296548.9
+310,Germany,Lignite,138489.19
+311,Germany,Lignite,239091.82
+312,Germany,Lignite,256664.71
+313,Germany,Lignite,292497.5
+314,Germany,Lignite,307387.82
+315,Germany,Lignite,335661.61
+316,Germany,Lignite,374104.52
+317,Germany,Lignite,356359.8
+318,Germany,Lignite,383011.05
+319,Germany,Lignite,382590.88
+320,Germany,Lignite,360353.69
+321,Germany,Lignite,276850.49
+322,Germany,Lignite,368042.65
+323,Germany,Lignite,360227.04
+324,Germany,Lignite,358263.88
+325,Germany,Lignite,369715.49
+326,Germany,Lignite,356117.83
+327,Germany,Lignite,363579.28
+328,Germany,Lignite,369163.48
+329,Germany,Lignite,325608.6
+330,Germany,Lignite,337953.04
+331,Germany,Lignite,312454.2
+332,Germany,Lignite,349392.06
+333,Germany,Lignite,370577.8
+334,Germany,Lignite,381301.39
+335,Germany,Lignite,385727.18
+336,Germany,Lignite,360377.06
+337,Germany,Lignite,321662.06
+338,Germany,Lignite,316874.71
+339,Germany,Lignite,384708.56
+340,Germany,Lignite,380586.49
+341,Germany,Lignite,363817.34
+342,Germany,Lignite,377720.26
+343,Germany,Lignite,366024.82
+344,Germany,Lignite,340980
+345,Germany,Lignite,351687.57
+346,Germany,Lignite,386764.47
+347,Germany,Lignite,388773.35
+348,Germany,Lignite,392914.6
+349,Germany,Lignite,371966.09
+350,Germany,Lignite,376428.44
+351,Germany,Lignite,364069.02
+352,Germany,Lignite,312669.87
+353,Germany,Lignite,286673.67
+354,Germany,Lignite,274258.05
+355,Germany,Lignite,316086.54
+356,Germany,Lignite,319739.85
+357,Germany,Lignite,318368.64
+358,Germany,Lignite,294979.84
+359,Germany,Lignite,201503.96
+360,Germany,Lignite,132678.04
+361,Germany,Lignite,164186.7
+362,Germany,Lignite,125939.86
+363,Germany,Lignite,124840.6
+364,Germany,Lignite,118390.68
+365,Germany,Lignite,4251.6
+274,Germany,Natural Gas,121219.8
+275,Germany,Natural Gas,117817.5
+276,Germany,Natural Gas,138108.48
+277,Germany,Natural Gas,140326.76
+278,Germany,Natural Gas,148281.32
+279,Germany,Natural Gas,150009.82
+280,Germany,Natural Gas,141691.27
+281,Germany,Natural Gas,144392.05
+282,Germany,Natural Gas,141187.46
+283,Germany,Natural Gas,167039.45
+284,Germany,Natural Gas,252725.92
+285,Germany,Natural Gas,267577.09
+286,Germany,Natural Gas,274808.03
+287,Germany,Natural Gas,257290.79
+288,Germany,Natural Gas,160904.86
+289,Germany,Natural Gas,162055.04
+290,Germany,Natural Gas,222397.23
+291,Germany,Natural Gas,285961.88
+292,Germany,Natural Gas,280861.5
+293,Germany,Natural Gas,178541.72
+294,Germany,Natural Gas,274262.91
+295,Germany,Natural Gas,220259.01
+296,Germany,Natural Gas,183205.76
+297,Germany,Natural Gas,197036.95
+298,Germany,Natural Gas,259345.8
+299,Germany,Natural Gas,253978.52
+300,Germany,Natural Gas,190966.84
+301,Germany,Natural Gas,183916.65
+302,Germany,Natural Gas,186432.89
+303,Germany,Natural Gas,170828.91
+304,Germany,Natural Gas,233793.47
+305,Germany,Natural Gas,146559.1
+306,Germany,Natural Gas,179961.03
+307,Germany,Natural Gas,181657.39
+308,Germany,Natural Gas,221987.19
+309,Germany,Natural Gas,178506.89
+310,Germany,Natural Gas,153608.26
+311,Germany,Natural Gas,178535.41
+312,Germany,Natural Gas,183351.84
+313,Germany,Natural Gas,178221.9
+314,Germany,Natural Gas,175443.65
+315,Germany,Natural Gas,174488.46
+316,Germany,Natural Gas,154317.67
+317,Germany,Natural Gas,151727.14
+318,Germany,Natural Gas,217493.2
+319,Germany,Natural Gas,184112.53
+320,Germany,Natural Gas,208613.37
+321,Germany,Natural Gas,187879.65
+322,Germany,Natural Gas,207910.35
+323,Germany,Natural Gas,172622.22
+324,Germany,Natural Gas,156061.69
+325,Germany,Natural Gas,241461.27
+326,Germany,Natural Gas,213649.44
+327,Germany,Natural Gas,208809.63
+328,Germany,Natural Gas,227520.64
+329,Germany,Natural Gas,241182.23
+330,Germany,Natural Gas,180849
+331,Germany,Natural Gas,180101.5
+332,Germany,Natural Gas,295323.02
+333,Germany,Natural Gas,370461.8
+334,Germany,Natural Gas,389541.76
+335,Germany,Natural Gas,389995.02
+336,Germany,Natural Gas,346157.81
+337,Germany,Natural Gas,312562.39
+338,Germany,Natural Gas,302883.72
+339,Germany,Natural Gas,354682.37
+340,Germany,Natural Gas,385028.32
+341,Germany,Natural Gas,361871.82
+342,Germany,Natural Gas,378192.01
+343,Germany,Natural Gas,398434.46
+344,Germany,Natural Gas,353723.11
+345,Germany,Natural Gas,339256.58
+346,Germany,Natural Gas,412897.82
+347,Germany,Natural Gas,440485.72
+348,Germany,Natural Gas,430230.71
+349,Germany,Natural Gas,431425.41
+350,Germany,Natural Gas,428235.74
+351,Germany,Natural Gas,333353.13
+352,Germany,Natural Gas,236141.35
+353,Germany,Natural Gas,286974.98
+354,Germany,Natural Gas,275294.38
+355,Germany,Natural Gas,237325.22
+356,Germany,Natural Gas,193941.13
+357,Germany,Natural Gas,217145.95
+358,Germany,Natural Gas,161016.61
+359,Germany,Natural Gas,149946.63
+360,Germany,Natural Gas,142937.46
+361,Germany,Natural Gas,150779.89
+362,Germany,Natural Gas,147411.64
+363,Germany,Natural Gas,143973.16
+364,Germany,Natural Gas,141077.43
+365,Germany,Natural Gas,5792.56
+274,Germany,Non-renewable waste,18933.23
+275,Germany,Non-renewable waste,30387.66
+276,Germany,Non-renewable waste,30097.42
+277,Germany,Non-renewable waste,30514.54
+278,Germany,Non-renewable waste,30372.31
+279,Germany,Non-renewable waste,30794.4
+280,Germany,Non-renewable waste,31040.03
+281,Germany,Non-renewable waste,31247.99
+282,Germany,Non-renewable waste,27765.2
+283,Germany,Non-renewable waste,29038.4
+284,Germany,Non-renewable waste,25143.88
+285,Germany,Non-renewable waste,25195
+286,Germany,Non-renewable waste,25224.58
+287,Germany,Non-renewable waste,24676.82
+288,Germany,Non-renewable waste,23408.6
+289,Germany,Non-renewable waste,22163.11
+290,Germany,Non-renewable waste,23678.1
+291,Germany,Non-renewable waste,24105.94
+292,Germany,Non-renewable waste,25238.81
+293,Germany,Non-renewable waste,25403.36
+294,Germany,Non-renewable waste,30845.54
+295,Germany,Non-renewable waste,31284.9
+296,Germany,Non-renewable waste,31242.62
+297,Germany,Non-renewable waste,31226.1
+298,Germany,Non-renewable waste,31011.22
+299,Germany,Non-renewable waste,30527.99
+300,Germany,Non-renewable waste,29033.77
+301,Germany,Non-renewable waste,29633.45
+302,Germany,Non-renewable waste,28250.32
+303,Germany,Non-renewable waste,19437.2
+304,Germany,Non-renewable waste,29477.78
+305,Germany,Non-renewable waste,28605.51
+306,Germany,Non-renewable waste,27266.99
+307,Germany,Non-renewable waste,29562.76
+308,Germany,Non-renewable waste,29220.58
+309,Germany,Non-renewable waste,28735.47
+310,Germany,Non-renewable waste,29203.3
+311,Germany,Non-renewable waste,29559.25
+312,Germany,Non-renewable waste,26913.32
+313,Germany,Non-renewable waste,26882.19
+314,Germany,Non-renewable waste,27351.95
+315,Germany,Non-renewable waste,26203.97
+316,Germany,Non-renewable waste,25141.16
+317,Germany,Non-renewable waste,24265.08
+318,Germany,Non-renewable waste,17949.15
+319,Germany,Non-renewable waste,17029.62
+320,Germany,Non-renewable waste,16522.17
+321,Germany,Non-renewable waste,22864.28
+322,Germany,Non-renewable waste,27657.94
+323,Germany,Non-renewable waste,26370.19
+324,Germany,Non-renewable waste,27350.42
+325,Germany,Non-renewable waste,27838.25
+326,Germany,Non-renewable waste,28471.37
+327,Germany,Non-renewable waste,30768.65
+328,Germany,Non-renewable waste,30510.7
+329,Germany,Non-renewable waste,31583.61
+330,Germany,Non-renewable waste,31232.23
+331,Germany,Non-renewable waste,29967.54
+332,Germany,Non-renewable waste,28349.89
+333,Germany,Non-renewable waste,21083.27
+334,Germany,Non-renewable waste,26573.89
+335,Germany,Non-renewable waste,29805.66
+336,Germany,Non-renewable waste,29184.07
+337,Germany,Non-renewable waste,29030.69
+338,Germany,Non-renewable waste,27995.46
+339,Germany,Non-renewable waste,29239.81
+340,Germany,Non-renewable waste,26115.66
+341,Germany,Non-renewable waste,175354.15
+342,Germany,Non-renewable waste,29107.22
+343,Germany,Non-renewable waste,28404.09
+344,Germany,Non-renewable waste,28828.11
+345,Germany,Non-renewable waste,28663.57
+346,Germany,Non-renewable waste,28986.47
+347,Germany,Non-renewable waste,27954.3
+348,Germany,Non-renewable waste,27317.75
+349,Germany,Non-renewable waste,27801.34
+350,Germany,Non-renewable waste,27477.65
+351,Germany,Non-renewable waste,27615.65
+352,Germany,Non-renewable waste,27591.8
+353,Germany,Non-renewable waste,28125.39
+354,Germany,Non-renewable waste,27145.14
+355,Germany,Non-renewable waste,26975.24
+356,Germany,Non-renewable waste,28939.2
+357,Germany,Non-renewable waste,29359.77
+358,Germany,Non-renewable waste,29799.54
+359,Germany,Non-renewable waste,30114.76
+360,Germany,Non-renewable waste,29610.02
+361,Germany,Non-renewable waste,28587.08
+362,Germany,Non-renewable waste,21191.7
+363,Germany,Non-renewable waste,27395.76
+364,Germany,Non-renewable waste,27213.93
+365,Germany,Non-renewable waste,1154.4
+274,Germany,Nuclear,52297.32
+275,Germany,Nuclear,94214.4
+276,Germany,Nuclear,96686.39
+277,Germany,Nuclear,96422.8
+278,Germany,Nuclear,95046.29
+279,Germany,Nuclear,93606.34
+280,Germany,Nuclear,96587.69
+281,Germany,Nuclear,96734.83
+282,Germany,Nuclear,97050.07
+283,Germany,Nuclear,96892.73
+284,Germany,Nuclear,96796.79
+285,Germany,Nuclear,96782.28
+286,Germany,Nuclear,96665.87
+287,Germany,Nuclear,96546.47
+288,Germany,Nuclear,96091.31
+289,Germany,Nuclear,95603.38
+290,Germany,Nuclear,95066.03
+291,Germany,Nuclear,96152.28
+292,Germany,Nuclear,96648.4
+293,Germany,Nuclear,96277.67
+294,Germany,Nuclear,64853.53
+295,Germany,Nuclear,63173.49
+296,Germany,Nuclear,63076.61
+297,Germany,Nuclear,62972.92
+298,Germany,Nuclear,63219.74
+299,Germany,Nuclear,63157.54
+300,Germany,Nuclear,62941.17
+301,Germany,Nuclear,62682.1
+302,Germany,Nuclear,68040.26
+303,Germany,Nuclear,75394.44
+304,Germany,Nuclear,91738.18
+305,Germany,Nuclear,93795.23
+306,Germany,Nuclear,96165.29
+307,Germany,Nuclear,96168.24
+308,Germany,Nuclear,96413.57
+309,Germany,Nuclear,96541.77
+310,Germany,Nuclear,96316.37
+311,Germany,Nuclear,95561.69
+312,Germany,Nuclear,95753.54
+313,Germany,Nuclear,95283.87
+314,Germany,Nuclear,95299.37
+315,Germany,Nuclear,95841.82
+316,Germany,Nuclear,95986.9
+317,Germany,Nuclear,95692.58
+318,Germany,Nuclear,95512.97
+319,Germany,Nuclear,94950.36
+320,Germany,Nuclear,94761.01
+321,Germany,Nuclear,94489.72
+322,Germany,Nuclear,94575.85
+323,Germany,Nuclear,94867.92
+324,Germany,Nuclear,94465.76
+325,Germany,Nuclear,94189.91
+326,Germany,Nuclear,93652.04
+327,Germany,Nuclear,93379.5
+328,Germany,Nuclear,92977.31
+329,Germany,Nuclear,92970.83
+330,Germany,Nuclear,92742.7
+331,Germany,Nuclear,92616.06
+332,Germany,Nuclear,89472.82
+333,Germany,Nuclear,92160.63
+334,Germany,Nuclear,91955.82
+335,Germany,Nuclear,89818.35
+336,Germany,Nuclear,90246.27
+337,Germany,Nuclear,86922.15
+338,Germany,Nuclear,86291.61
+339,Germany,Nuclear,89795.09
+340,Germany,Nuclear,89606.75
+341,Germany,Nuclear,86234.68
+342,Germany,Nuclear,88865.78
+343,Germany,Nuclear,87577.19
+344,Germany,Nuclear,89653.95
+345,Germany,Nuclear,89952.98
+346,Germany,Nuclear,89694.19
+347,Germany,Nuclear,89443.82
+348,Germany,Nuclear,89158.57
+349,Germany,Nuclear,88878.98
+350,Germany,Nuclear,88652.42
+351,Germany,Nuclear,88475.51
+352,Germany,Nuclear,88030.32
+353,Germany,Nuclear,87654.65
+354,Germany,Nuclear,87239.91
+355,Germany,Nuclear,86895.45
+356,Germany,Nuclear,86388.77
+357,Germany,Nuclear,85884.17
+358,Germany,Nuclear,85686.31
+359,Germany,Nuclear,85593.89
+360,Germany,Nuclear,85117.23
+361,Germany,Nuclear,85339.05
+362,Germany,Nuclear,84714.25
+363,Germany,Nuclear,83989.06
+364,Germany,Nuclear,83318.77
+365,Germany,Nuclear,3414.04
+274,Germany,Oil,738.72
+275,Germany,Oil,738.72
+276,Germany,Oil,738.72
+277,Germany,Oil,854.16
+278,Germany,Oil,738.72
+279,Germany,Oil,738.72
+280,Germany,Oil,2469.36
+281,Germany,Oil,738.72
+282,Germany,Oil,738.72
+283,Germany,Oil,738.72
+284,Germany,Oil,10595.43
+285,Germany,Oil,738.72
+286,Germany,Oil,762.78
+287,Germany,Oil,840.7
+288,Germany,Oil,738.72
+289,Germany,Oil,738.72
+290,Germany,Oil,772.39
+291,Germany,Oil,1146.63
+292,Germany,Oil,3532.41
+293,Germany,Oil,4133.65
+294,Germany,Oil,738.72
+295,Germany,Oil,738.72
+296,Germany,Oil,738.72
+297,Germany,Oil,738.72
+298,Germany,Oil,935.94
+299,Germany,Oil,924.41
+300,Germany,Oil,783.95
+301,Germany,Oil,1166.82
+302,Germany,Oil,738.72
+303,Germany,Oil,738.72
+304,Germany,Oil,738.72
+305,Germany,Oil,738.72
+306,Germany,Oil,999.44
+307,Germany,Oil,1947.97
+308,Germany,Oil,738.72
+309,Germany,Oil,738.72
+310,Germany,Oil,738.72
+311,Germany,Oil,738.72
+312,Germany,Oil,738.72
+313,Germany,Oil,738.72
+314,Germany,Oil,738.72
+315,Germany,Oil,738.72
+316,Germany,Oil,738.72
+317,Germany,Oil,738.72
+318,Germany,Oil,861.86
+319,Germany,Oil,4148.07
+320,Germany,Oil,7747.87
+321,Germany,Oil,5812.33
+322,Germany,Oil,738.72
+323,Germany,Oil,738.72
+324,Germany,Oil,738.72
+325,Germany,Oil,7877.75
+326,Germany,Oil,10752.22
+327,Germany,Oil,10603.12
+328,Germany,Oil,7381.36
+329,Germany,Oil,738.72
+330,Germany,Oil,994.62
+331,Germany,Oil,738.72
+332,Germany,Oil,19617.04
+333,Germany,Oil,15922.96
+334,Germany,Oil,11760.44
+335,Germany,Oil,11365.07
+336,Germany,Oil,9563.21
+337,Germany,Oil,6550.19
+338,Germany,Oil,11193.83
+339,Germany,Oil,15611.34
+340,Germany,Oil,13949.91
+341,Germany,Oil,30899.39
+342,Germany,Oil,16092.3
+343,Germany,Oil,18590.62
+344,Germany,Oil,738.72
+345,Germany,Oil,738.72
+346,Germany,Oil,14543.5
+347,Germany,Oil,12236.6
+348,Germany,Oil,20343.35
+349,Germany,Oil,18125.97
+350,Germany,Oil,9656.53
+351,Germany,Oil,2337.58
+352,Germany,Oil,738.72
+353,Germany,Oil,738.72
+354,Germany,Oil,3763.24
+355,Germany,Oil,738.72
+356,Germany,Oil,738.72
+357,Germany,Oil,738.72
+358,Germany,Oil,738.72
+359,Germany,Oil,738.72
+360,Germany,Oil,738.72
+361,Germany,Oil,738.72
+362,Germany,Oil,738.72
+363,Germany,Oil,738.72
+364,Germany,Oil,738.72
+365,Germany,Oil,30.78
+274,Germany,Other fossil fuel,13694.9
+275,Germany,Other fossil fuel,13809.56
+276,Germany,Other fossil fuel,13295.99
+277,Germany,Other fossil fuel,10720.24
+278,Germany,Other fossil fuel,10949.66
+279,Germany,Other fossil fuel,11197.98
+280,Germany,Other fossil fuel,11615.23
+281,Germany,Other fossil fuel,11535.7
+282,Germany,Other fossil fuel,11528.49
+283,Germany,Other fossil fuel,11682.22
+284,Germany,Other fossil fuel,11542.08
+285,Germany,Other fossil fuel,11583.45
+286,Germany,Other fossil fuel,11688.58
+287,Germany,Other fossil fuel,11637.52
+288,Germany,Other fossil fuel,11835.1
+289,Germany,Other fossil fuel,11707.7
+290,Germany,Other fossil fuel,11832.69
+291,Germany,Other fossil fuel,11582.66
+292,Germany,Other fossil fuel,11561.18
+293,Germany,Other fossil fuel,11975.12
+294,Germany,Other fossil fuel,12835.07
+295,Germany,Other fossil fuel,12509.42
+296,Germany,Other fossil fuel,11578.68
+297,Germany,Other fossil fuel,11795.19
+298,Germany,Other fossil fuel,13179.05
+299,Germany,Other fossil fuel,12573.91
+300,Germany,Other fossil fuel,12002.24
+301,Germany,Other fossil fuel,12417.02
+302,Germany,Other fossil fuel,14043.76
+303,Germany,Other fossil fuel,15158.39
+304,Germany,Other fossil fuel,18265.3
+305,Germany,Other fossil fuel,18340.93
+306,Germany,Other fossil fuel,16656.94
+307,Germany,Other fossil fuel,19102.9
+308,Germany,Other fossil fuel,20148.34
+309,Germany,Other fossil fuel,18489.83
+310,Germany,Other fossil fuel,14062.85
+311,Germany,Other fossil fuel,18350.46
+312,Germany,Other fossil fuel,19489.06
+313,Germany,Other fossil fuel,18891.09
+314,Germany,Other fossil fuel,19420.6
+315,Germany,Other fossil fuel,18602.63
+316,Germany,Other fossil fuel,18865.65
+317,Germany,Other fossil fuel,14749.93
+318,Germany,Other fossil fuel,16199.1
+319,Germany,Other fossil fuel,15592.41
+320,Germany,Other fossil fuel,13892.48
+321,Germany,Other fossil fuel,14149.66
+322,Germany,Other fossil fuel,17598.05
+323,Germany,Other fossil fuel,18163.37
+324,Germany,Other fossil fuel,16343.17
+325,Germany,Other fossil fuel,22836.36
+326,Germany,Other fossil fuel,22631.73
+327,Germany,Other fossil fuel,21013.04
+328,Germany,Other fossil fuel,21702.52
+329,Germany,Other fossil fuel,21028.14
+330,Germany,Other fossil fuel,16986.6
+331,Germany,Other fossil fuel,14928.39
+332,Germany,Other fossil fuel,19950.08
+333,Germany,Other fossil fuel,26446.45
+334,Germany,Other fossil fuel,25558.64
+335,Germany,Other fossil fuel,26481.44
+336,Germany,Other fossil fuel,27534.91
+337,Germany,Other fossil fuel,25870.8
+338,Germany,Other fossil fuel,25814.28
+339,Germany,Other fossil fuel,26567.47
+340,Germany,Other fossil fuel,27650.32
+341,Germany,Other fossil fuel,27585.83
+342,Germany,Other fossil fuel,27975.97
+343,Germany,Other fossil fuel,28588.25
+344,Germany,Other fossil fuel,28606.59
+345,Germany,Other fossil fuel,28597.77
+346,Germany,Other fossil fuel,28293.69
+347,Germany,Other fossil fuel,28908.35
+348,Germany,Other fossil fuel,26307.11
+349,Germany,Other fossil fuel,23627
+350,Germany,Other fossil fuel,24492.5
+351,Germany,Other fossil fuel,24176.39
+352,Germany,Other fossil fuel,20773.38
+353,Germany,Other fossil fuel,19777.33
+354,Germany,Other fossil fuel,17595.64
+355,Germany,Other fossil fuel,21046.46
+356,Germany,Other fossil fuel,24853.99
+357,Germany,Other fossil fuel,26118.36
+358,Germany,Other fossil fuel,21411.16
+359,Germany,Other fossil fuel,16574.09
+360,Germany,Other fossil fuel,16437.18
+361,Germany,Other fossil fuel,16619.46
+362,Germany,Other fossil fuel,16587.57
+363,Germany,Other fossil fuel,15983.33
+364,Germany,Other fossil fuel,16021.6
+365,Germany,Other fossil fuel,672.01
+274,Germany,Other renewables,3080.55
+275,Germany,Other renewables,7338.79
+276,Germany,Other renewables,7340.39
+277,Germany,Other renewables,7351.51
+278,Germany,Other renewables,7355.5
+279,Germany,Other renewables,7338
+280,Germany,Other renewables,7360.26
+281,Germany,Other renewables,7356.29
+282,Germany,Other renewables,7387.28
+283,Germany,Other renewables,7373.78
+284,Germany,Other renewables,7358.67
+285,Germany,Other renewables,7364.25
+286,Germany,Other renewables,7359.46
+287,Germany,Other renewables,7341.97
+288,Germany,Other renewables,7338
+289,Germany,Other renewables,7338
+290,Germany,Other renewables,7348.33
+291,Germany,Other renewables,7361.05
+292,Germany,Other renewables,7365.04
+293,Germany,Other renewables,7458.2
+294,Germany,Other renewables,7796.64
+295,Germany,Other renewables,7723.38
+296,Germany,Other renewables,7355.5
+297,Germany,Other renewables,7357.88
+298,Germany,Other renewables,8002.84
+299,Germany,Other renewables,7784.66
+300,Germany,Other renewables,7380.95
+301,Germany,Other renewables,7365.82
+302,Germany,Other renewables,7633.39
+303,Germany,Other renewables,3422.15
+304,Germany,Other renewables,9641.49
+305,Germany,Other renewables,8509.23
+306,Germany,Other renewables,8581.67
+307,Germany,Other renewables,8817.38
+308,Germany,Other renewables,9084.85
+309,Germany,Other renewables,8493.29
+310,Germany,Other renewables,7825.24
+311,Germany,Other renewables,8705.06
+312,Germany,Other renewables,9361.19
+313,Germany,Other renewables,9057.03
+314,Germany,Other renewables,8906.52
+315,Germany,Other renewables,8978.23
+316,Germany,Other renewables,9726.69
+317,Germany,Other renewables,9631.2
+318,Germany,Other renewables,9181.23
+319,Germany,Other renewables,8377.04
+320,Germany,Other renewables,8849.23
+321,Germany,Other renewables,8838.06
+322,Germany,Other renewables,9641.46
+323,Germany,Other renewables,9838.12
+324,Germany,Other renewables,9849.26
+325,Germany,Other renewables,10470.32
+326,Germany,Other renewables,10647.82
+327,Germany,Other renewables,10244.13
+328,Germany,Other renewables,10416.93
+329,Germany,Other renewables,10100.84
+330,Germany,Other renewables,8530.73
+331,Germany,Other renewables,8469.44
+332,Germany,Other renewables,9754.52
+333,Germany,Other renewables,12359.74
+334,Germany,Other renewables,12013.35
+335,Germany,Other renewables,12248.26
+336,Germany,Other renewables,12737.9
+337,Germany,Other renewables,12527.74
+338,Germany,Other renewables,12645.56
+339,Germany,Other renewables,11866.03
+340,Germany,Other renewables,12374.05
+341,Germany,Other renewables,12580.34
+342,Germany,Other renewables,12503.04
+343,Germany,Other renewables,12719.71
+344,Germany,Other renewables,12723.67
+345,Germany,Other renewables,12666.28
+346,Germany,Other renewables,12602.59
+347,Germany,Other renewables,12600.19
+348,Germany,Other renewables,10917.8
+349,Germany,Other renewables,9733.83
+350,Germany,Other renewables,9839.71
+351,Germany,Other renewables,9900.99
+352,Germany,Other renewables,9920.84
+353,Germany,Other renewables,9640.58
+354,Germany,Other renewables,6806.09
+355,Germany,Other renewables,7996.45
+356,Germany,Other renewables,11194.84
+357,Germany,Other renewables,11530.9
+358,Germany,Other renewables,10260.11
+359,Germany,Other renewables,8443.08
+360,Germany,Other renewables,8354.7
+361,Germany,Other renewables,8400.09
+362,Germany,Other renewables,8385.02
+363,Germany,Other renewables,8323.66
+364,Germany,Other renewables,8332.4
+365,Germany,Other renewables,347.15
+274,Germany,Pumped storage generation,30357.25
+275,Germany,Pumped storage generation,29306.25
+276,Germany,Pumped storage generation,47432.25
+277,Germany,Pumped storage generation,42411.25
+278,Germany,Pumped storage generation,34716.5
+279,Germany,Pumped storage generation,46874.5
+280,Germany,Pumped storage generation,47223.75
+281,Germany,Pumped storage generation,29012.75
+282,Germany,Pumped storage generation,25432.75
+283,Germany,Pumped storage generation,32840.75
+284,Germany,Pumped storage generation,38696.25
+285,Germany,Pumped storage generation,36015.5
+286,Germany,Pumped storage generation,38969.75
+287,Germany,Pumped storage generation,37582
+288,Germany,Pumped storage generation,18307.5
+289,Germany,Pumped storage generation,26654.75
+290,Germany,Pumped storage generation,33806.75
+291,Germany,Pumped storage generation,38057.75
+292,Germany,Pumped storage generation,36315
+293,Germany,Pumped storage generation,34277.75
+294,Germany,Pumped storage generation,33603.25
+295,Germany,Pumped storage generation,21297
+296,Germany,Pumped storage generation,15156.25
+297,Germany,Pumped storage generation,23522.5
+298,Germany,Pumped storage generation,33816
+299,Germany,Pumped storage generation,26325
+300,Germany,Pumped storage generation,31428
+301,Germany,Pumped storage generation,25681.25
+302,Germany,Pumped storage generation,21717.5
+303,Germany,Pumped storage generation,29756
+304,Germany,Pumped storage generation,36705.25
+305,Germany,Pumped storage generation,27106.5
+306,Germany,Pumped storage generation,35865.25
+307,Germany,Pumped storage generation,26603.5
+308,Germany,Pumped storage generation,42453.5
+309,Germany,Pumped storage generation,19053.75
+310,Germany,Pumped storage generation,30020.25
+311,Germany,Pumped storage generation,40289.5
+312,Germany,Pumped storage generation,36681
+313,Germany,Pumped storage generation,35767
+314,Germany,Pumped storage generation,37000.25
+315,Germany,Pumped storage generation,34009.33
+316,Germany,Pumped storage generation,32342.5
+317,Germany,Pumped storage generation,18249
+318,Germany,Pumped storage generation,38828.25
+319,Germany,Pumped storage generation,40145.25
+320,Germany,Pumped storage generation,37601.25
+321,Germany,Pumped storage generation,35029.5
+322,Germany,Pumped storage generation,45063.75
+323,Germany,Pumped storage generation,37120.5
+324,Germany,Pumped storage generation,21202.75
+325,Germany,Pumped storage generation,52361.5
+326,Germany,Pumped storage generation,42551.25
+327,Germany,Pumped storage generation,32127.5
+328,Germany,Pumped storage generation,43327.75
+329,Germany,Pumped storage generation,32261.25
+330,Germany,Pumped storage generation,28601
+331,Germany,Pumped storage generation,20400.25
+332,Germany,Pumped storage generation,46345
+333,Germany,Pumped storage generation,41041.75
+334,Germany,Pumped storage generation,39254.25
+335,Germany,Pumped storage generation,45368.75
+336,Germany,Pumped storage generation,27262.75
+337,Germany,Pumped storage generation,26713.75
+338,Germany,Pumped storage generation,15356
+339,Germany,Pumped storage generation,41777
+340,Germany,Pumped storage generation,37111
+341,Germany,Pumped storage generation,27989.5
+342,Germany,Pumped storage generation,40532.5
+343,Germany,Pumped storage generation,43400.5
+344,Germany,Pumped storage generation,19918.75
+345,Germany,Pumped storage generation,22997.25
+346,Germany,Pumped storage generation,48920
+347,Germany,Pumped storage generation,50499.75
+348,Germany,Pumped storage generation,56110.75
+349,Germany,Pumped storage generation,43968.5
+350,Germany,Pumped storage generation,52938.75
+351,Germany,Pumped storage generation,25909.75
+352,Germany,Pumped storage generation,17417.25
+353,Germany,Pumped storage generation,27377
+354,Germany,Pumped storage generation,40876
+355,Germany,Pumped storage generation,26580.25
+356,Germany,Pumped storage generation,21858.25
+357,Germany,Pumped storage generation,41567.25
+358,Germany,Pumped storage generation,44688
+359,Germany,Pumped storage generation,32699
+360,Germany,Pumped storage generation,20346.75
+361,Germany,Pumped storage generation,43045.75
+362,Germany,Pumped storage generation,36374
+363,Germany,Pumped storage generation,42979.75
+364,Germany,Pumped storage generation,29884.5
+365,Germany,Pumped storage generation,1
+274,Germany,Run-of-River Hydro,47002.73
+275,Germany,Run-of-River Hydro,52843.32
+276,Germany,Run-of-River Hydro,62078.56
+277,Germany,Run-of-River Hydro,62597.32
+278,Germany,Run-of-River Hydro,57006.18
+279,Germany,Run-of-River Hydro,52282.83
+280,Germany,Run-of-River Hydro,51609.38
+281,Germany,Run-of-River Hydro,48614.12
+282,Germany,Run-of-River Hydro,45102.52
+283,Germany,Run-of-River Hydro,43886.68
+284,Germany,Run-of-River Hydro,44193.3
+285,Germany,Run-of-River Hydro,45778.71
+286,Germany,Run-of-River Hydro,44693.59
+287,Germany,Run-of-River Hydro,47336.04
+288,Germany,Run-of-River Hydro,47353.81
+289,Germany,Run-of-River Hydro,42169.19
+290,Germany,Run-of-River Hydro,38092.29
+291,Germany,Run-of-River Hydro,39039.46
+292,Germany,Run-of-River Hydro,38156.24
+293,Germany,Run-of-River Hydro,36323.13
+294,Germany,Run-of-River Hydro,37387.35
+295,Germany,Run-of-River Hydro,41397.56
+296,Germany,Run-of-River Hydro,40580.39
+297,Germany,Run-of-River Hydro,41828.76
+298,Germany,Run-of-River Hydro,55044.7
+299,Germany,Run-of-River Hydro,50558.47
+300,Germany,Run-of-River Hydro,50176.6
+301,Germany,Run-of-River Hydro,47755.91
+302,Germany,Run-of-River Hydro,46058.94
+303,Germany,Run-of-River Hydro,43212.9
+304,Germany,Run-of-River Hydro,45389.96
+305,Germany,Run-of-River Hydro,42699.6
+306,Germany,Run-of-River Hydro,39186.28
+307,Germany,Run-of-River Hydro,40166.34
+308,Germany,Run-of-River Hydro,45191.15
+309,Germany,Run-of-River Hydro,43287.53
+310,Germany,Run-of-River Hydro,39125.71
+311,Germany,Run-of-River Hydro,38540.9
+312,Germany,Run-of-River Hydro,37450.99
+313,Germany,Run-of-River Hydro,38739.02
+314,Germany,Run-of-River Hydro,41996.38
+315,Germany,Run-of-River Hydro,40001.07
+316,Germany,Run-of-River Hydro,39080.56
+317,Germany,Run-of-River Hydro,37076.98
+318,Germany,Run-of-River Hydro,35979.21
+319,Germany,Run-of-River Hydro,39452.17
+320,Germany,Run-of-River Hydro,39185.25
+321,Germany,Run-of-River Hydro,37482.88
+322,Germany,Run-of-River Hydro,38187.43
+323,Germany,Run-of-River Hydro,41579.94
+324,Germany,Run-of-River Hydro,37395.22
+325,Germany,Run-of-River Hydro,37201.9
+326,Germany,Run-of-River Hydro,41015.66
+327,Germany,Run-of-River Hydro,42615.43
+328,Germany,Run-of-River Hydro,43200.91
+329,Germany,Run-of-River Hydro,42641.1
+330,Germany,Run-of-River Hydro,39620.53
+331,Germany,Run-of-River Hydro,36148.93
+332,Germany,Run-of-River Hydro,35766.02
+333,Germany,Run-of-River Hydro,40471.9
+334,Germany,Run-of-River Hydro,42434.77
+335,Germany,Run-of-River Hydro,39411.08
+336,Germany,Run-of-River Hydro,37509.53
+337,Germany,Run-of-River Hydro,34868.46
+338,Germany,Run-of-River Hydro,31050.59
+339,Germany,Run-of-River Hydro,32974.4
+340,Germany,Run-of-River Hydro,36870.31
+341,Germany,Run-of-River Hydro,35050.85
+342,Germany,Run-of-River Hydro,32991.82
+343,Germany,Run-of-River Hydro,36605.09
+344,Germany,Run-of-River Hydro,34279.87
+345,Germany,Run-of-River Hydro,31594.33
+346,Germany,Run-of-River Hydro,32403.61
+347,Germany,Run-of-River Hydro,34941.67
+348,Germany,Run-of-River Hydro,36900.09
+349,Germany,Run-of-River Hydro,37576.6
+350,Germany,Run-of-River Hydro,39348.83
+351,Germany,Run-of-River Hydro,35828.27
+352,Germany,Run-of-River Hydro,32408.05
+353,Germany,Run-of-River Hydro,32088.46
+354,Germany,Run-of-River Hydro,33227.95
+355,Germany,Run-of-River Hydro,34526.25
+356,Germany,Run-of-River Hydro,36140.05
+357,Germany,Run-of-River Hydro,45544.98
+358,Germany,Run-of-River Hydro,54531.04
+359,Germany,Run-of-River Hydro,49207.15
+360,Germany,Run-of-River Hydro,45026.2
+361,Germany,Run-of-River Hydro,46956.88
+362,Germany,Run-of-River Hydro,45581.25
+363,Germany,Run-of-River Hydro,42309.48
+364,Germany,Run-of-River Hydro,42142.86
+365,Germany,Run-of-River Hydro,1677.45
+274,Germany,Solar,64145.21
+275,Germany,Solar,97839.73
+276,Germany,Solar,140971.17
+277,Germany,Solar,185590.76
+278,Germany,Solar,177817.76
+279,Germany,Solar,187186.75
+280,Germany,Solar,186238.21
+281,Germany,Solar,120746.54
+282,Germany,Solar,194115.33
+283,Germany,Solar,165874.63
+284,Germany,Solar,144688.87
+285,Germany,Solar,152214.72
+286,Germany,Solar,87660.06
+287,Germany,Solar,80771.21
+288,Germany,Solar,82138.36
+289,Germany,Solar,134601.79
+290,Germany,Solar,149696.98
+291,Germany,Solar,96933.85
+292,Germany,Solar,110456.89
+293,Germany,Solar,119419.65
+294,Germany,Solar,56778.99
+295,Germany,Solar,111756.4
+296,Germany,Solar,108105.49
+297,Germany,Solar,61472.91
+298,Germany,Solar,108985.64
+299,Germany,Solar,108436.34
+300,Germany,Solar,145958.07
+301,Germany,Solar,114403.75
+302,Germany,Solar,98860.45
+303,Germany,Solar,135113.78
+304,Germany,Solar,92102.26
+305,Germany,Solar,81935.23
+306,Germany,Solar,102624.34
+307,Germany,Solar,83892.7
+308,Germany,Solar,43807.92
+309,Germany,Solar,80692.6
+310,Germany,Solar,100350.21
+311,Germany,Solar,73864.66
+312,Germany,Solar,107104.88
+313,Germany,Solar,60839.38
+314,Germany,Solar,97975.22
+315,Germany,Solar,77032.31
+316,Germany,Solar,73649.99
+317,Germany,Solar,96179.82
+318,Germany,Solar,82100.26
+319,Germany,Solar,90298.29
+320,Germany,Solar,38312.76
+321,Germany,Solar,32184.09
+322,Germany,Solar,29865.44
+323,Germany,Solar,45353.48
+324,Germany,Solar,39213.8
+325,Germany,Solar,50926.69
+326,Germany,Solar,32779.51
+327,Germany,Solar,72448.95
+328,Germany,Solar,40241.8
+329,Germany,Solar,46322.43
+330,Germany,Solar,40388.84
+331,Germany,Solar,50989.76
+332,Germany,Solar,23163.64
+333,Germany,Solar,15700.84
+334,Germany,Solar,18688.95
+335,Germany,Solar,17216.9
+336,Germany,Solar,8656.37
+337,Germany,Solar,8434.98
+338,Germany,Solar,11699.21
+339,Germany,Solar,9425.91
+340,Germany,Solar,15370.78
+341,Germany,Solar,30815.87
+342,Germany,Solar,28170.94
+343,Germany,Solar,22249.95
+344,Germany,Solar,15353.88
+345,Germany,Solar,12340.25
+346,Germany,Solar,26930.71
+347,Germany,Solar,35855.64
+348,Germany,Solar,16663.05
+349,Germany,Solar,22229.05
+350,Germany,Solar,17585.04
+351,Germany,Solar,16533.19
+352,Germany,Solar,18080.65
+353,Germany,Solar,6983.56
+354,Germany,Solar,12674.34
+355,Germany,Solar,15108.08
+356,Germany,Solar,20325.22
+357,Germany,Solar,13216.35
+358,Germany,Solar,30446.11
+359,Germany,Solar,40572.91
+360,Germany,Solar,16938.09
+361,Germany,Solar,54590.21
+362,Germany,Solar,34360.8
+363,Germany,Solar,34626.44
+364,Germany,Solar,54011.15
+365,Germany,Solar,0
+274,Germany,Wind offshore,131186.7
+275,Germany,Wind offshore,145290.34
+276,Germany,Wind offshore,61199.33
+277,Germany,Wind offshore,108323.51
+278,Germany,Wind offshore,129380.23
+279,Germany,Wind offshore,108163.82
+280,Germany,Wind offshore,113361.91
+281,Germany,Wind offshore,109105.84
+282,Germany,Wind offshore,66003.22
+283,Germany,Wind offshore,111936.26
+284,Germany,Wind offshore,57777.17
+285,Germany,Wind offshore,42773.14
+286,Germany,Wind offshore,39876.8
+287,Germany,Wind offshore,32219.02
+288,Germany,Wind offshore,79279.06
+289,Germany,Wind offshore,90574.06
+290,Germany,Wind offshore,95067.14
+291,Germany,Wind offshore,89296.49
+292,Germany,Wind offshore,45960.57
+293,Germany,Wind offshore,114678.93
+294,Germany,Wind offshore,22283
+295,Germany,Wind offshore,52669.74
+296,Germany,Wind offshore,68298.67
+297,Germany,Wind offshore,119733.78
+298,Germany,Wind offshore,95591.47
+299,Germany,Wind offshore,75894.28
+300,Germany,Wind offshore,96276.8
+301,Germany,Wind offshore,69295.26
+302,Germany,Wind offshore,33387.98
+303,Germany,Wind offshore,31177.94
+304,Germany,Wind offshore,51394.18
+305,Germany,Wind offshore,136978.89
+306,Germany,Wind offshore,129913.92
+307,Germany,Wind offshore,129458.02
+308,Germany,Wind offshore,117565.93
+309,Germany,Wind offshore,97752.24
+310,Germany,Wind offshore,109972.36
+311,Germany,Wind offshore,113845.81
+312,Germany,Wind offshore,117691.29
+313,Germany,Wind offshore,124348.91
+314,Germany,Wind offshore,143300.18
+315,Germany,Wind offshore,144265.86
+316,Germany,Wind offshore,30651.1
+317,Germany,Wind offshore,48021.77
+318,Germany,Wind offshore,102964.23
+319,Germany,Wind offshore,97830.07
+320,Germany,Wind offshore,115682.63
+321,Germany,Wind offshore,75563.25
+322,Germany,Wind offshore,120693.24
+323,Germany,Wind offshore,61148.55
+324,Germany,Wind offshore,20746.14
+325,Germany,Wind offshore,54583.65
+326,Germany,Wind offshore,147066.74
+327,Germany,Wind offshore,119723.39
+328,Germany,Wind offshore,94641.62
+329,Germany,Wind offshore,83869.17
+330,Germany,Wind offshore,56738.31
+331,Germany,Wind offshore,113908.77
+332,Germany,Wind offshore,80481.36
+333,Germany,Wind offshore,26693.98
+334,Germany,Wind offshore,28401.37
+335,Germany,Wind offshore,36289.63
+336,Germany,Wind offshore,110650.81
+337,Germany,Wind offshore,129785.79
+338,Germany,Wind offshore,120457.21
+339,Germany,Wind offshore,113222.19
+340,Germany,Wind offshore,54711.25
+341,Germany,Wind offshore,92525.86
+342,Germany,Wind offshore,28210.89
+343,Germany,Wind offshore,54513.65
+344,Germany,Wind offshore,45266.69
+345,Germany,Wind offshore,50769.32
+346,Germany,Wind offshore,40301.08
+347,Germany,Wind offshore,74747.82
+348,Germany,Wind offshore,71165.67
+349,Germany,Wind offshore,81547.18
+350,Germany,Wind offshore,30665
+351,Germany,Wind offshore,115367.01
+352,Germany,Wind offshore,115958.3
+353,Germany,Wind offshore,135594.39
+354,Germany,Wind offshore,111315.89
+355,Germany,Wind offshore,96754.88
+356,Germany,Wind offshore,97179.89
+357,Germany,Wind offshore,37899.78
+358,Germany,Wind offshore,51256.22
+359,Germany,Wind offshore,78758
+360,Germany,Wind offshore,120323.31
+361,Germany,Wind offshore,138701.47
+362,Germany,Wind offshore,142419.54
+363,Germany,Wind offshore,108914.09
+364,Germany,Wind offshore,121991.55
+365,Germany,Wind offshore,4006.41
+274,Germany,Wind onshore,623921.96
+275,Germany,Wind onshore,444714.07
+276,Germany,Wind onshore,278501.4
+277,Germany,Wind onshore,209279.16
+278,Germany,Wind onshore,515989.7
+279,Germany,Wind onshore,406118.97
+280,Germany,Wind onshore,286029.58
+281,Germany,Wind onshore,331991.13
+282,Germany,Wind onshore,223610.13
+283,Germany,Wind onshore,307131.98
+284,Germany,Wind onshore,108233.53
+285,Germany,Wind onshore,72528.98
+286,Germany,Wind onshore,134822.77
+287,Germany,Wind onshore,137308.09
+288,Germany,Wind onshore,273774.82
+289,Germany,Wind onshore,276183.79
+290,Germany,Wind onshore,282843.6
+291,Germany,Wind onshore,134765.39
+292,Germany,Wind onshore,171190.14
+293,Germany,Wind onshore,421704.99
+294,Germany,Wind onshore,221337.61
+295,Germany,Wind onshore,208891.54
+296,Germany,Wind onshore,283650.91
+297,Germany,Wind onshore,608217.48
+298,Germany,Wind onshore,314240.5
+299,Germany,Wind onshore,199828.53
+300,Germany,Wind onshore,257902.6
+301,Germany,Wind onshore,343498.4
+302,Germany,Wind onshore,136070.05
+303,Germany,Wind onshore,130948.36
+304,Germany,Wind onshore,143697.96
+305,Germany,Wind onshore,473661.2
+306,Germany,Wind onshore,549264.74
+307,Germany,Wind onshore,484392.43
+308,Germany,Wind onshore,247294.54
+309,Germany,Wind onshore,271042.06
+310,Germany,Wind onshore,508444.42
+311,Germany,Wind onshore,579064.28
+312,Germany,Wind onshore,534435.19
+313,Germany,Wind onshore,545080.82
+314,Germany,Wind onshore,457526.99
+315,Germany,Wind onshore,353831.73
+316,Germany,Wind onshore,91429.99
+317,Germany,Wind onshore,240685.86
+318,Germany,Wind onshore,353036.43
+319,Germany,Wind onshore,285321.2
+320,Germany,Wind onshore,442686.68
+321,Germany,Wind onshore,679863.76
+322,Germany,Wind onshore,321505.79
+323,Germany,Wind onshore,137111.05
+324,Germany,Wind onshore,151959.86
+325,Germany,Wind onshore,222998.35
+326,Germany,Wind onshore,363866.62
+327,Germany,Wind onshore,346067.66
+328,Germany,Wind onshore,261106.13
+329,Germany,Wind onshore,232158.75
+330,Germany,Wind onshore,151222.38
+331,Germany,Wind onshore,314712.8
+332,Germany,Wind onshore,285481.94
+333,Germany,Wind onshore,73019.78
+334,Germany,Wind onshore,62846.22
+335,Germany,Wind onshore,67873.8
+336,Germany,Wind onshore,201510.52
+337,Germany,Wind onshore,153033.14
+338,Germany,Wind onshore,187175.59
+339,Germany,Wind onshore,125469.52
+340,Germany,Wind onshore,107624.02
+341,Germany,Wind onshore,298404.8
+342,Germany,Wind onshore,152204.5
+343,Germany,Wind onshore,58005.69
+344,Germany,Wind onshore,36749.06
+345,Germany,Wind onshore,35686.27
+346,Germany,Wind onshore,75412.75
+347,Germany,Wind onshore,156967.37
+348,Germany,Wind onshore,151123.95
+349,Germany,Wind onshore,163378.25
+350,Germany,Wind onshore,71115.88
+351,Germany,Wind onshore,82138.39
+352,Germany,Wind onshore,330680.7
+353,Germany,Wind onshore,589742.2
+354,Germany,Wind onshore,577475.41
+355,Germany,Wind onshore,366550.8
+356,Germany,Wind onshore,415848.56
+357,Germany,Wind onshore,291781.62
+358,Germany,Wind onshore,375268.69
+359,Germany,Wind onshore,303042.99
+360,Germany,Wind onshore,603719.03
+361,Germany,Wind onshore,564592.84
+362,Germany,Wind onshore,706565.65
+363,Germany,Wind onshore,746972.48
+364,Germany,Wind onshore,666745.04
+365,Germany,Wind onshore,28356.15
